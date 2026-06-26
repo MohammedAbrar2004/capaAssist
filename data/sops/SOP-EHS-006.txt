@@ -1,0 +1,54 @@
+SOP ID: SOP-EHS-006
+Title: Forklift Truck Safe Operation and Pre-Use Inspection
+Version: 4.1
+Effective Date: 2024-04-01
+Review Date: 2026-04-01
+Owner: Group EHS
+Applicable Sites: Sites 1, 2, 4, 5, 8, 10 (all sites with forklift operations)
+Regulatory Reference: ISO 45001:2018 Clause 8.1; OSHA 29 CFR 1910.178; PUWER 1998
+
+PURPOSE
+To prevent forklift-related injuries and property damage by establishing operator competency requirements, pre-use inspection standards, and safe operating rules.
+
+SCOPE
+All powered industrial trucks: counterbalance forklifts, reach trucks, order pickers, pallet trucks (ride-on), and tow tractors operated at any AcerTech site.
+
+OPERATOR REQUIREMENTS
+Operators must: hold a current AcerTech forklift operator certificate (site-specific); be assessed as competent on the specific truck type; be minimum 18 years of age; not be under the influence of alcohol, drugs, or medication affecting alertness.
+Operator certificates renewed every 3 years. Site Supervisor signs off familiarity with site-specific hazards (pedestrian routes, racking layout, floor load limits) before first operation at a new site.
+
+PRE-USE INSPECTION (every shift, completed before operation)
+Record on EHS-FORM-022 or digital equivalent. Do not operate the truck if any item is marked fail — report to Maintenance immediately.
+
+Walk-Around Check:
+[ ] Tyres — correct pressure (pneumatic), no cuts or flat spots (solid)
+[ ] Forks — no cracks at heel, correct set, retaining pins present, tips level
+[ ] Mast — no cracked welds, chains equal tension and properly lubricated
+[ ] Overhead Guard — secure, no cracks or missing bolts
+[ ] Seatbelt / Operator Restraint — functional and retracts correctly
+[ ] Lights and Horn — operational
+[ ] Fluid Levels (if applicable) — engine oil, coolant, hydraulic fluid, battery water
+[ ] Battery / Fuel — sufficient charge/fuel for full shift; no electrolyte leaks on electric trucks
+
+Operational Check (at low speed in clear area):
+[ ] Steering — responsive, no excessive play
+[ ] Brakes (service and parking) — effective
+[ ] Lift / Tilt / Reach Functions — smooth, no hydraulic drift over 30 seconds
+[ ] Horn — audible within 5 m in typical site noise
+
+SAFE OPERATING RULES
+1. Pedestrian priority: Stop and give way at all pedestrian crossings and blind corners.
+2. Speed limit: Maximum 8 km/h in operating areas; 5 km/h near pedestrians.
+3. Load stability: Carry loads low (150–300 mm above floor) when travelling. Never travel with load raised.
+4. Racking: Approach racking at right angles. Ensure adequate aisle width before entering.
+5. Slopes: Travel with load facing uphill on gradients above 5%. No cross-slope travel.
+6. Capacity: Never exceed rated capacity on data plate. Reduce capacity for non-standard attachments.
+7. Passengers: Never carry passengers on forks or any part of the truck not designed for passenger transport.
+8. Refuelling/Charging: Refuel only at designated areas. Battery charging in designated ventilated charging bay only.
+9. Parking: Apply parking brake; lower forks; turn off. Do not park blocking emergency exits or fire equipment.
+
+PEDESTRIAN SEGREGATION REQUIREMENTS
+All forklift operating areas must have marked pedestrian walkways (100 mm yellow paint or permanent barrier). Forklift and pedestrian routes must be segregated wherever practicable. Temporary shared-use areas require a traffic management plan signed off by the Site EHS Officer.
+
+INCIDENT REPORTING
+Any forklift incident (including near misses, racking strikes, dropped loads) reported to the supervisor within 30 minutes and logged in the EHS incident system. Forklift involved in a personal injury incident is taken out of service pending investigation.

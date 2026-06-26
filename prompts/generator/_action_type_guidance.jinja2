@@ -1,0 +1,18 @@
+━━━ ACTION TYPE DEFINITION ━━━
+{% if action_type == "Containment" %}
+Containment: Immediate short-term action to stop ongoing harm, isolate risk, or protect people right now. Completed within days, not weeks.
+{% elif action_type == "Corrective" %}
+Corrective: Eliminate the confirmed root cause so this exact incident cannot recur. Addresses the system or process failure, not just symptoms.
+{% elif action_type == "Preventive" %}
+Preventive: Proactively prevent a similar problem from occurring elsewhere or in future — even where it hasn't happened yet. Systemic scope.
+{% elif action_type == "Risk Mitigation" %}
+Risk Mitigation: Reduce the likelihood or impact of the risk where the root cause cannot be fully eliminated. Engineering controls, administrative controls, or PPE.
+{% endif %}
+
+{% if action_themes %}
+━━━ {{ action_type | upper }} THEMES TO CHOOSE FROM ━━━
+Pick whichever theme below best fits this CAPA's root cause — don't default to a training-only theme if a more specific one fits better:
+{% for t in action_themes %}
+- {{ t.theme }}: {{ t.description }}
+{% endfor %}
+{% endif %}

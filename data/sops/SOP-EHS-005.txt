@@ -1,0 +1,54 @@
+SOP ID: SOP-EHS-005
+Title: Chemical Spill Response and Hazardous Materials Handling
+Version: 2.4
+Effective Date: 2023-11-01
+Review Date: 2025-11-01
+Owner: Group EHS
+Applicable Sites: Sites 3, 7 (primary); all sites with chemical storage
+Regulatory Reference: ISO 14001:2015 Clause 8.1; OSHA 29 CFR 1910.119; COSHH Regulations 2002
+
+PURPOSE
+To prevent harm to people and the environment from chemical spills and to establish a consistent response procedure that limits exposure and environmental release.
+
+SCOPE
+All hazardous chemicals stored or used at AcerTech sites, including flammable liquids, acids, alkalis, oxidisers, toxic gases, and environmental pollutants. Applies to small spills (manageable by site personnel) and large spills (requiring emergency services).
+
+SPILL CLASSIFICATION
+Minor Spill: Less than 5 litres, known chemical, no vapour hazard, contained within spill tray. Manageable by trained site personnel.
+Major Spill: Greater than 5 litres, unknown chemical, vapour or fire hazard, uncontained, or involving drain or watercourse risk. Requires EHS Officer and potentially emergency services.
+
+RESPONSIBILITIES
+- All Employees: Report any spill immediately. Do not attempt to clean up if classification is unclear.
+- EHS Officer: Leads response for major spills; authorises use of spill response materials.
+- Chemical Handling Supervisor: Ensures spill kits are stocked and inspected monthly; provides chemical-specific response guidance.
+- Environmental Manager (Group): Notified of any spill reaching a drain or watercourse within 1 hour.
+
+MINOR SPILL PROCEDURE
+Step 1 — Alert: Warn others in the immediate area. Do not allow spread.
+Step 2 — PPE: Don appropriate PPE per the chemical's Safety Data Sheet (SDS): minimum chemical-resistant gloves and safety glasses; add face shield or chemical apron if splash risk.
+Step 3 — Contain: Use absorbent boom or sock to ring the spill. Prevent flow to drains.
+Step 4 — Absorb: Apply appropriate absorbent (universal, acid neutraliser, or alkali neutraliser per SDS). Work from outside the spill inward.
+Step 5 — Collect: Place contaminated absorbent in a labelled waste bag or drum. Do not mix incompatible waste streams.
+Step 6 — Decontaminate: Clean affected area with appropriate neutraliser and water. Check area with pH paper if acid or alkali involved.
+Step 7 — Report: Complete spill report form EHS-FORM-044. Notify EHS Officer within 30 minutes.
+
+MAJOR SPILL PROCEDURE
+Step 1 — Evacuate: Activate site alarm. Evacuate all personnel from affected area upwind.
+Step 2 — Notify: Call emergency services (fire brigade) for fire, explosion, or toxic atmosphere risk. Call EHS Officer immediately.
+Step 3 — Isolate Source: Only if safe and accessible without entering the hazard zone — isolate the source (valve, pump stop). Do not enter a chemical atmosphere without supplied-air SCBA.
+Step 4 — Prevent Environmental Spread: Deploy drain plugs or storm drain covers only if safe to do so from outside the spill zone.
+Step 5 — Ventilate: If indoors, activate emergency ventilation.
+Step 6 — Emergency Services Handover: Provide SDS to incident commander on arrival.
+
+SPILL KIT CONTENTS (minimum per kit)
+- 20 litres universal absorbent granules
+- 5 absorbent pads (400 x 500 mm)
+- 2 absorbent booms (3 m)
+- 1 pair chemical-resistant gloves (nitrile, 0.3 mm minimum)
+- 1 pair safety glasses
+- 5 waste collection bags with ties and labels
+- 1 copy of relevant SDS summaries
+- Inspection record card (monthly)
+
+POST-INCIDENT REPORTING
+All major spills reported to Group EHS within 24 hours. Environmental incident register updated. Regulatory notification completed if discharge to controlled waters or land.

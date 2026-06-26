@@ -1,0 +1,30 @@
+REGULATORY REFERENCE: REG-OSHA1910-001
+Standard: OSHA 29 CFR 1910.147
+Title: The Control of Hazardous Energy (Lockout/Tagout)
+Issuing Body: Occupational Safety and Health Administration, US Department of Labor
+Applicability to AcerTech: Used as international best-practice reference for LOTO programme design alongside ISO 45001:2018 Clause 8.1.2
+
+PURPOSE OF THE STANDARD
+29 CFR 1910.147 establishes requirements for the control of hazardous energy during the servicing and maintenance of machines or equipment. The standard applies to the unexpected energisation or start up of machines or equipment, or release of stored energy, which could cause injury to employees.
+
+KEY DEFINITIONS
+Hazardous Energy: Electrical, mechanical, hydraulic, pneumatic, chemical, thermal, or other energy that could cause injury.
+Lockout: The placement of a lockout device on an energy-isolating device, in accordance with an established procedure, ensuring that the machine or equipment cannot be operated until the lockout device is removed.
+Tagout: The placement of a tagout device on an energy-isolating device, in accordance with an established procedure, to indicate that the machine cannot be operated until the tagout device is removed.
+Energy-Isolating Device: A mechanical device that physically prevents the transmission or release of energy.
+Affected Employee: An employee whose job requires them to operate or use a machine or equipment on which servicing or maintenance is being performed under lockout/tagout, or whose job requires them to work in an area in which such servicing is performed.
+
+REQUIREMENTS
+Energy Control Programme: Employer must establish a written energy control programme covering: scope, purpose, rules, and techniques to be used; means to enforce compliance; periodic inspection.
+Energy Control Procedures: Written procedures for each machine with unexpected energisation risk. Must contain: steps to shut down, isolate, block, and secure machines; steps to place, remove, and transfer LOTO devices; requirements to test to verify isolation.
+Training: Authorised employees trained in the recognition of applicable hazardous energy sources, type and magnitude of energy, and methods and means necessary for energy isolation and control. Affected employees trained in purpose and use of LOTO/TAGOUT procedures.
+Periodic Inspection: Annual inspection of each energy control procedure by an authorised employee (other than the one using the procedure). Certification of inspection required.
+
+TAGOUT LIMITATIONS
+Tagout provides less protection than lockout. Where lockout is feasible, lockout is preferred. Tagout may only be used where the equipment design does not allow application of a lock. Full tagout programmes require additional training, training documentation, and communication to affected employees.
+
+RETRAINING
+Retraining required whenever: there is reason to believe that an employee does not have the required knowledge or skill; new equipment or materials are introduced; a change in energy control procedures occurs; any periodic inspection reveals inadequacies.
+
+APPLICABILITY TO ACERTECH CAPA SYSTEM
+LOTO-related incidents (unexpected machine start-up, energy release during maintenance) indicate a failure in the energy control programme. Root cause categories: Equipment Fault (LOTO device failure), Process Failure (procedure not followed), Training Gap (authorised employee not trained), Management System Weakness (annual inspection not conducted). Corrective actions must address the energy control procedure, not just retrain the individual.

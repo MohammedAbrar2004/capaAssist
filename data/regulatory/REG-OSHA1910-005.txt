@@ -1,0 +1,40 @@
+REGULATORY REFERENCE: REG-OSHA1910-005
+Standard: OSHA 29 CFR 1910.95
+Title: Occupational Noise Exposure
+Issuing Body: Occupational Safety and Health Administration, US Department of Labor
+Applicability to AcerTech: Noise control and hearing conservation programme reference for manufacturing sites
+
+PURPOSE OF THE STANDARD
+29 CFR 1910.95 establishes permissible noise exposure limits, requires monitoring, mandates hearing conservation programmes for exposed employees, and sets standards for audiometric testing and hearing protection. Occupational noise-induced hearing loss is irreversible — prevention is the only cure.
+
+PERMISSIBLE NOISE EXPOSURES (Table G-16)
+The following 8-hour time-weighted average (TWA) exposures are the permissible limits before engineering controls are mandatory:
+90 dB(A): 8 hours
+92 dB(A): 6 hours
+95 dB(A): 4 hours
+97 dB(A): 3 hours
+100 dB(A): 2 hours
+102 dB(A): 1.5 hours
+105 dB(A): 1 hour
+110 dB(A): 0.5 hour
+115 dB(A): 0.25 hour or less (maximum)
+Peak impulsive or impact noise: 140 dB(C) — never to be exceeded.
+
+When employees are exposed to noise exceeding 90 dB(A) TWA, the employer must implement feasible administrative or engineering controls. When controls fail to reduce to below 90 dB(A), PPE is used as a supplement.
+
+MONITORING (1910.95(d))
+Monitoring required when there is reasonable cause to believe exposures may exceed the action level (85 dB(A) TWA). All employees exposed at or above the action level must be included in a Hearing Conservation Programme.
+
+HEARING CONSERVATION PROGRAMME (1910.95(c)) — Required at Action Level 85 dB(A) TWA
+Monitoring: Personal noise dosimetry for affected employees. Employee notification of results.
+Audiometric Testing: Baseline audiogram within 6 months of first exposure at or above action level. Annual audiograms thereafter. Standard Threshold Shift (STS): average shift of 10 dB or more at 2000, 3000, and 4000 Hz. On STS: retest within 30 days; notify employee within 21 days of determination; evaluate need for additional controls; fit or refit hearing protection; refer for clinical audiological examination if STS persists.
+Audiometric Test Rooms: Must meet background noise levels per Table F-1 of the standard.
+Hearing Protectors: Variety of hearing protectors offered. Employees must be given the opportunity to select from a variety. Adequacy evaluated using NRR — actual protection = (NRR − 7) ÷ 2 in dB.
+Training: Annual training programme for employees in the HCP. Must cover: effects of noise on hearing; purpose of hearing protectors; instruction on selection, fitting, use, and care; purpose of audiometric testing.
+
+RECORDS
+Noise exposure measurements: retain 2 years.
+Audiometric test records: retain for the duration of the affected employee's employment.
+
+APPLICABILITY TO ACERTECH CAPA SYSTEM
+Occupational deafness claims; noise complaints from workers; audiometry showing STS — all require CAPA investigation. Root cause: Engineering Control Gap (noise source not enclosed or silenced when feasible), Training Gap (worker not trained on HPE use), Human Error (HPE not worn despite training), Missing Inspection (noise levels not re-surveyed after process change). Training-only corrective actions are insufficient if engineering controls are feasible.

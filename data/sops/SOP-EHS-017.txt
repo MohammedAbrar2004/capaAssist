@@ -1,0 +1,36 @@
+SOP ID: SOP-EHS-017
+Title: Contractor Safety Management
+Version: 3.1
+Effective Date: 2024-05-01
+Review Date: 2026-05-01
+Owner: Group EHS / Procurement
+Applicable Sites: All sites
+Regulatory Reference: ISO 45001:2018 Clauses 8.1.4, 8.4; ISO 14001:2015 Clause 8.1
+
+PURPOSE
+To ensure contractors working at AcerTech sites are competent, informed of site hazards, and comply with AcerTech safety standards throughout their engagement.
+
+SCOPE
+All contractors, subcontractors, and specialist service providers performing work on any AcerTech site, regardless of duration. Includes maintenance contractors, construction contractors, cleaning contractors, IT service engineers, and inspection bodies.
+
+CONTRACTOR APPROVAL PROCESS
+Step 1 — Pre-Qualification: Before engagement. Procurement sends EHS pre-qualification questionnaire to contractor. Review: relevant safety certifications (ISO 45001 or equivalent), insurance certificates (minimum INR 5 crore public liability), incident rate for previous 3 years (target LTI rate below 1.0 per 100 employees), risk assessment and method statement capability.
+Step 2 — Approval: EHS Officer reviews pre-qualification. Approved contractors added to Approved Contractor Register (maintained by Procurement). Register reviewed annually.
+Step 3 — Work Scope Submission: Before work starts. Contractor submits risk assessment and method statement (RAMS) specific to the work. EHS Officer reviews and approves before work commences. RAMS must cover: task description, hazards, controls, emergency procedures, PPE requirements, and list of personnel.
+
+SITE INDUCTION
+All contractors receive site induction before entering operational areas. Maximum time between induction and work start: 24 hours (re-induction required if gap exceeds 12 months).
+Induction covers: site rules, emergency procedures, permit-to-work system, site hazards relevant to work area, PPE requirements, incident reporting.
+Induction register signed by contractor and kept by site EHS Officer for 2 years.
+
+PERMIT TO WORK
+Contractors performing high-risk work must hold a valid permit: Hot Work (SOP-EHS-002), Confined Space Entry (SOP-EHS-003), Electrical Isolation (SOP-EHS-011), or Working at Heights (SOP-EHS-004). No permit = no work. Permits checked by EHS Officer during random inspections (minimum 1 per day during active contractor work).
+
+SUPERVISION AND MONITORING
+Site EHS Officer conducts minimum daily monitoring of contractor activities. Inspects against RAMS. Issues improvement notice if minor non-compliance. Stops work and escorts off site if serious violation (no PPE, working without permit, bypassing lockout). Contractor non-compliance report raised and sent to contractor's management within 24 hours.
+
+CONTRACTOR INCIDENT REPORTING
+Any contractor incident (near miss, injury, damage) on AcerTech premises reported to Site EHS Officer within 30 minutes. Investigated under same standards as AcerTech employee incidents (SOP-EHS-007). Findings shared with contractor management. Repeated contractor incidents result in suspension from approved register.
+
+PERFORMANCE REVIEW
+Contractor safety performance reviewed annually: incident rate, permit compliance rate, inspection results, outstanding CAPAs. Poor performance results in probationary status or removal from approved register.

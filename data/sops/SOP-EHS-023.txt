@@ -1,0 +1,42 @@
+SOP ID: SOP-EHS-023
+Title: Machine Guarding and Safeguarding of Machinery
+Version: 2.6
+Effective Date: 2024-01-15
+Review Date: 2026-01-15
+Owner: Engineering / Group EHS
+Applicable Sites: All manufacturing sites (1, 4, 6, 8)
+Regulatory Reference: ISO 45001:2018 Clause 8.1.2; PUWER 1998 Regulations 11–12; OSHA 29 CFR 1910.212; ISO 13849-1
+
+PURPOSE
+To prevent contact injuries (amputation, entanglement, crush, laceration) from machinery moving parts by ensuring all dangerous parts are adequately guarded and safeguarded.
+
+SCOPE
+All work equipment with dangerous moving parts: production machines, conveyors, presses, CNC equipment, mixers, blenders, compressors, and any other machinery that could cause injury if contact is made with a moving part.
+
+HAZARDOUS MACHINE ZONES
+In-running nips: Points where two counter-rotating or one rotating and one fixed surface come together. High priority — finger/hand amputation risk.
+Rotating parts: Shafts, couplings, cutting tools, abrasive wheels. Entanglement risk.
+Reciprocating parts: Presses, stamps, slides. Crushing and shearing risk.
+Ejection risk: Parts flying off rotating workpieces, chips, swarf. Eye and face risk.
+
+GUARD HIERARCHY
+Level 1 — Fixed Guard: Permanently attached; cannot be opened without tools; prevents access to hazard zone during all operation modes. Preferred for all hazard zones where access is not required during operation.
+Level 2 — Interlocked Guard: Opens on a safety interlock that stops the machine before the guard is open enough to allow access. Required where frequent access is needed (e.g., for cleaning, tool change). Interlock to PLd or SIL 2 minimum for high-severity hazards.
+Level 3 — Adjustable Guard: Can be adjusted for different workpiece sizes; adjusted position maintained during operation. Must not permit finger access to the hazard zone.
+Level 4 — Safeguarding Device (no guard): Light curtains, pressure-sensitive mats, two-hand controls, safety laser scanners. Used where guards prevent necessary access. Must achieve equivalent risk reduction to a fixed guard for the severity level.
+
+GUARD DESIGN REQUIREMENTS
+Fixed guards: No opening larger than 6 mm in panels within 120 mm of the hazard; no larger than 10 mm at 120–200 mm distance. Refer to EN ISO 13857 safe distance table.
+Materials: Steel minimum 2 mm gauge; other materials only if impact-tested and approved by Engineering.
+Fixings: Minimum M8 bolt or captive fastener; not to be removable without a tool.
+No sharp edges on guards (will discourage removal reporting and create a secondary hazard).
+
+GUARD REMOVAL FOR MAINTENANCE
+Guards may only be removed under LOTO (SOP-EHS-001). No bypassing of interlocks except under a documented, time-limited engineering maintenance procedure approved by Engineering Manager and EHS Officer.
+Bypassed interlocks: locked out in bypass state; return to service requires Engineering sign-off before production restart.
+
+PERIODIC INSPECTION
+EHS Officer inspects all production line guarding quarterly. Engineering Manager responsible for post-modification guarding review. Any guard found damaged, missing, or modified must be logged on EHS-FORM-027 and reported to Engineering Manager within 24 hours. Machine restricted to manual operation under supervision until guard is restored.
+
+NEW MACHINERY PROCUREMENT
+All new machinery must be CE-marked (or equivalent) and supplied with a Declaration of Conformity covering machinery directive requirements. Pre-installation guarding review by Engineering Manager and EHS Officer before first use.

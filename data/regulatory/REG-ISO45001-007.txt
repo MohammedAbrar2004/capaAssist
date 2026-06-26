@@ -1,0 +1,28 @@
+REGULATORY REFERENCE: REG-ISO45001-007
+Standard: ISO 45001:2018 — Occupational Health and Safety Management Systems
+Clause: 9 — Performance Evaluation
+Version: First Edition 2018-03
+Issuing Body: International Organisation for Standardisation (ISO)
+
+CLAUSE SUMMARY
+Clause 9 requires the organisation to monitor, measure, analyse, and evaluate OH&S performance; to conduct internal audits; and to carry out management reviews. The outputs of performance evaluation feed the continual improvement process.
+
+CLAUSE 9.1 — MONITORING, MEASUREMENT, ANALYSIS AND PERFORMANCE EVALUATION
+
+9.1.1 General: The organisation must determine: what needs to be monitored and measured; methods for monitoring, measurement, analysis, and performance evaluation to ensure valid results; criteria for evaluation of OH&S performance; when monitoring and measuring must be performed; when results must be analysed, evaluated, and communicated. Both proactive and reactive performance indicators must be used.
+
+Reactive indicators (lagging): Lost Time Injury Frequency Rate (LTIFR); Total Recordable Incident Rate (TRIR); number of medical treatment injuries; number of reportable dangerous occurrences; environmental release events.
+
+Proactive indicators (leading): Near miss reporting rate; hazard observation rate; overdue corrective action rate; percentage of planned inspections completed; training compliance rate; percentage of risk assessments current.
+
+9.1.2 Evaluation of Compliance: The organisation must establish, implement, and maintain a process for evaluating compliance with legal and other requirements. Compliance evaluation results documented and available to management review.
+
+CLAUSE 9.2 — INTERNAL AUDIT
+Internal audit programme must be planned, established, implemented, and maintained. It must: define audit criteria and scope for each audit; select auditors and conduct audits to ensure objectivity and impartiality; report audit results to relevant management; take prompt action on findings. Documented information retained as evidence.
+
+CLAUSE 9.3 — MANAGEMENT REVIEW
+Top management must review the OH&S management system at planned intervals. Review inputs include: status of previous management review actions; changes in external and internal issues; extent to which OH&S policy and objectives have been fulfilled; information on OH&S performance; worker consultation and participation feedback; relevant communications from interested parties; opportunities for continual improvement.
+Management review outputs include: conclusions on the OH&S management system's continued suitability, adequacy, and effectiveness; decisions on continual improvement opportunities; any need for changes to the OH&S management system.
+
+REQUIREMENTS FOR CORRECTIVE ACTION
+Management review findings that identify: performance indicators not being met, compliance evaluation finding non-compliances, or audit findings not being closed — require corrective actions. Root cause category for systemic performance failures: Management System Weakness. Actions must address the monitoring system gap, not only the individual metric.

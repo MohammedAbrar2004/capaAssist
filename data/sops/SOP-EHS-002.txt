@@ -1,0 +1,47 @@
+SOP ID: SOP-EHS-002
+Title: Permit to Work (PTW) — Hot Work
+Version: 2.5
+Effective Date: 2023-09-01
+Review Date: 2025-09-01
+Owner: Group EHS
+Applicable Sites: All sites
+Regulatory Reference: ISO 45001:2018 Clause 8.1.2; NFPA 51B
+
+PURPOSE
+To control ignition sources and combustible materials during welding, cutting, grinding, and other hot work operations to prevent fire or explosion.
+
+SCOPE
+All hot work activities including welding (MIG, TIG, MMA, plasma), cutting, grinding, brazing, soldering, and any other process that generates sparks, flame, or heat above 50°C in a non-designated hot work area.
+
+RESPONSIBILITIES
+- Permit Issuer (Site EHS Officer or delegated supervisor): Issues, approves, and closes the permit. Must be physically present for site inspection before issue.
+- Permit Holder (Authorized Worker or Contractor Supervisor): Responsible for compliance with all permit conditions throughout work duration.
+- Fire Watch: Stationed during work and for a minimum of 60 minutes after work completion. Must have a charged fire extinguisher and direct communication with permit issuer.
+
+PERMIT VALIDITY
+Hot work permits are valid for one shift only (maximum 12 hours). Work continuing into the next shift requires a new permit. Permits cannot be transferred between permit holders.
+
+PROCEDURE
+Step 1 — Request: Permit Holder submits PTW request to Permit Issuer at least 4 hours before planned start.
+Step 2 — Site Inspection: Permit Issuer physically inspects the work location with Permit Holder. Check: combustibles within 11 m radius removed or shielded; floors swept clean; drains and openings covered; fire extinguishers checked (minimum 9 kg CO2 or dry powder); fire detection not impaired; adjacent spaces inspected.
+Step 3 — Atmospheric Testing: If work is in or adjacent to a confined space, flammable atmosphere, or chemical processing area — test with a calibrated gas detector. LEL must be less than 10%. Continuous monitoring required if source cannot be isolated.
+Step 4 — Issue Permit: Permit Issuer signs and dates the permit. Assign Fire Watch. Post completed permit at the work location.
+Step 5 — Conduct Work: Permit Holder ensures all conditions are maintained. Fire Watch monitors continuously. Immediately suspend work if conditions change (gas alarm, fire event, unauthorized personnel entering exclusion zone).
+Step 6 — Close Out: On work completion, Permit Holder notifies Permit Issuer. Permit Issuer conducts post-work inspection after minimum 60-minute fire watch period. Sign and date closure section. File permit for 12 months.
+
+PROHIBITED LOCATIONS (require additional approval from Site Manager and Group EHS)
+- Chemical processing areas where flammable vapour cannot be excluded.
+- Within 3 m of any compressed gas cylinder storage.
+- In areas where atmospheric testing confirms LEL above 0% and source cannot be isolated.
+
+PRE-WORK CHECKLIST (Permit Issuer to complete and sign)
+[ ] All combustibles removed or shielded within 11 m
+[ ] Floors swept and drains covered
+[ ] Gas test completed and LEL less than 10%
+[ ] Fire extinguishers checked and positioned
+[ ] Fire Watch assigned and briefed
+[ ] Adjacent areas inspected and clear
+[ ] Work area isolated from normal operations where practicable
+
+RECORD-KEEPING
+Completed permits filed in site EHS permit log for minimum 12 months. Monthly review by Site EHS Officer for compliance trends. Permit statistics included in monthly EHS report.

@@ -1,0 +1,26 @@
+REGULATORY REFERENCE: REG-ISO45001-009
+Standard: ISO 45001:2018 — Occupational Health and Safety Management Systems
+Clause: Annex A — Guidance on Using This Document
+Version: First Edition 2018-03
+Issuing Body: International Organisation for Standardisation (ISO)
+
+CLAUSE SUMMARY
+Annex A provides informative (non-mandatory) guidance to prevent misinterpretation of the standard's requirements. It elaborates on key concepts and provides practical interpretation guidance for Clauses 4 through 10.
+
+A.1 — GENERAL GUIDANCE
+The standard is based on the Plan-Do-Check-Act (PDCA) cycle and risk-based thinking. All requirements are intended to be integrated into the organisation's normal business processes. The standard does not require a specific OH&S management system format, structure, or documentation scheme — the system should be designed to suit the organisation's context.
+
+A.3.1 — HAZARD IDENTIFICATION GUIDANCE
+Hazard identification is ongoing and proactive. Sources include: past incidents (own and external); existing risk assessments; worker input; observations; inspections; industry reports; near misses. Hazard identification is not a one-time exercise — it is a living process. Common missed hazard categories: psychosocial hazards (violence, harassment, fatigue, stress); ergonomic hazards (repetitive strain, workstation design); hazards from work organisation (shift length, lone working, pace of work).
+
+A.8.1.2 — HIERARCHY OF CONTROLS GUIDANCE
+The hierarchy is not a menu — it is a preference order. The standard requires that higher-order controls (elimination, substitution) be considered before lower-order controls (administrative, PPE) are selected. Selecting PPE as the primary control for a hazard that could be eliminated by redesign is not compliant. Documentation of why higher-order controls are not practicable is required when lower-order controls are selected as the primary means.
+
+Training Overreliance Warning (directly from Annex A guidance):
+Training is an administrative control. It is the fourth level in the hierarchy. It does not eliminate the hazard. Where the same hazard has caused repeated incidents and training has been the primary corrective action — the standard expects the organisation to review whether engineering controls could address the root cause more effectively. Repeated training-only CAPAs for the same hazard indicate a management system weakness.
+
+A.10.2 — CORRECTIVE ACTION EFFECTIVENESS
+The standard requires verification that corrective actions were effective — not just that they were implemented. An action that was completed on time but did not prevent recurrence is not effective. The effectiveness check must be scheduled at the time the action is assigned, not after the due date has passed. Evidence of effectiveness must be objective (observation records, inspection results, repeat incident statistics) — not a supervisor's opinion.
+
+APPLICABILITY TO AI-ASSISTED CAPA SYSTEMS
+AI assistance in CAPA management must support human decision-making, not replace it. Clause 5.4 requires worker participation in incident investigation and corrective action development. AI-generated actions must be reviewed by a competent person before implementation. The human reviewer is accountable for the action — not the AI system. This is consistent with the human-in-the-loop requirement.

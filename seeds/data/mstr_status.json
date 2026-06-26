@@ -1,0 +1,8 @@
+[
+  {
+    "status_id": "STATUS_ACTIVE",
+    "status": "Active",
+    "status_description": "Generic active status shared by tenant/site/group/user master rows",
+    "source_table": "GENERIC"
+  }
+]

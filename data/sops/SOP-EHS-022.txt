@@ -1,0 +1,39 @@
+SOP ID: SOP-EHS-022
+Title: Near Miss and Hazard Observation Reporting
+Version: 2.1
+Effective Date: 2024-01-01
+Review Date: 2026-01-01
+Owner: Group EHS
+Applicable Sites: All sites
+Regulatory Reference: ISO 45001:2018 Clauses 10.1, 10.2
+
+PURPOSE
+To create a culture of proactive hazard reporting, ensuring near misses and hazardous conditions are captured, investigated, and corrected before they result in injury.
+
+SCOPE
+All employees and contractors. Covers near misses (events that did not cause injury but could have), unsafe conditions (physical hazards present), and unsafe acts (behaviour observed that increases risk of injury).
+
+DEFINITIONS
+Near Miss: An unplanned event that did not result in injury, illness, or damage but had the potential to do so. Also called a close call.
+Hazardous Condition: A physical state in the workplace that creates a risk of injury (e.g., wet floor, open edge without guarding, blocked fire exit).
+Unsafe Act: A behaviour or action by a person that increases risk (e.g., operating equipment without guards, bypassing lockout, not wearing required PPE).
+
+WHY REPORT
+The ratio of near misses to serious accidents is approximately 300:1 (Heinrich Triangle, updated by modern research). Capturing near misses prevents the serious accidents at the top of the pyramid. Reporting is not blame — it is prevention. Employees who report near misses are demonstrating safety leadership, not admitting fault.
+
+REPORTING PROCESS
+Step 1 — Immediate Action: Make the area safe if possible (isolate hazard, place warning, stop the task). Do not disturb evidence of a near miss.
+Step 2 — Report: Report verbally to supervisor within 30 minutes. Complete EHS-FORM-005 (Near Miss/Observation Report) by end of shift. Reports can also be made via the EHS system mobile app or anonymous drop box in the EHS office.
+Step 3 — Supervisor Acknowledgement: Supervisor acknowledges the report verbally within 1 hour and in the EHS system within 24 hours.
+Step 4 — Investigation: Near misses are investigated using the same process as minor incidents (SOP-EHS-007, 5 Why or simpler). Corrective action assigned within 5 working days.
+Step 5 — Feedback to Reporter: Reporter informed of the corrective action taken within 10 working days. This closed loop is critical to sustaining reporting culture.
+
+TARGETS AND LEADING INDICATORS
+Sites target minimum 2 near miss reports per employee per year as a leading indicator (not a fixed quota). Near miss rate included in monthly EHS performance report alongside lagging indicators (LTI frequency rate, LTIFR).
+Sites with high near miss reporting rates are recognised in the group EHS newsletter — reporting culture is a positive performance indicator.
+
+ANONYMOUS REPORTING
+Anonymous reports accepted. EHS Officer investigates based on information provided. Anonymous reporter cannot receive personal feedback but corrective actions are posted on the EHS board.
+
+NON-RETALIATION POLICY
+Disciplinary action is prohibited against any employee for reporting a near miss, hazardous condition, or unsafe act in good faith. Managers who discourage reporting are subject to disciplinary action.

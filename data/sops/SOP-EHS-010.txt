@@ -1,0 +1,44 @@
+SOP ID: SOP-EHS-010
+Title: Risk Assessment — Hazard Identification and Control
+Version: 2.6
+Effective Date: 2024-01-01
+Review Date: 2026-01-01
+Owner: Group EHS
+Applicable Sites: All sites
+Regulatory Reference: ISO 45001:2018 Clause 6.1.2; Management of Health and Safety at Work Regulations 1999
+
+PURPOSE
+To provide a consistent methodology for identifying hazards, evaluating risks, and selecting and implementing controls to reduce risks to as low as reasonably practicable (ALARP).
+
+SCOPE
+All routine and non-routine work activities at all AcerTech sites. Includes new processes, changes to existing processes (Management of Change), and activities involving contractors. Generic risk assessments can be created for repeated standard tasks; specific assessments required for non-routine, high-risk, or modified activities.
+
+RISK ASSESSMENT MATRIX
+Likelihood scoring: 5 — Almost Certain (occurs weekly or more); 4 — Likely (monthly); 3 — Possible (annually); 2 — Unlikely (once in 5 years); 1 — Rare (once in 10+ years)
+Severity scoring: 5 — Fatality or permanent disability; 4 — LTI (more than 3 days); 3 — MTI (medical treatment); 2 — First Aid; 1 — No injury (near miss)
+Risk Score = Likelihood × Severity
+Score 20–25: Intolerable — Stop work; immediate engineering or elimination control required.
+Score 12–16: High — Engineering or isolation control required before work continues.
+Score 6–9: Medium — Additional controls required; work permitted with supervision.
+Score 1–4: Low — Acceptable with current controls; monitor.
+
+PROCEDURE
+Step 1 — Define Activity: Describe the task, location, number of persons exposed, and duration.
+Step 2 — Identify Hazards: Use structured prompts (PEME: Physical, Environmental, Material, Ergonomic) to ensure completeness. Walk the task area where practicable.
+Step 3 — Identify Who is at Risk: Workers, supervisors, visitors, contractors, members of the public.
+Step 4 — Assess Inherent Risk: Score likelihood and severity WITHOUT any controls in place.
+Step 5 — Identify Existing Controls: List current controls. Classify each by hierarchy level (elimination, substitution, engineering, administrative, PPE).
+Step 6 — Assess Residual Risk: Score likelihood and severity WITH current controls in place.
+Step 7 — Determine if ALARP: If residual risk is Medium or above — identify additional controls. Document why further reduction is not reasonably practicable if residual risk remains Medium.
+Step 8 — Assign Actions: For any additional controls identified, assign owner and due date.
+Step 9 — Review and Approve: Risk assessment reviewed and signed by department supervisor. EHS Officer reviews all Medium and above assessments.
+Step 10 — Communicate: Brief all affected workers on significant hazards and controls before work starts. Record briefing attendance.
+
+REVIEW TRIGGERS
+Risk assessment must be reviewed when: new hazard identified; near miss or incident occurs; process change implemented; new equipment introduced; regulatory change; risk assessment is 3 years old (routine tasks).
+
+MANAGEMENT OF CHANGE
+Any change to process, equipment, materials, staffing, or layout that could introduce new hazards requires a written Management of Change review before implementation. The change owner initiates the MOC form; EHS Officer reviews; Site Manager approves.
+
+GENERIC RISK ASSESSMENTS
+Standard task risk assessments (forklift operation, manual handling, use of display screen equipment, etc.) maintained in the central EHS document library. Generic assessments reviewed annually and after any relevant incident. Tasks deviating from the generic scope require a supplementary site-specific assessment.

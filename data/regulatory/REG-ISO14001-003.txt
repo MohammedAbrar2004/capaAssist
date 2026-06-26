@@ -1,0 +1,32 @@
+REGULATORY REFERENCE: REG-ISO14001-003
+Standard: ISO 14001:2015 — Environmental Management Systems
+Clause: 9 — Performance Evaluation
+Version: Third Edition 2015-09
+Issuing Body: International Organisation for Standardisation (ISO)
+
+CLAUSE SUMMARY
+Clause 9 requires the organisation to monitor, measure, analyse, and evaluate environmental performance; conduct compliance evaluations; carry out internal audits; and review the EMS through management review. It mirrors the structure of ISO 45001:2018 Clause 9.
+
+CLAUSE 9.1 — MONITORING, MEASUREMENT, ANALYSIS AND EVALUATION
+
+9.1.1 General: The organisation must determine: what needs to be monitored and measured; applicable monitoring, measurement, analysis, and evaluation methods to ensure valid results; criteria against which to evaluate environmental performance; when monitoring and measuring must be performed; when results must be analysed and reported.
+Documented information must be retained as evidence of monitoring, measurement, analysis, and evaluation results.
+
+Environmental performance indicators for AcerTech operations:
+Atmospheric emissions: VOC emissions (kg/year); stack particulate (mg/m3); boundary dust levels.
+Wastewater: pH, COD, BOD, suspended solids, heavy metal concentrations vs. consent conditions.
+Waste: Total waste generated (tonnes/year); percentage recycled or recovered; percentage hazardous waste; waste disposal route compliance.
+Energy: kWh/unit produced; carbon intensity (tCO2e/unit produced); percentage renewable energy.
+Water: m3/unit produced; percentage process water recycled.
+Spills: Number of chemical spills; volume of spills; number reaching drains or watercourses.
+
+9.1.2 Evaluation of Compliance: The organisation must establish, implement, and maintain a process to evaluate fulfilment of its compliance obligations. Compliance evaluation frequency determined by significance of environmental aspect and rate of change of applicable requirements. Results documented. Non-compliance identified during evaluation must be addressed through the CAPA system.
+
+CLAUSE 9.2 — INTERNAL AUDIT
+Internal audit programme for the EMS must be planned to cover all EMS clauses and significant environmental aspects over a defined cycle. Audit findings (non-conformities, observations) enter the CAPA system. Auditor independence required.
+
+CLAUSE 9.3 — MANAGEMENT REVIEW
+Top management reviews EMS at planned intervals. Inputs include: status of actions from previous reviews; changes in external and internal issues; environmental performance trends; compliance evaluation results; audit results; fulfillment of objectives. Outputs include: conclusions on suitability, adequacy, and effectiveness; continual improvement decisions.
+
+REQUIREMENTS FOR CORRECTIVE ACTION
+Non-compliances identified during compliance evaluation (effluent consent exceeded, waste regulations breached) require immediate reporting to Group EHS Director and initiation of CAPA within 24 hours. Root cause analysis must determine systemic cause. Regulatory notifications made as required.

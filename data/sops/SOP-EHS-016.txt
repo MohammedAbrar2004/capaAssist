@@ -1,0 +1,47 @@
+SOP ID: SOP-EHS-016
+Title: Racking Inspection and Warehouse Storage Safety
+Version: 2.0
+Effective Date: 2023-08-01
+Review Date: 2025-08-01
+Owner: Warehouse Operations / EHS
+Applicable Sites: Sites 2, 5, 10 (warehouses); all sites with racking installations
+Regulatory Reference: ISO 45001:2018 Clause 8.1.2; SEMA Code of Practice for the Use of Static Racking; OSHA 29 CFR 1910.159
+
+PURPOSE
+To prevent racking collapse, falling objects, and structural failures in warehousing environments through regular inspection, damage control, and safe loading practice.
+
+SCOPE
+All pallet racking, cantilever racking, shelving, and mezzanine floors in AcerTech warehouses and storage areas.
+
+RACKING INSPECTION PROGRAMME
+User (daily, before use of each bay): Visual check for visible damage — bent or cracked uprights, displaced beams, missing beam locks, stored goods overhanging and creating instability. Report damage immediately to supervisor; do not load damaged bay.
+Supervisor (weekly): Walk all racking aisles; check bay load labels; ensure no unauthorised modifications; confirm rack protection (end barriers, upright protectors) in place. Log on EHS-FORM-041.
+Racking Inspector (SEMA/PRISM qualified, minimum annually): Full independent inspection. Green/Amber/Red classification:
+  - Green: No damage, safe to use.
+  - Amber: Damage requires monitoring or repair within defined timeframe; may remain in service with reduced load or restricted access to damaged bay.
+  - Red: Immediate unloading; do not use until repaired and re-inspected.
+
+DAMAGE CLASSIFICATION AND RESPONSE
+Upright column damage:
+  - Bow exceeding 3 mm in any 500 mm length: Amber minimum; Red if in load path.
+  - Tear, crack, or perforation: Red immediately.
+  - Base plate missing or anchor bolts missing: Red immediately.
+Beam damage:
+  - Permanent set (deflection exceeding 1/180 of beam span): Amber.
+  - Cracked weld, missing safety clip: Red.
+Damaged racking: Tag with "Do Not Use" (red tag). Unload bay. Notify Warehouse Supervisor and EHS Officer. Arrange repair by rack manufacturer or qualified racking engineer only.
+
+SAFE LOADING RULES
+1. Never exceed the Safe Working Load per bay, posted on the load notice at each rack entry.
+2. Loads must be on suitable pallets (no broken blocks, no overhanging product).
+3. Ensure beam locks are engaged after loading.
+4. Do not store loose, unstable, or unsecured loads at height.
+5. No picking or stacking at height from forklifts unless the forklift is rated and the operator trained for order picking.
+6. Bottom aisle clear of obstruction for emergency exit at all times.
+
+SEISMIC AND FLOOR LOADING CONSIDERATIONS (Sites in seismic zones)
+Racking at Chennai (Site 1 and 9) and Hyderabad (Site 3) sites installed with seismic bracing per structural engineer specification. No modification to seismic bracing without Engineering sign-off.
+Floor loading capacity confirmed before installation of new racking or addition of extra frames. Racking layout drawings approved by structural engineer on file in Engineering office.
+
+POST-IMPACT PROCEDURE
+Any forklift impact on racking: operator reports immediately (no exception). Supervisor inspects within 30 minutes. Affected bay tagged Red until inspection complete. Forklift damage report raised per SOP-EHS-006. CAPA raised if structural damage found.

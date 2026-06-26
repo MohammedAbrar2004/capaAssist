@@ -1,0 +1,52 @@
+SOP ID: SOP-EHS-015
+Title: EHS Training Management and Competency Records
+Version: 2.0
+Effective Date: 2024-01-01
+Review Date: 2026-01-01
+Owner: HR / Group EHS
+Applicable Sites: All sites
+Regulatory Reference: ISO 45001:2018 Clauses 7.2, 7.3; ISO 14001:2015 Clause 7.2
+
+PURPOSE
+To ensure all employees are trained to the standard required for their role, training is verified as effective, and records are maintained to demonstrate competency.
+
+SCOPE
+All AcerTech employees and long-term contractors (6 months or more). Covers: induction training, role-specific EHS training, regulatory mandatory training, and refresher training.
+
+TRAINING MATRIX
+HR and Group EHS maintain a training matrix for each site, mapping job roles to required training modules. The matrix is reviewed annually and updated when: new regulations come into force; new hazards are introduced; incidents indicate a training gap; job roles change.
+Training modules in the matrix carry: training method (classroom, on-the-job, e-learning); frequency (once-off, annual, triennial); assessment method (test, observation, competency check); minimum pass mark; and records retention period.
+
+TRAINING TYPES
+Induction Training (before starting work in operational areas):
+- General site safety (2 hours minimum): Emergency procedures, first aid locations, fire exits, permit-to-work overview, hazard reporting, PPE requirements.
+- Role-specific hazard briefing (supervisor-led): Hazards specific to the work area and role. Signed off by supervisor.
+- Visitor and contractor induction (15–30 minutes): Fire exits, muster points, PPE, no-go areas.
+
+Regulatory Mandatory Training (must hold current certificates):
+- Forklift operation: Every 3 years
+- Crane operation/slinging: Every 3 years
+- Confined space entry/attendant: Every 3 years
+- LOTO authorised employee: Every 3 years
+- First Aid at Work: Every 3 years
+- Fire Warden: Every 3 years
+- SCBA / RPE use: Annual fit test + every 3 years operational training
+
+Role-Specific Competency Assessment:
+Certain roles require demonstrated competency, not just attendance:
+- Permit Issuer: Written test (pass mark 80%) plus supervised issuance of 5 permits.
+- Incident Investigator: Case study assessment scored by EHS Manager.
+- EHS Auditor: ISO 45001 internal auditor course plus two witnessed audits.
+
+TRAINING DELIVERY
+Training providers: Internal trainers must be assessed as competent in training delivery. External providers approved by HR. Training records stored in HR system (individual file and site register).
+Training effectiveness: Post-training assessment (test or observation) for all mandatory training. Assessment result recorded. Pass marks per module set in training matrix.
+Re-training: Required if assessment not passed on first attempt. Second failure triggers supervisor review and revised training plan.
+
+TRAINING GAP IDENTIFICATION
+Training gaps identified by: training matrix compliance check (monthly — HR); incident investigation (where training gap is identified as a root cause); audit findings; return from absence greater than 6 months.
+Training gaps classified as High (regulatory mandatory overdue) or Medium (role-specific overdue). High gaps must be closed within 30 days. Employee cannot work in that role unsupervised while gap exists.
+
+RECORD MANAGEMENT
+Training records retained: duration of employment plus 7 years minimum. Certificate copies held in employee file. Site training register maintained by HR and available to Site EHS Officer on request.
+Training records are not deleted to hide gaps — gaps must be closed, not deleted.

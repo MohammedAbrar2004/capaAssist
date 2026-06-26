@@ -1,0 +1,46 @@
+SOP ID: SOP-EHS-013
+Title: Crane and Lifting Operations
+Version: 2.7
+Effective Date: 2024-03-01
+Review Date: 2026-03-01
+Owner: Group EHS / Engineering
+Applicable Sites: Sites 1, 8, 9 (primarily); all sites with crane or overhead lifting equipment
+Regulatory Reference: ISO 45001:2018 Clause 8.1.2; LOLER 1998; OSHA 29 CFR 1910.179
+
+PURPOSE
+To prevent death and injury from crane and lifting equipment failures, dropped loads, overloads, and collisions.
+
+SCOPE
+All lifting operations involving overhead cranes, mobile cranes, telehandlers, chain blocks, lever hoists, chain slings, wire rope slings, synthetic slings, and shackles. Includes routine production lifts and maintenance lifts.
+
+DEFINITIONS
+Appointed Person: Person with training and experience to plan lifting operations. Responsible for rigging method, load weight, and lift plan.
+Crane Operator: Person operating the crane. Must be formally assessed and certified.
+Banksman/Slinger: Person responsible for attaching the load and directing the crane operator. Must be trained and assessed.
+Safe Working Load (SWL): Maximum load for which equipment is rated, marked on equipment.
+
+COMPETENCE
+Crane Operator: Formal lifting equipment operator training; site-specific familiarisation; operator card issued by Engineering Manager. Renewed every 3 years or following an incident.
+Banksman/Slinger: OPITO-equivalent or in-house competency-based training. Renewed every 3 years.
+Appointed Person: Minimum 5 years lifting experience plus formal Appointed Person course.
+
+LIFT PLAN REQUIREMENTS (all non-routine and complex lifts)
+A written lift plan is required for: lifts over 1 tonne; tandem lifts (two cranes); lifts near overhead power lines; lifts over occupied areas; lifts where load path is obscured; any crane or plant repositioning over a public area.
+Lift plan contents: load weight (calculated, not estimated); rigging arrangement drawing; crane position and outrigger layout; exclusion zone; communication method; abort criteria.
+Lift plan approved by Appointed Person and reviewed at lift site before work starts.
+
+PRE-LIFT INSPECTION
+Crane Operator pre-use check before each shift: rope/chain condition, hooks, limit switches, brakes, controls, emergency stop. Record on EHS-FORM-033.
+Slings and lifting accessories: Inspect before each lift. Reject if: synthetic sling with cut fibres or chemical degradation; wire rope sling with more than 10% broken wires in any 10-diameter length or visible kinking; shackle with crack, bend, or missing pin.
+
+STATUTORY INSPECTION
+All lifting equipment: thorough examination by a competent person every 6 months (equipment used to lift persons: 6 months; all other lifting equipment: 12 months). Certificate retained at site for the life of the equipment.
+Lifting accessories (slings, shackles): 6-monthly thorough examination. Certificate on file.
+
+SAFE WORKING RULES
+1. Never exceed SWL. De-rate for multiple slings based on sling angle (document in lift plan).
+2. Never work under a suspended load. Exclusion zone enforced.
+3. Banksman maintains line of sight with both load and operator at all times. Radio communication mandatory if direct line of sight is lost.
+4. No persons to ride on hook, slings, or load unless a certified man-riding cage with safety factor 10:1 is used.
+5. Land loads on adequate dunnage — never leave load suspended unattended.
+6. Overhead power line exclusion: minimum 6 m horizontal clearance from 11 kV lines; consult engineering for higher voltages.

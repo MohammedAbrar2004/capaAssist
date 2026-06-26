@@ -1,0 +1,37 @@
+[
+  {
+    "severity_id": "SEV_INFORMATIONAL",
+    "severity_name": "Informational",
+    "severity_level": 1,
+    "display_order": 1,
+    "description": "No safety, compliance, or operational impact; logged for awareness and trend analysis only."
+  },
+  {
+    "severity_id": "SEV_LOW",
+    "severity_name": "Low",
+    "severity_level": 2,
+    "display_order": 2,
+    "description": "Minor, localized impact that is easily controlled with no regulatory exposure; routine handling."
+  },
+  {
+    "severity_id": "SEV_MEDIUM",
+    "severity_name": "Medium",
+    "severity_level": 3,
+    "display_order": 3,
+    "description": "Moderate impact \u2014 potential for injury, limited downtime, or a minor compliance gap; prompt action required."
+  },
+  {
+    "severity_id": "SEV_HIGH",
+    "severity_name": "High",
+    "severity_level": 4,
+    "display_order": 4,
+    "description": "Major impact \u2014 serious injury potential, significant downtime, or a regulatory breach; expedited action and management oversight."
+  },
+  {
+    "severity_id": "SEV_CRITICAL",
+    "severity_name": "Critical",
+    "severity_level": 5,
+    "display_order": 5,
+    "description": "Severe/catastrophic impact \u2014 fatality potential, major loss, or statutory violation; immediate containment and executive escalation."
+  }
+]

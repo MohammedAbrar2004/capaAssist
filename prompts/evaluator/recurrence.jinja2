@@ -1,0 +1,29 @@
+You are an expert EHS (Environment, Health & Safety) CAPA auditor at {{ org_name }}.
+
+This root-cause category has recurred {{ prior_occurrence_count }} time(s) before at
+{{ org_name }}. Your task: compare the new action below against what was tried before,
+and say whether it's genuinely the same approach or a new one — and if the same,
+whether the past attempts actually worked.
+
+━━━ NEW ACTION ━━━
+{{ action_text }}
+
+━━━ PAST ACTIONS FOR THIS ROOT-CAUSE CATEGORY ━━━
+{% for a in past_actions %}
+- {{ a.action_title }}: {{ a.action_description }}
+  Verified effective: {{ "Yes" if a.verified_date else "Not verified / unknown" }}
+{% endfor %}
+
+Return ONLY this JSON object, no markdown, no explanation:
+{
+  "new_actions_are_same_as_past": true | false,
+  "past_actions_were_effective": true | false | null,
+  "recurrence_warning": "<1-2 sentences — null if nothing notable>"
+}
+
+Notes:
+- "Same as past" means the same control approach (e.g. another training session where
+  training was already tried and failed) — not literal wording match.
+- past_actions_were_effective should be null only if the past actions' effectiveness is
+  genuinely unknown from the data above (not because none were verified — unverified
+  with no comments at all is unknown; "Not verified" with an outcome implied is false).

@@ -1,0 +1,38 @@
+REGULATORY REFERENCE: REG-ISO14001-004
+Standard: ISO 14001:2015 — Environmental Management Systems
+Clause: 10 — Improvement
+Version: Third Edition 2015-09
+Issuing Body: International Organisation for Standardisation (ISO)
+
+CLAUSE SUMMARY
+Clause 10 mirrors ISO 45001:2018 Clause 10 in structure and intent for environmental management. It requires the organisation to react to nonconformities, conduct root cause analysis, take corrective action, verify effectiveness, and pursue continual environmental improvement.
+
+CLAUSE 10.1 — GENERAL
+The organisation must determine and select opportunities for improvement and implement any necessary actions to achieve the intended outcomes of its EMS.
+
+CLAUSE 10.2 — NONCONFORMITY AND CORRECTIVE ACTION
+When a nonconformity occurs, the organisation must:
+a) React to the nonconformity and as applicable: take action to control and correct it; deal with the consequences, including mitigating adverse environmental impacts.
+b) Evaluate the need for action to eliminate the cause(s) of the nonconformity, in order that it does not recur or occur elsewhere by: reviewing the nonconformity; determining the causes of the nonconformity; determining if similar nonconformities exist, or could potentially occur.
+c) Implement any action needed.
+d) Review the effectiveness of any corrective action taken.
+e) Make changes to the EMS, if necessary.
+Corrective actions must be appropriate to the significance of the effects of the nonconformities encountered, including the environmental impacts.
+
+ENVIRONMENTAL NONCONFORMITY EXAMPLES AT ACERTECH
+- Chemical storage area without secondary containment (bunding) — Engineering Control Gap.
+- Hazardous waste disposed to general waste stream — Process Failure.
+- Stormwater drain not blocked during chemical transfer — Process Failure.
+- Pollution control equipment (LEV, scrubber) not maintained to schedule — Missing Inspection.
+- New chemical introduced without COSHH assessment and environmental aspect review — Management System Weakness.
+- Contractor disposing of waste off-site to unlicensed facility — Management System Weakness (contractor management gap).
+- Spill response team not trained on environmental containment procedures — Training Gap.
+
+EFFECTIVENESS VERIFICATION
+Corrective action effectiveness for environmental nonconformities is verified by: re-inspection of the area or process; repeat compliance monitoring (effluent test, waste audit); confirmation that the control procedure has been updated and communicated; observation of the corrective practice. Effectiveness check must occur within 60–90 days of action completion.
+
+CLAUSE 10.3 — CONTINUAL IMPROVEMENT
+The organisation must continually improve the suitability, adequacy, and effectiveness of the EMS to enhance environmental performance. Evidence of continual improvement is a documented demonstration over time of improvement in environmental performance metrics (waste reduction, energy reduction, emission reduction, spill frequency reduction).
+
+REGULATORY NOTIFICATION OBLIGATIONS
+Environmental releases requiring regulatory notification (to CPCB, SPCB, or local authority depending on jurisdiction): chemical spill to surface water or groundwater; uncontrolled atmospheric emission; waste illegally dumped. Notification timeline varies by regulation — Group EHS maintains the regulatory notification register with applicable deadlines.

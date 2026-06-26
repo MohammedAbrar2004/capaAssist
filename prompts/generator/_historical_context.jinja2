@@ -1,0 +1,52 @@
+━━━ HISTORICAL REFERENCE — SIMILAR CAPAs ━━━
+{% if similar_capas %}
+The following past CAPAs at {{ org_name }} share context with this one. Reference them where relevant:
+{% for c in similar_capas %}
+- [{{ c.capa_id }}] {{ c.title }} (site {{ c.site_id }}, group {{ c.group_id }})
+  Root cause: {{ c.root_cause_summary }}
+  Action taken: {{ c.action_summary[:200] }}
+  Outcome: {{ c.effectiveness_result or "Unknown" }}
+{% endfor %}
+{% else %}
+No similar historical CAPAs found.
+{% endif %}
+
+━━━ WHAT "STRONG" LOOKS LIKE — EFFECTIVE PAST ACTIONS ━━━
+{% if effective_actions %}
+These past actions received a "Strong" rating and passed effectiveness checks:
+{% for a in effective_actions %}
+- [{{ a.action_type }}] {{ (a.description or "")[:200] }}
+  Evidence required: {{ a.evidence_required }}
+{% endfor %}
+{% else %}
+No strong historical actions available for reference.
+{% endif %}
+
+━━━ RELEVANT SOPs ━━━
+{% if relevant_sops %}
+{% for s in relevant_sops %}
+- {{ s.title }}: {{ s.excerpt[:300] }}
+{% endfor %}
+{% else %}
+No relevant SOPs retrieved.
+{% endif %}
+
+━━━ REGULATORY CONTEXT ━━━
+{% if regulatory_context %}
+{% for r in regulatory_context %}
+- {{ r.title }}: {{ r.excerpt[:300] }}
+{% endfor %}
+{% else %}
+No regulatory context retrieved.
+{% endif %}
+
+━━━ ENTERPRISE CONTEXT (employees) ━━━
+{% if enterprise_context %}
+{% for result in enterprise_context %}
+{% for row in result.rows[:10] %}
+- {{ row }}
+{% endfor %}
+{% endfor %}
+{% else %}
+No enterprise context available.
+{% endif %}

@@ -1,0 +1,37 @@
+REGULATORY REFERENCE: REG-OSHA1910-008
+Standard: OSHA 29 CFR 1910.38 and 1910.39
+Title: Emergency Action Plans and Fire Prevention Plans
+Issuing Body: Occupational Safety and Health Administration, US Department of Labor
+Applicability to AcerTech: Emergency planning requirements reference for all sites
+
+PURPOSE
+29 CFR 1910.38 requires employers with more than 10 employees to have a written Emergency Action Plan (EAP). 29 CFR 1910.39 requires a written Fire Prevention Plan. These standards form the baseline requirements for emergency preparedness in general industry.
+
+EMERGENCY ACTION PLAN REQUIREMENTS (1910.38)
+
+Written Plan Contents (required for employers with more than 10 employees):
+a) Procedures for reporting a fire or other emergency.
+b) Procedures for emergency evacuation, including type of evacuation and exit route assignments.
+c) Procedures to account for all employees after evacuation.
+d) Procedures to be followed by employees performing rescue or medical duties.
+e) The name or job title of every employee who may be contacted by employees who need more information about the plan or an explanation of their duties under the plan.
+f) Procedures for employees who remain to perform critical plant operations before they evacuate.
+
+Review and Training: Employer must review the plan with each employee covered by the plan when: initially; when the employee's responsibilities under the plan change; when the plan changes. For employers with more than 10 employees, the EAP must be in writing, kept in the workplace, and made available to employees for review.
+
+Alarm Systems (1910.38(d)): The employer must have and maintain an employee alarm system that complies with 1910.165. The alarm must provide warning to employees before emergency evacuation.
+
+FIRE PREVENTION PLAN REQUIREMENTS (1910.39)
+
+Written Plan Contents:
+a) A list of all major fire hazards, proper handling and storage procedures for hazardous materials, potential ignition sources and their control, and the type of fire protection equipment necessary to control each major hazard.
+b) Procedures to control accumulation of flammable and combustible waste materials.
+c) Procedures for regular maintenance of safeguards installed on heat-producing equipment to prevent the accidental ignition of combustible materials.
+d) The name or job title of employees responsible for maintaining equipment to prevent or control sources of ignition or fires.
+e) The name or job title of employees responsible for the control of fuel source hazards.
+
+ALARM SYSTEM STANDARD (1910.165)
+Employee alarm systems must: be capable of being perceived above ambient noise or light levels; be distinctive and recognisable as a signal to evacuate or take other action; comply with ANSI S3.41; be maintained in operating condition except during repairs; employee alarm systems that use a coded alarm must permit employees to determine the type and location of the emergency. Testing required: mechanically-powered alarms monthly; electrically-operated alarms tested every 2 months.
+
+APPLICABILITY TO ACERTECH CAPA SYSTEM
+Emergency response failures: delayed evacuation, personnel not accounted for, emergency services not called in time, fire extinguisher misuse (wrong type), fire prevention failures (combustible accumulation, missing fire extinguisher). Root cause: Process Failure (procedures not followed), Training Gap (employees not trained on EAP or fire extinguisher use), Missing Inspection (alarm test overdue, extinguisher inspection overdue), Management System Weakness (EAP not updated after personnel change or site modification). Annual drills that reveal gaps must generate CAPAs — not only verbal briefings.

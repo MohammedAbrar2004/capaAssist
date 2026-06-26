@@ -1,0 +1,37 @@
+SOP ID: SOP-EHS-020
+Title: Hazardous Substance Assessment (COSHH) and Control
+Version: 2.5
+Effective Date: 2024-02-01
+Review Date: 2026-02-01
+Owner: Group EHS / Chemical Handling Supervisor
+Applicable Sites: Sites 3, 7 (primary); all sites using hazardous substances
+Regulatory Reference: ISO 14001:2015 Clause 8.1; COSHH Regulations 2002; GHS/CLP Regulation; OSHA 29 CFR 1910.1200
+
+PURPOSE
+To prevent occupational ill-health from inhalation, skin contact, ingestion, or injection of hazardous substances by identifying hazards, assessing exposure, and implementing controls.
+
+SCOPE
+All substances used, produced, or arising from work activities that present a health hazard: chemicals, dust, fumes, vapours, biological agents, and process by-products. Includes cleaning products, maintenance lubricants, and waste streams.
+
+CHEMICAL INVENTORY AND SDS MANAGEMENT
+All sites maintain a chemical inventory: substance name, SDS issue date, GHS hazard classification, storage location, maximum quantity on site, and responsible custodian.
+SDS must be: current version (check supplier website annually); available at the point of use in the working language of the site; and reviewed by EHS Officer before a new substance is introduced.
+Substances without an SDS (unlabelled containers, unmarked waste) — quarantine and notify EHS Officer. Do not use or handle until SDS is obtained or substance is disposed of as hazardous waste.
+
+COSHH ASSESSMENT PROCESS
+Step 1 — Identify Substance and Form: Liquid, solid, dust, vapour, fume? Describe task and duration of exposure.
+Step 2 — Hazard Classification: From SDS Section 2 (GHS classification). Note: carcinogen, mutagen, reproductive toxin (CMR) substances require enhanced controls regardless of quantity.
+Step 3 — Who is Exposed: Job roles exposed, duration, frequency.
+Step 4 — Current Controls: Engineering (LEV, containment), administrative (time limits, training), PPE (gloves, RPE).
+Step 5 — Assess Adequacy: Are current controls likely to control exposure below the Workplace Exposure Limit (WEL) or, for CMRs, below the detection limit where technically achievable?
+Step 6 — Specify Additional Controls: If current controls are inadequate — specify additional engineering controls first, administrative second, PPE last.
+Step 7 — Approve and Record: EHS Officer signs COSHH assessment. Review annually and when substance, task, or quantity changes.
+
+SUBSTITUTION REVIEW
+Before accepting a new substance, EHS Officer evaluates whether a less hazardous substitute can perform the same function. Substitution decision documented. No CMR substance introduced without Group EHS Director approval and assessment of all available alternatives.
+
+EXPOSURE MONITORING
+Substances with WEL (see EH40 or ACGIH TLV list): Air sampling to verify controls are achieving exposure below 50% of WEL (target). Sampling by qualified industrial hygienist. Frequency: initially on introduction, then when process changes, and at minimum every 3 years for stable processes. Results in employee exposure records for 40 years.
+
+LEV (LOCAL EXHAUST VENTILATION) INSPECTION
+LEV systems inspecting annually by competent person. Inspection covers: face velocity at capture points; duct integrity; filter condition; fan performance. LEV examination report retained for 5 years. Any LEV deficiency triggers immediate use restriction until repair.

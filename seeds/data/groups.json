@@ -1,0 +1,514 @@
+[
+  {
+    "group_id": "GROUP_01",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Production",
+    "group_description": "Manages fabrication and assembly operations; owns machine guarding, hot work, and production floor hazards.",
+    "group_manager_email": "arun.sharma@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_02",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Maintenance",
+    "group_description": "Responsible for planned and corrective maintenance of all plant equipment; owns LOTO, working at heights, and electrical isolation hazards.",
+    "group_manager_email": "rajesh.kumar@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_03",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "EHS",
+    "group_description": "Oversees site-wide health, safety, and environmental compliance; leads incident investigation and CAPA management.",
+    "group_manager_email": "priya.nair@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_04",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Quality Control",
+    "group_description": "Manages product quality inspection and non-conformance reporting; owns NCR-triggered CAPA actions.",
+    "group_manager_email": "lakshmi.iyer@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_05",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Warehouse",
+    "group_description": "Handles inbound raw materials and outbound finished goods; owns forklift operations and racking inspection hazards.",
+    "group_manager_email": "murugan.selvam@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_06",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Engineering",
+    "group_description": "Responsible for process engineering, capital projects, and pressure system integrity; owns MOC and pressure vessel hazards.",
+    "group_manager_email": "venkat.menon@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_07",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "HR",
+    "group_description": "Manages workforce training, competency records, and HR compliance; supports EHS in training gap CAPAs.",
+    "group_manager_email": "rama.subramanian@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_08",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Operations",
+    "group_description": "Manages all inbound and outbound logistics, picking, packing, and dispatch; owns forklift-pedestrian conflict and manual handling hazards.",
+    "group_manager_email": "sanjay.patel@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_09",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Maintenance",
+    "group_description": "Responsible for forklift servicing, racking repairs, and facility maintenance; owns LOTO and working at heights hazards.",
+    "group_manager_email": "mohan.singh@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_10",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "EHS",
+    "group_description": "Leads site safety programme, fire safety, and emergency preparedness; manages CAPA actions for warehouse incidents.",
+    "group_manager_email": "kavya.reddy@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_11",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Dispatch",
+    "group_description": "Manages outbound shipment scheduling and loading dock operations; owns dock safety and vehicle interface hazards.",
+    "group_manager_email": "farhan.sheikh@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_12",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Security",
+    "group_description": "Responsible for site access control and perimeter security; owns emergency evacuation and visitor management.",
+    "group_manager_email": "prakash.gupta@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_13",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Production",
+    "group_description": "Operates chemical blending, formulation, and packaging lines; owns vapour exposure, flammable liquid handling, and process safety hazards.",
+    "group_manager_email": "vikram.rao@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_14",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Chemical Handling",
+    "group_description": "Responsible for receipt, storage, transfer, and disposal of raw chemicals and finished products; owns spill response and hazmat transport hazards.",
+    "group_manager_email": "dinesh.verma@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_15",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Maintenance",
+    "group_description": "Services process equipment, pipework, and instrumentation; owns hot work permits, confined space entry, and LOTO hazards.",
+    "group_manager_email": "ashok.iyer@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_16",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "EHS",
+    "group_description": "Manages process safety management, COSHH assessments, and regulatory compliance for chemical operations.",
+    "group_manager_email": "anita.pillai@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_17",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Quality",
+    "group_description": "Conducts batch quality testing and manages product specification compliance; raises NCRs for out-of-spec batches.",
+    "group_manager_email": "pradeep.kumar@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_18",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Engineering",
+    "group_description": "Responsible for process design, instrumentation, and capital modifications; owns pressure relief and ventilation system design.",
+    "group_manager_email": "chandra.sekhar@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_19",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Production",
+    "group_description": "Operates CNC machining, grinding, and finishing lines; owns machine guarding, cutting fluid exposure, and noise hazards.",
+    "group_manager_email": "ravi.joshi@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_20",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Maintenance",
+    "group_description": "Maintains all CNC and precision equipment; owns electrical isolation and mechanical failure prevention.",
+    "group_manager_email": "naresh.gupta@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_21",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "EHS",
+    "group_description": "Leads health and safety compliance for precision manufacturing; manages hearing conservation and chemical hygiene programmes.",
+    "group_manager_email": "sunita.mehta@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_22",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Quality Control",
+    "group_description": "Manages dimensional and surface quality inspection; raises CAPAs for machining process deviations.",
+    "group_manager_email": "deepak.marathe@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_23",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Warehouse",
+    "group_description": "Handles parts receipt and finished goods dispatch; owns forklift and racking inspection hazards.",
+    "group_manager_email": "yogesh.gaikwad@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_24",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Engineering",
+    "group_description": "Manages process engineering and tooling qualification; owns MOC and coolant system design hazards.",
+    "group_manager_email": "manoj.khatri@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_25",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "HR",
+    "group_description": "Manages competency records and training compliance for precision manufacturing workforce.",
+    "group_manager_email": "hemant.gokhale@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_26",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Operations",
+    "group_description": "Manages high-throughput inbound and outbound logistics; owns forklift-pedestrian hazards and shift fatigue risks.",
+    "group_manager_email": "deepak.chauhan@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_27",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Maintenance",
+    "group_description": "Responsible for forklift fleet servicing and facility upkeep; owns LOTO and vehicle maintenance hazards.",
+    "group_manager_email": "kiran.yadav@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_28",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "EHS",
+    "group_description": "Leads safety programme for logistics operations; manages fire safety and manual handling CAPA actions.",
+    "group_manager_email": "pooja.sharma@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_29",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Dispatch",
+    "group_description": "Manages outbound loading and carrier coordination; owns dock leveller and loading platform hazards.",
+    "group_manager_email": "vikas.kapoor@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_30",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Security",
+    "group_description": "Controls site access and perimeter security; supports emergency evacuation planning.",
+    "group_manager_email": "gurpreet.singh@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_31",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Production",
+    "group_description": "Operates PCB assembly, soldering, and electronics testing lines; owns solder fume, ESD, and ergonomic hazards.",
+    "group_manager_email": "mahesh.nair@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_32",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Maintenance",
+    "group_description": "Maintains production equipment and clean-room systems; owns electrical isolation and HVAC maintenance hazards.",
+    "group_manager_email": "arjun.reddy@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_33",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "EHS",
+    "group_description": "Manages chemical hygiene, solder fume monitoring, and waste disposal compliance for electronics manufacturing.",
+    "group_manager_email": "divya.krishnamurthy@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_34",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Quality Control",
+    "group_description": "Manages electronic component inspection and test failure analysis; raises CAPAs for systematic production defects.",
+    "group_manager_email": "krishnamurthy.iyengar@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_35",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Warehouse",
+    "group_description": "Handles sensitive electronics components and ESD-controlled storage; owns packaging and handling hazards.",
+    "group_manager_email": "suresh.gopalan@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_36",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Engineering",
+    "group_description": "Manages process engineering and equipment qualification for electronics assembly.",
+    "group_manager_email": "prashanth.murthy@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_37",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "HR",
+    "group_description": "Manages workforce ergonomics programme and occupational health monitoring for assembly workers.",
+    "group_manager_email": "nirmala.naidu@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_38",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Production",
+    "group_description": "Operates bulk chemical transfer, blending, and storage operations; owns process safety, vapour cloud, and explosion hazards.",
+    "group_manager_email": "ganesh.shah@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_39",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Chemical Handling",
+    "group_description": "Manages receipt, storage, and transfer of acids, alkalis, and petrochemical intermediates; owns spill, fire, and HAZMAT hazards.",
+    "group_manager_email": "rahul.tiwari@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_40",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Maintenance",
+    "group_description": "Services pressure vessels, pipework, and safety instrumentation; owns hot work, confined space, and pressure isolation hazards.",
+    "group_manager_email": "sunil.dubey@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_41",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "EHS",
+    "group_description": "Manages PSM programme, HAZOP compliance, and regulatory reporting for bulk chemical operations.",
+    "group_manager_email": "meena.agarwal@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_42",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Quality",
+    "group_description": "Manages raw material and product batch quality testing; owns laboratory chemical exposure hazards.",
+    "group_manager_email": "alpesh.bhavsar@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_43",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Engineering",
+    "group_description": "Responsible for pressure system design, PSV sizing, and process safety engineering; owns MOC and HAZOP hazards.",
+    "group_manager_email": "dhruv.sharma@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_44",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Production",
+    "group_description": "Operates structural steel fabrication, welding, and heat treatment; owns hot work, heavy lifting, and weld fume hazards.",
+    "group_manager_email": "bimal.bose@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_45",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Maintenance",
+    "group_description": "Maintains fabrication equipment, cranes, and pressure test rigs; owns LOTO, working at heights, and high-pressure system hazards.",
+    "group_manager_email": "santosh.das@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_46",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "EHS",
+    "group_description": "Leads site safety programme for heavy fabrication; manages confined space entry, weld fume monitoring, and CAPA management.",
+    "group_manager_email": "rekha.ghosh@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_47",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Quality Control",
+    "group_description": "Manages weld inspection, NDT, and pressure vessel code compliance; raises CAPAs for non-conforming welds.",
+    "group_manager_email": "prasenjit.mukherjee@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_48",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Warehouse",
+    "group_description": "Handles heavy steel stock, consumables, and finished vessel dispatch; owns crane and rigging hazards.",
+    "group_manager_email": "sourav.nandi@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_49",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Engineering",
+    "group_description": "Manages vessel design, pressure calculations, and code compliance; owns engineering change and pressure relief system hazards.",
+    "group_manager_email": "sujoy.chakraborty@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_50",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "HR",
+    "group_description": "Manages welding certifications, trade qualifications, and mandatory competency records for the heavy manufacturing workforce.",
+    "group_manager_email": "rupa.mitra@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_51",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Civil Works",
+    "group_description": "Manages foundation, structural, and civil construction activities; owns excavation, formwork collapse, and concrete hazards.",
+    "group_manager_email": "tarun.singh@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_52",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Equipment Operations",
+    "group_description": "Operates cranes, excavators, and concrete equipment; owns mobile plant collision and overload hazards.",
+    "group_manager_email": "vijay.kumar@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_53",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "EHS",
+    "group_description": "Manages construction site safety including working at heights, confined space, and subcontractor safety oversight.",
+    "group_manager_email": "lakshmi.murugan@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_54",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Subcontractor Management",
+    "group_description": "Manages all subcontractor approvals, inductions, and performance monitoring; owns subcontractor safety compliance hazards.",
+    "group_manager_email": "ramachandran.venkat@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_55",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Planning",
+    "group_description": "Manages project schedule, method statements, and engineering drawings; owns design change and temporary works hazards.",
+    "group_manager_email": "prakash.pillai@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_56",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Operations",
+    "group_description": "Manages receipt, put-away, picking, and dispatch for the southern regional warehouse; owns forklift and manual handling hazards.",
+    "group_manager_email": "uday.pandey@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_57",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Maintenance",
+    "group_description": "Responsible for forklift servicing and racking integrity inspections; owns vehicle maintenance and fall-from-height hazards.",
+    "group_manager_email": "harish.verma@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_58",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "EHS",
+    "group_description": "Leads safety programme and fire prevention for the Coimbatore facility; manages CAPA actions for minor incidents and near misses.",
+    "group_manager_email": "nisha.iyer@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_59",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Dispatch",
+    "group_description": "Manages outbound shipment documentation and loading dock operations; owns dock safety and driver interface hazards.",
+    "group_manager_email": "rajan.kumar@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_60",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Security",
+    "group_description": "Controls facility access and emergency response coordination for the Coimbatore site.",
+    "group_manager_email": "balan.krishnan@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_61",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "EHS Compliance",
+    "group_description": "Corporate function managing group-wide EHS policy, audit programme, and regulatory compliance reporting.",
+    "group_manager_email": "anil.mehta@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_62",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "HR",
+    "group_description": "Group HR function managing workforce policies, training governance, and competency frameworks across all sites.",
+    "group_manager_email": "suma.patel@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_63",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "Administration",
+    "group_description": "Manages office facilities, reception, and corporate building management; owns ergonomic, fire, and evacuation hazards.",
+    "group_manager_email": "shalini.gupta@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  },
+  {
+    "group_id": "GROUP_64",
+    "tenant_id": "TENANT_ACERTECH",
+    "group_name": "IT",
+    "group_description": "Manages IT infrastructure and systems including the EHS software platform; owns data security and business continuity risks.",
+    "group_manager_email": "rajesh.sinha@acertech.in",
+    "status_id": "STATUS_ACTIVE"
+  }
+]

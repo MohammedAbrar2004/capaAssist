@@ -1,0 +1,28 @@
+REGULATORY REFERENCE: REG-ISO45001-001
+Standard: ISO 45001:2018 — Occupational Health and Safety Management Systems
+Clause: 4 — Context of the Organisation
+Version: First Edition 2018-03
+Issuing Body: International Organisation for Standardisation (ISO)
+
+CLAUSE SUMMARY
+Clause 4 requires an organisation to determine external and internal issues that affect its ability to achieve intended OH&S outcomes, to understand the needs and expectations of workers and other interested parties, and to determine the scope of the OH&S management system.
+
+CLAUSE 4.1 — UNDERSTANDING THE ORGANISATION AND ITS CONTEXT
+The organisation must determine external and internal issues that are relevant to its purpose and that affect its ability to achieve the intended outcome(s) of its OH&S management system. External issues include: legal, technological, competitive, market, cultural, social, and economic environments; external interested parties and their requirements; changes in and trends in the organisation's business context.
+Internal issues include: governance, organisational structure, roles, and accountabilities; policies, objectives, and strategies; resources, knowledge, and competencies; worker culture; relationships, and perceptions and values of workers.
+
+CLAUSE 4.2 — UNDERSTANDING THE NEEDS AND EXPECTATIONS OF WORKERS AND OTHER INTERESTED PARTIES
+Workers and other interested parties relevant to the OH&S management system must be identified. Their relevant requirements (needs and expectations) must be determined. Which requirements have or could have legal or other requirements must be assessed.
+Interested parties include: workers, worker representatives, contractors, regulatory authorities, customers, and communities adjacent to operations.
+
+CLAUSE 4.3 — DETERMINING THE SCOPE OF THE OH&S MANAGEMENT SYSTEM
+Scope must be determined considering: external and internal issues; legal and other requirements; planned and performed work activities. Scope documented and available. The scope must not be used to exclude activities with OH&S risks from the system.
+
+CLAUSE 4.4 — OH&S MANAGEMENT SYSTEM
+The organisation must establish, implement, maintain, and continually improve an OH&S management system — including the processes needed and their interactions — in accordance with this document.
+
+REQUIREMENTS FOR CORRECTIVE ACTION
+Non-conformities found during context review — e.g., failure to identify all interested parties, incomplete scope that excludes significant risk activities — must be corrected and the root cause addressed through the CAPA system. Systemic failures in context review indicate a management system weakness (root cause category: Management System Weakness).
+
+APPLICABILITY TO CAPA SYSTEM
+CAPAs arising from Clause 4 failures include: regulatory changes not captured in context review, resulting in compliance gaps; worker concerns not identified, leading to unmitigated hazards; scope exclusions that leave significant operations without OH&S controls.

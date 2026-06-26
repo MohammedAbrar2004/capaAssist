@@ -1,0 +1,34 @@
+REGULATORY REFERENCE: REG-OSHA1910-006
+Standard: OSHA 29 CFR 1910.212
+Title: General Requirements for All Machines (Machine Guarding)
+Issuing Body: Occupational Safety and Health Administration, US Department of Labor
+Applicability to AcerTech: Machine guarding programme reference for all manufacturing and processing sites
+
+PURPOSE OF THE STANDARD
+29 CFR 1910.212 establishes general requirements for machine guarding to protect operators and other employees from machine hazards such as those created by point of operation, ingoing nip points, rotating parts, flying chips and sparks. It is the foundational OSHA standard for machine safety, supplemented by specific machine standards (1910.213–222).
+
+GENERAL REQUIREMENTS (1910.212(a))
+Guards must be affixed to machines where necessary to protect operators and other employees. Machine guards must: prevent hands, arms, or other body parts from making contact with dangerous moving parts; be securely attached; not create a hazard in themselves; not prevent normal operation of the machine.
+
+POINT OF OPERATION GUARDING (1910.212(a)(3))
+The point of operation of machines whose operation exposes an employee to injury must be guarded. The guarding device must be designed and constructed so that it: prevents the operator from reaching into the point of operation; does not obstruct the operator's view; permits safe servicing of the machine.
+
+GUARDING TYPES REFERENCED BY OSHA
+- Guards: Fixed, interlocked, adjustable, and self-adjusting.
+- Devices: Presence-sensing devices (light curtains, pressure mats), pullback devices, restraint devices, safety trip controls (pressure-sensitive bars, belly bars), two-hand controls, two-hand trips.
+- Awareness Barriers: Not adequate alone for high-energy hazard zones — supplementary control only.
+
+SPECIFIC MACHINE STANDARDS
+1910.213 — Woodworking machinery
+1910.215 — Abrasive wheel machinery (grinding wheels): Guard must cover spindle ends, flanges, and fastening devices; wheel must be inspected and ring tested before mounting; RPM of wheel must match spindle speed.
+1910.217 — Mechanical power presses: Point of operation guarding critical; no hands dies required for small gap presses.
+1910.219 — Mechanical power-transmission apparatus: All belts, pulleys, sprockets, chains, and gears must be guarded.
+
+SELF-ADJUSTING AND ADJUSTABLE GUARDS
+Where fixed guards cannot be used due to varying workpiece sizes, adjustable or self-adjusting guards are permitted if: adjusted to the minimum opening required for each operation; adjusted before each use; adjusted position maintained during operation.
+
+LOCKOUT/TAGOUT FOR GUARD REMOVAL
+Guards may not be removed while equipment is operating. Removal for maintenance requires LOTO per 1910.147. No bypass of interlocked guards except under a controlled procedure equivalent to LOTO.
+
+APPLICABILITY TO ACERTECH CAPA SYSTEM
+Incidents involving contact with unguarded or inadequately guarded moving machine parts are among the most severe injury categories (amputations, crush injuries). Root cause: Engineering Control Gap (guard missing, inadequate, or not designed to standard), Process Failure (guard removed and not replaced), Management System Weakness (pre-commissioning guarding review not conducted), Missing Inspection (quarterly guarding inspection not completed). Corrective actions must include engineering solutions — not training-only responses.

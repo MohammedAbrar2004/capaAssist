@@ -1,0 +1,28 @@
+REGULATORY REFERENCE: REG-ISO45001-004
+Standard: ISO 45001:2018 — Occupational Health and Safety Management Systems
+Clause: 7 — Support
+Version: First Edition 2018-03
+Issuing Body: International Organisation for Standardisation (ISO)
+
+CLAUSE SUMMARY
+Clause 7 establishes requirements for the resources, competence, awareness, communication, and documented information that support the OH&S management system.
+
+CLAUSE 7.1 — RESOURCES
+The organisation must determine and provide the resources needed for the establishment, implementation, maintenance, and continual improvement of the OH&S management system. Resources include: human resources, natural resources, infrastructure (buildings, equipment), technology, and financial resources.
+
+CLAUSE 7.2 — COMPETENCE
+The organisation must: determine the necessary competence of workers that affects or can affect its OH&S performance; ensure that workers are competent on the basis of education, training, or experience; take action to acquire and maintain competence and evaluate the effectiveness of those actions; retain documented evidence of competence.
+Competence is not just training attendance — it requires demonstrated ability to perform the task safely. Training without effectiveness verification does not fulfil this requirement.
+
+CLAUSE 7.3 — AWARENESS
+Workers must be made aware of: the OH&S policy and objectives; their contribution to the effectiveness of the OH&S management system; the implications and potential consequences of not conforming to the requirements; incidents and outcomes of investigations relevant to them; hazards, OH&S risks, and actions that are relevant to them; the ability to remove themselves from work situations that they consider present an imminent and serious danger.
+
+CLAUSE 7.4 — COMMUNICATION
+The organisation must establish, implement, and maintain processes for internal and external communication relevant to the OH&S management system. Communication processes must consider: diversity aspects (language, literacy, culture); legal and other requirements; information to be communicated; when to communicate; who communicates; how to communicate. The organisation must respond to relevant communications on its OH&S management system.
+
+CLAUSE 7.5 — DOCUMENTED INFORMATION
+Documented information required by the standard must be controlled. Control includes: availability and suitability for use; protection from loss of confidentiality, improper use, or loss of integrity; distribution, access, retrieval, and use; storage and preservation; control of changes; retention and disposition.
+Documented information from external origin (legal requirements, standards, contractor documents) must be identified and controlled.
+
+REQUIREMENTS FOR CORRECTIVE ACTION
+Training gap root cause: Clause 7.2 failures include training not provided, competency not verified as effective, records not retained. Corrective actions must address the competency management process, not only the individual who was not trained. Systemic training gap CAPAs should target the training matrix, delivery method, and assessment process (root cause category: Training Gap).

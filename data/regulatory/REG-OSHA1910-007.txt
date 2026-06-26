@@ -1,0 +1,37 @@
+REGULATORY REFERENCE: REG-OSHA1910-007
+Standard: OSHA 29 CFR 1910.119
+Title: Process Safety Management of Highly Hazardous Chemicals (PSM)
+Issuing Body: Occupational Safety and Health Administration, US Department of Labor
+Applicability to AcerTech: PSM reference for chemical processing sites (Sites 3 and 7) where threshold quantities of listed chemicals may be present
+
+PURPOSE OF THE STANDARD
+29 CFR 1910.119 establishes requirements to prevent or minimise the consequences of catastrophic releases of toxic, reactive, flammable, or explosive chemicals. PSM is a comprehensive programme — not a single control. A process with listed chemicals above threshold quantity is a major accident hazard facility.
+
+KEY PSM PROGRAMME ELEMENTS
+
+1. Process Safety Information (PSI): Compilation of written process safety information before conducting a Process Hazard Analysis. Must include: hazards of the chemical (toxicity, permissible exposure limits, physical data, reactivity data, corrosivity data, thermal and chemical stability); technology of the process (simplified flow diagram, process chemistry, maximum intended inventory, safe upper and lower limits for temperature, pressure, flow, composition); equipment in the process (materials of construction, P&IDs, electrical classification, relief system design, safety systems).
+
+2. Process Hazard Analysis (PHA): Organised and systematic effort to identify and analyse the significance of potential hazards associated with the processing or handling of highly hazardous chemicals. Methods: HAZOP, What-If, Checklist, FMEA, Fault Tree. PHA team must include: process engineer, operations supervisor, EHS professional, and at least one employee who has experience and knowledge specific to the process. PHAs reviewed and updated every 5 years.
+
+3. Operating Procedures: Written procedures for each covered process, covering: initial start-up; normal operations; temporary operations; emergency shutdown (including conditions requiring shutdown); emergency operations; normal shutdown; start-up following turnaround or emergency shutdown. Reviewed annually and when there is a change.
+
+4. Training: Initial training before assignment. Refresher training at least every 3 years. Certification that training was understood.
+
+5. Contractors: Host employer must obtain and evaluate information regarding the contract employer's safety performance and programmes; inform contractors of known potential fire, explosion, or toxic release hazards related to the contractor's work.
+
+6. Pre-Start-Up Safety Review (PSSR): For new and modified equipment: confirm construction and equipment conform to design specifications; safety, operating, maintenance, and emergency procedures are in place; PHA has been performed (new process); training has been completed.
+
+7. Mechanical Integrity: For process equipment — pressure vessels and storage tanks; piping systems; relief and vent systems; emergency shutdown systems; controls including monitoring devices and sensors; pumps — written procedures for maintenance; training for maintenance employees; inspection and testing; correction of deficiencies.
+
+8. Hot Work Permit: Required for cutting, welding, or brazing on or near a covered process. See also SOP-EHS-002.
+
+9. Management of Change (MOC): Written procedures to manage changes to process chemicals, technology, equipment, and procedures. Employees affected by the change must be trained before restart.
+
+10. Incident Investigation: Incidents that resulted in or could have resulted in a catastrophic release must be investigated. Team includes one person knowledgeable in the process, a contractor representative if contractor involved, and other appropriate persons. Report completed within 5 days.
+
+11. Emergency Planning and Response: Establish and implement an emergency action plan. Coordinate with community emergency response plans.
+
+12. Compliance Audits: Certify compliance with PSM standard at least every 3 years. Audit team includes at least one person knowledgeable in the process. Findings corrected; documentation retained for 2 audit cycles.
+
+APPLICABILITY TO ACERTECH CAPA SYSTEM
+PSM incidents: near miss process release, overpressure event, PSV activation, unexpected exothermic reaction, leak from process connection. Root cause: Engineering Control Gap (safety interlock failed), Process Failure (operating procedure not followed), Missing Inspection (mechanical integrity check overdue), Management System Weakness (MOC not applied to process change). PSM incidents require enhanced investigation with process engineering involvement.

@@ -1,0 +1,58 @@
+[
+  {
+    "status_id": "STATUS_OPEN",
+    "tenant_id": "TENANT_ACERTECH",
+    "status": "Open",
+    "status_description": "Open (CAPA)",
+    "source_table": "CAPA"
+  },
+  {
+    "status_id": "STATUS_IN_PROGRESS",
+    "tenant_id": "TENANT_ACERTECH",
+    "status": "In Progress",
+    "status_description": "In Progress (CAPA)",
+    "source_table": "CAPA"
+  },
+  {
+    "status_id": "STATUS_CLOSED",
+    "tenant_id": "TENANT_ACERTECH",
+    "status": "Closed",
+    "status_description": "Closed (CAPA)",
+    "source_table": "CAPA"
+  },
+  {
+    "status_id": "STATUS_CANCELLED",
+    "tenant_id": "TENANT_ACERTECH",
+    "status": "Cancelled",
+    "status_description": "Cancelled (CAPA)",
+    "source_table": "CAPA"
+  },
+  {
+    "status_id": "ACTION_STATUS_OPEN",
+    "tenant_id": "TENANT_ACERTECH",
+    "status": "Open",
+    "status_description": "Open (CAPA Action)",
+    "source_table": "CAPA_ACTIONS"
+  },
+  {
+    "status_id": "ACTION_STATUS_IN_PROGRESS",
+    "tenant_id": "TENANT_ACERTECH",
+    "status": "In Progress",
+    "status_description": "In Progress (CAPA Action)",
+    "source_table": "CAPA_ACTIONS"
+  },
+  {
+    "status_id": "ACTION_STATUS_CLOSED",
+    "tenant_id": "TENANT_ACERTECH",
+    "status": "Closed",
+    "status_description": "Closed (CAPA Action)",
+    "source_table": "CAPA_ACTIONS"
+  },
+  {
+    "status_id": "ACTION_STATUS_CANCELLED",
+    "tenant_id": "TENANT_ACERTECH",
+    "status": "Cancelled",
+    "status_description": "Cancelled (CAPA Action)",
+    "source_table": "CAPA_ACTIONS"
+  }
+]

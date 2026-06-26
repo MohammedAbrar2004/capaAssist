@@ -1,0 +1,55 @@
+SOP ID: SOP-EHS-014
+Title: Pressure Vessel and Pressure System Inspection
+Version: 2.1
+Effective Date: 2023-10-01
+Review Date: 2025-10-01
+Owner: Engineering / Group EHS
+Applicable Sites: Sites 1, 3, 7, 8 (pressure vessels); all sites with compressed air systems
+Regulatory Reference: ISO 45001:2018 Clause 8.1.2; Pressure Systems Safety Regulations 2000; ASME BPVC
+
+PURPOSE
+To prevent pressure vessel failure, explosion, and the release of stored pressure energy by maintaining vessels within design limits and ensuring timely statutory inspections.
+
+SCOPE
+All pressure vessels, heat exchangers, pressure pipework, and compressed air receivers with a pressure above 0.5 bar gauge, including: process vessels, steam systems, compressed air receivers, hydraulic accumulators, autoclaves, and gas cylinders in use at fixed installations.
+
+DEFINITIONS
+Written Scheme of Examination (WSE): Document prepared by a Competent Person defining which parts of the pressure system are to be examined, the type of examination, and the maximum interval between examinations.
+Competent Person (CP): An accredited body (e.g. Lloyd's Register, Bureau Veritas, BOAS-accredited engineer) with the authority to prepare a WSE and conduct statutory examinations.
+Operating Limits: Maximum allowable working pressure (MAWP) and temperature defined on the vessel nameplate and in the WSE. Never exceeded in operation.
+
+WRITTEN SCHEME OF EXAMINATION
+All pressure systems above the PSSR exemption threshold must have a WSE in place before operation. The WSE is prepared by the CP and reviewed at each statutory examination. A copy is held at the site Engineering office and a summary posted on the vessel.
+
+INSPECTION SCHEDULE
+Inspection type and frequency per WSE (typical):
+  - Compressed air receivers: External inspection annually; internal inspection every 4 years.
+  - Process pressure vessels: External annually; internal every 2 years or per remaining life calculation.
+  - Steam systems: External annually; internal every 4 years.
+  - Gas cylinders in service: Visual inspection before use; hydrostatic test per cylinder owner's schedule.
+Overdue inspections: Vessel taken out of service immediately. No waiver without CP written approval and risk assessment.
+
+PRE-OPERATION DAILY CHECKS
+Operator checks (recorded on EHS-FORM-028):
+  - No audible leaks from pipework, fittings, or relief valves.
+  - Pressure gauge reading within normal operating range.
+  - Relief valve in place, sealed, and within test date.
+  - Safety interlocks (high-pressure cutout) functional — test weekly.
+  - No visible corrosion, bulging, or staining indicating leak.
+
+PRESSURE RELIEF DEVICES
+Safety relief valves (SRVs) and bursting discs must be: sized for worst-case overpressure scenario; set at or below MAWP; not blocked, capped, or plugged under any circumstances.
+SRV testing: annual pop test by certified engineer. Replace if test pressure exceeds ±5% of set pressure. Tamper seals applied after test.
+
+VESSEL ISOLATION FOR MAINTENANCE
+Before any maintenance work on pressure equipment:
+1. Reduce pressure to atmospheric.
+2. Isolate all inlet connections (close and lock block valves or install blind flanges).
+3. Open and lock vent to atmosphere.
+4. Drain vessel contents.
+5. Confirm pressure zero using calibrated gauge.
+6. Apply LOTO per SOP-EHS-001.
+Never enter a pressure vessel without a confined space entry permit (SOP-EHS-003).
+
+DEFECT REPORTING
+Any inspection finding (wall thinning, cracking, pitting, weld anomaly) reported to Engineering Manager and Competent Person within 24 hours. Vessel remains out of service until engineering disposition is issued in writing. Defect, disposition, and repair logged in vessel history file.

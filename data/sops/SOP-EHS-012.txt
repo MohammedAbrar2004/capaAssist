@@ -1,0 +1,54 @@
+SOP ID: SOP-EHS-012
+Title: Manual Handling and Ergonomics
+Version: 2.3
+Effective Date: 2023-04-01
+Review Date: 2025-04-01
+Owner: Group EHS / HR
+Applicable Sites: All sites
+Regulatory Reference: ISO 45001:2018 Clause 6.1.2; Manual Handling Operations Regulations 1992; OSHA 29 CFR 1910 Subpart I
+
+PURPOSE
+To prevent musculoskeletal disorders (MSDs) from manual handling tasks by applying the hierarchy of controls and providing ergonomic guidance.
+
+SCOPE
+All manual handling activities: lifting, lowering, carrying, pushing, pulling, and repetitive small-load handling. Includes handling at workstations (assembly, packing, sorting) as well as logistics handling.
+
+RISK ASSESSMENT TRIGGER (TILEO Framework)
+Assess manually handled loads using TILEO:
+T — Task: Repetitive movement, twisting, stooping, reaching above shoulder, sudden force?
+I — Individual: New starter, pregnant worker, health condition, reduced capacity?
+L — Load: More than 20 kg (male) or 10 kg (female) for single lift; above 10 kg for repetitive lifting; hot, sharp, unstable, or difficult to grip?
+E — Environment: Uneven floor, confined space, poor lighting, temperature extreme?
+O — Other factors: PPE restricting movement, time pressure, lone working?
+
+Any 'yes' answer = formal manual handling risk assessment required.
+
+RISK REDUCTION HIERARCHY
+Level 1 — Avoid: Deliver goods to point of use; gravity-fed conveyors; automated picking.
+Level 2 — Mechanical Aid: Hand trucks, sack barrows, pallet jacks, conveyor belts, vacuum lifters, cranes.
+Level 3 — Reduce Load: Split loads; lighter packaging; two-person lift for loads above 20 kg.
+Level 4 — Improve Technique: Training; job rotation; rest breaks.
+Level 5 — PPE: Cut-resistant gloves for handling sheet materials; back support only as supplement — not primary control.
+
+SAFE LIFTING TECHNIQUE (training reference)
+Position: Stand close to the load, feet shoulder-width apart, one foot slightly forward.
+Grip: Secure grip on the load; use handles or hand-holds if provided.
+Back: Maintain natural lumbar curve. Do not round the lower back.
+Knees: Bend knees to lower; straighten to lift. Let the legs do the work.
+Head: Look ahead, not down, during the lift.
+Movement: Lift smoothly. Do not jerk. Keep the load close to the body below waist height.
+Twisting: Never twist the spine while lifting. Move the feet to change direction.
+Two-Person Lift: One person nominated as lead to coordinate movement.
+
+WORKSTATION ERGONOMICS (assembly/packing/VDU)
+Seated workstation: Seat height adjusted so feet flat on floor or footrest; back support at lumbar; elbows at 90° when keyboard at rest position; screen top at eye level.
+Standing workstation: Work surface at elbow height for precision tasks; 50–100 mm below elbow for heavier tasks.
+VDU users: 20-20-20 rule — every 20 minutes, look at something 20 feet away for 20 seconds. Screen distance minimum 50 cm.
+Repetitive assembly: Rotate tasks minimum every 2 hours; micro-rest breaks (30 seconds hand shake) every 30 minutes for high-repetition tasks.
+
+TRAINING REQUIREMENTS
+Manual handling awareness: all employees; included in site induction; annual refresher for high-risk roles.
+Ergonomic assessment competency: Supervisors and EHS Officers; 4-hour training before conducting assessments.
+
+REPORTING
+Workers report MSD symptoms immediately to supervisor. Referral to occupational health within 5 working days of report. MSD symptom trends reviewed in monthly EHS meeting.

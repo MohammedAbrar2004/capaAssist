@@ -1,0 +1,9 @@
+{% if existing_actions %}
+
+━━━ ACTIONS ALREADY PLANNED FOR THIS CAPA ━━━
+Build on these, don't repeat them — generate something that adds new coverage the existing
+action(s) don't already provide:
+{% for a in existing_actions %}
+- [{{ a.type }}] {{ a.description }}
+{% endfor %}
+{% endif %}

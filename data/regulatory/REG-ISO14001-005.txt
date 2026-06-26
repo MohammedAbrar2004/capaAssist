@@ -1,0 +1,28 @@
+REGULATORY REFERENCE: REG-ISO14001-005
+Standard: ISO 14001:2015 — Environmental Management Systems
+Clause: Annex A — Guidance; plus Environmental Aspect and Legal Compliance Reference
+Version: Third Edition 2015-09
+Issuing Body: International Organisation for Standardisation (ISO)
+
+CLAUSE SUMMARY
+This reference document combines ISO 14001:2015 Annex A interpretive guidance with a practical environmental legal compliance reference for AcerTech India operations. It supplements the clause-specific regulatory references with applicability guidance.
+
+ANNEX A — KEY GUIDANCE POINTS
+
+A.6.1.2 — Environmental Aspects: The term "environmental aspect" refers to elements of an organisation's activities, products, or services that interact with the environment. Not every aspect will be significant — significance is determined by the criteria the organisation establishes. Common errors: assessing only current state; not considering abnormal operations (start-up, shut-down, maintenance, spills); not considering life cycle impacts beyond the facility boundary.
+
+A.8.1 — Operational Controls: ISO 14001 does not mandate a specific format for operational controls. They may be: documented procedures; equipment specifications; training requirements; inspection schedules; or any combination. The key test: would the absence of this control result in deviation from the environmental policy, objectives, or compliance obligations?
+
+A.10.2 — Corrective Action Proportionality: Corrective actions must be proportionate to the significance of the environmental impact. A minor administrative non-compliance and a chemical spill reaching a waterway both require corrective action — but the depth of root cause analysis, the robustness of the corrective action, and the speed of implementation must differ accordingly.
+
+APPLICABLE INDIAN ENVIRONMENTAL LEGISLATION (summary reference)
+Environment (Protection) Act 1986 and Rules 1986: Framework legislation; empowers MoEFCC to issue standards and directions.
+Water (Prevention and Control of Pollution) Act 1974: Discharge standards for effluent to water bodies; consent to establish and operate from State Pollution Control Board (SPCB).
+Air (Prevention and Control of Pollution) Act 1981: Stack emission standards; consent to establish and operate from SPCB.
+Hazardous and Other Wastes (Management and Transboundary Movement) Rules 2016: Identification, storage, labelling, transport, and disposal of hazardous waste; authorisation from SPCB.
+Solid Wastes Management Rules 2016: Segregation, collection, and disposal of non-hazardous solid waste.
+Chemical Accidents (Emergency Planning, Preparedness and Response) Rules 1996: Emergency planning requirements for facilities above threshold quantities of hazardous chemicals.
+
+CONSENT CONDITIONS
+Each AcerTech site with process operations holds Consent to Establish and Consent to Operate from the relevant SPCB. Conditions include: specific effluent discharge limits (pH, BOD, COD, suspended solids, heavy metals); stack emission limits (particulate, SO2, NOx); noise limits at site boundary; hazardous waste quantities and approved disposal routes. Consent conditions are site-specific documents held by the Site EHS Officer and Group EHS.
+Exceedance of consent conditions must be reported to SPCB within the timeframe specified in the consent. Group EHS maintains the register of consent conditions and renewal dates.

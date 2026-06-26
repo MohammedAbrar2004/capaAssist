@@ -1,0 +1,61 @@
+SOP ID: SOP-EHS-009
+Title: Fire Prevention, Detection, and Emergency Evacuation
+Version: 3.3
+Effective Date: 2024-06-01
+Review Date: 2026-06-01
+Owner: Group EHS
+Applicable Sites: All sites
+Regulatory Reference: ISO 45001:2018 Clause 8.2; OSHA 29 CFR 1910.38; Fire Safety Order 2005
+
+PURPOSE
+To prevent fires through hazard control, ensure early detection and alarm, protect occupants through safe evacuation, and minimise property damage through first-response firefighting where safe to do so.
+
+SCOPE
+All AcerTech sites, all buildings, all employees, contractors, and visitors. Includes fire prevention controls, detection and alarm systems, evacuation procedures, and fire extinguisher use.
+
+FIRE TRIANGLE CONTROLS
+Heat sources: Hot work permit required; no open flame in non-designated areas; electrical inspections to schedule.
+Fuel sources: Flammable liquid storage in approved flammable cabinets; daily housekeeping of combustible waste; no accumulation of cardboard, packing materials, or rags.
+Oxygen: No oxygen enrichment in confined or enclosed spaces; no oxygen lines in process areas without engineering review.
+
+FIRE DETECTION AND ALARM SYSTEMS
+Type: Automatic detection (smoke, heat, or flame detectors) in all buildings. Manual call points at all exit routes.
+Alarm tone: Continuous bell or sounder — EVACUATE. Intermittent — Alert only (investigation).
+Testing: Weekly alarm test (Monday morning, 15 seconds). Six-monthly full evacuation drill. Annual fire alarm system service by certified contractor.
+False alarms: All false alarms investigated within 24 hours. Three false alarms in 12 months triggers full system review.
+
+EVACUATION PROCEDURE
+On Alarm:
+1. Stop work immediately. Switch off ignition sources if safe to do so without delay.
+2. Leave by the nearest designated fire exit. Do not use lifts.
+3. Close doors behind you (do not lock).
+4. Proceed to designated muster point for your area (posted on emergency information board and evacuation plan).
+5. Report to Assembly Warden. Do not re-enter until clearance given by Site EHS Officer or emergency services.
+
+Assembly Wardens (minimum 1 per 20 persons per zone):
+- Account for all persons in their zone using zone attendance list.
+- Report zone clear or missing persons to Chief Warden within 5 minutes of alarm.
+- Do not re-enter building to search — notify emergency services.
+
+Fire and Emergency Coordinator (Chief Warden): Site EHS Officer or nominated deputy.
+- Confirms all zones clear; liaises with emergency services on arrival.
+- Issues all-clear.
+
+FIRE EXTINGUISHER REQUIREMENTS
+Location: Within 30 m of any point in an operational area; at each exit on every floor.
+Types (matched to risk):
+  - Class A (paper, wood, fabric): Water or foam extinguisher
+  - Class B (flammable liquids): CO2 or dry powder
+  - Class C (gas): CO2 only
+  - Class D (metals): Dry sand or specialist powder
+  - Electrical (Class E): CO2 only — never use water
+Monthly inspection: Site EHS Officer checks charge indicator, pin, and tamper seal. Log on EHS-FORM-019.
+Annual service: Certified contractor. 5-year extended service or replacement.
+
+USE OF FIRE EXTINGUISHERS (PASS technique)
+Only attempt if: fire is small (bin/waste-paper size); you are between the fire and an exit; you are trained; you will not delay evacuation.
+Pull the pin. Aim at the base of the fire. Squeeze the handle. Sweep side to side.
+If the fire does not respond in one sweep — leave immediately.
+
+HOT WORK CONTROLS IN FIRE PREVENTION
+All hot work requires a Hot Work Permit (see SOP-EHS-002). Fire Watch for minimum 60 minutes after hot work completion.

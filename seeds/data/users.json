@@ -1,0 +1,1745 @@
+[
+  {
+    "user_email": "arun.sharma@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Arun Sharma",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_01"
+  },
+  {
+    "user_email": "venkat.subramanian@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Venkat Subramanian",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_01"
+  },
+  {
+    "user_email": "mani.sundaram@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Mani Sundaram",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_01"
+  },
+  {
+    "user_email": "karthik.rajan@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Karthik Rajan",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_01"
+  },
+  {
+    "user_email": "deepa.murugesan@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Deepa Murugesan",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_01"
+  },
+  {
+    "user_email": "rajesh.kumar@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Rajesh Kumar",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_02"
+  },
+  {
+    "user_email": "suresh.babu@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Suresh Babu",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_02"
+  },
+  {
+    "user_email": "balaji.natarajan@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Balaji Natarajan",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_02"
+  },
+  {
+    "user_email": "prakash.sundaresan@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Prakash Sundaresan",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_02"
+  },
+  {
+    "user_email": "murali.krishnan@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Murali Krishnan",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_02"
+  },
+  {
+    "user_email": "priya.nair@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Priya Nair",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_03"
+  },
+  {
+    "user_email": "suresh.krishnan@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Suresh Krishnan",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_03"
+  },
+  {
+    "user_email": "meena.rajendran@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Meena Rajendran",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_03"
+  },
+  {
+    "user_email": "ganesan.pillai@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Ganesan Pillai",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_03"
+  },
+  {
+    "user_email": "lakshmi.iyer@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Lakshmi Iyer",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_04"
+  },
+  {
+    "user_email": "srinivas.rao@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Srinivas Rao",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_04"
+  },
+  {
+    "user_email": "anand.seshadri@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Anand Seshadri",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_04"
+  },
+  {
+    "user_email": "kavitha.venkat@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Kavitha Venkat",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_04"
+  },
+  {
+    "user_email": "murugan.selvam@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Murugan Selvam",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_05"
+  },
+  {
+    "user_email": "ravi.chandran@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Ravi Chandran",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_05"
+  },
+  {
+    "user_email": "kumar.arumugam@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Kumar Arumugam",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_05"
+  },
+  {
+    "user_email": "selvi.durai@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Selvi Durai",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_05"
+  },
+  {
+    "user_email": "venkat.menon@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Venkat Menon",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_06"
+  },
+  {
+    "user_email": "harish.nambiar@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Harish Nambiar",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_06"
+  },
+  {
+    "user_email": "deepak.varma@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Deepak Varma",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_06"
+  },
+  {
+    "user_email": "sudha.krishnamurthy@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Sudha Krishnamurthy",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_06"
+  },
+  {
+    "user_email": "rama.subramanian@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Rama Subramanian",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_07"
+  },
+  {
+    "user_email": "parvathi.srinivasan@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Parvathi Srinivasan",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_07"
+  },
+  {
+    "user_email": "dinesh.natesan@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Dinesh Natesan",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_07"
+  },
+  {
+    "user_email": "sanjay.patel@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Sanjay Patel",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_08"
+  },
+  {
+    "user_email": "nitin.joshi@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Nitin Joshi",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_08"
+  },
+  {
+    "user_email": "ramesh.desai@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Ramesh Desai",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_08"
+  },
+  {
+    "user_email": "priti.shah@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Priti Shah",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_08"
+  },
+  {
+    "user_email": "mohan.singh@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Mohan Singh",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_09"
+  },
+  {
+    "user_email": "sunil.yadav@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Sunil Yadav",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_09"
+  },
+  {
+    "user_email": "arun.mishra@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Arun Mishra",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_09"
+  },
+  {
+    "user_email": "geeta.tiwari@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Geeta Tiwari",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_09"
+  },
+  {
+    "user_email": "kavya.reddy@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Kavya Reddy",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_10"
+  },
+  {
+    "user_email": "ajay.verma@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Ajay Verma",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_10"
+  },
+  {
+    "user_email": "suma.kulkarni@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Suma Kulkarni",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_10"
+  },
+  {
+    "user_email": "farhan.sheikh@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Farhan Sheikh",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_11"
+  },
+  {
+    "user_email": "aisha.khan@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Aisha Khan",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_11"
+  },
+  {
+    "user_email": "vikram.deshpande@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Vikram Deshpande",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_11"
+  },
+  {
+    "user_email": "rima.mehta@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Rima Mehta",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_11"
+  },
+  {
+    "user_email": "prakash.gupta@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Prakash Gupta",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_12"
+  },
+  {
+    "user_email": "rakesh.pandey@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Rakesh Pandey",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_12"
+  },
+  {
+    "user_email": "sunita.chauhan@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Sunita Chauhan",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_12"
+  },
+  {
+    "user_email": "vikram.rao@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Vikram Rao",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_13"
+  },
+  {
+    "user_email": "satish.reddy@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Satish Reddy",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_13"
+  },
+  {
+    "user_email": "lalitha.naidu@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Lalitha Naidu",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_13"
+  },
+  {
+    "user_email": "ravi.prasad@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Ravi Prasad",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_13"
+  },
+  {
+    "user_email": "dinesh.verma@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Dinesh Verma",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_14"
+  },
+  {
+    "user_email": "pooja.agarwal@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Pooja Agarwal",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_14"
+  },
+  {
+    "user_email": "tarun.bhatia@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Tarun Bhatia",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_14"
+  },
+  {
+    "user_email": "jyoti.kapoor@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Jyoti Kapoor",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_14"
+  },
+  {
+    "user_email": "suresh.malhotra@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Suresh Malhotra",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_14"
+  },
+  {
+    "user_email": "ashok.iyer@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Ashok Iyer",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_15"
+  },
+  {
+    "user_email": "naveen.pillai@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Naveen Pillai",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_15"
+  },
+  {
+    "user_email": "vimal.sharma@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Vimal Sharma",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_15"
+  },
+  {
+    "user_email": "radha.krishnan@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Radha Krishnan",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_15"
+  },
+  {
+    "user_email": "anita.pillai@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Anita Pillai",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_16"
+  },
+  {
+    "user_email": "ramesh.nair@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Ramesh Nair",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_16"
+  },
+  {
+    "user_email": "sunitha.babu@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Sunitha Babu",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_16"
+  },
+  {
+    "user_email": "pradeep.kumar@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Pradeep Kumar",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_17"
+  },
+  {
+    "user_email": "leela.devi@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Leela Devi",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_17"
+  },
+  {
+    "user_email": "mohan.rao@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Mohan Rao",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_17"
+  },
+  {
+    "user_email": "usha.reddy@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Usha Reddy",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_17"
+  },
+  {
+    "user_email": "chandra.sekhar@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Chandra Sekhar",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_18"
+  },
+  {
+    "user_email": "nagesh.rao@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Nagesh Rao",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_18"
+  },
+  {
+    "user_email": "savitha.murthy@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Savitha Murthy",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_18"
+  },
+  {
+    "user_email": "kiran.babu@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Kiran Babu",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_18"
+  },
+  {
+    "user_email": "ravi.joshi@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Ravi Joshi",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_19"
+  },
+  {
+    "user_email": "anil.kulkarni@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Anil Kulkarni",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_19"
+  },
+  {
+    "user_email": "shweta.pawar@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Shweta Pawar",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_19"
+  },
+  {
+    "user_email": "nikhil.chavan@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Nikhil Chavan",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_19"
+  },
+  {
+    "user_email": "priya.bhosale@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Priya Bhosale",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_19"
+  },
+  {
+    "user_email": "naresh.gupta@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Naresh Gupta",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_20"
+  },
+  {
+    "user_email": "sudhir.wagh@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Sudhir Wagh",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_20"
+  },
+  {
+    "user_email": "vijay.deshpande@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Vijay Deshpande",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_20"
+  },
+  {
+    "user_email": "rekha.patil@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Rekha Patil",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_20"
+  },
+  {
+    "user_email": "ganesh.more@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Ganesh More",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_20"
+  },
+  {
+    "user_email": "sunita.mehta@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Sunita Mehta",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_21"
+  },
+  {
+    "user_email": "sagar.jadhav@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Sagar Jadhav",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_21"
+  },
+  {
+    "user_email": "neha.phadke@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Neha Phadke",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_21"
+  },
+  {
+    "user_email": "deepak.marathe@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Deepak Marathe",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_22"
+  },
+  {
+    "user_email": "sneha.thakur@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Sneha Thakur",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_22"
+  },
+  {
+    "user_email": "ajit.kamble@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Ajit Kamble",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_22"
+  },
+  {
+    "user_email": "rashmi.sawant@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Rashmi Sawant",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_22"
+  },
+  {
+    "user_email": "yogesh.gaikwad@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Yogesh Gaikwad",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_23"
+  },
+  {
+    "user_email": "amit.shinde@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Amit Shinde",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_23"
+  },
+  {
+    "user_email": "vaishali.naik@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Vaishali Naik",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_23"
+  },
+  {
+    "user_email": "rahul.thombare@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Rahul Thombare",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_23"
+  },
+  {
+    "user_email": "manoj.khatri@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Manoj Khatri",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_24"
+  },
+  {
+    "user_email": "priti.ghosalkar@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Priti Ghosalkar",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_24"
+  },
+  {
+    "user_email": "santosh.kale@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Santosh Kale",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_24"
+  },
+  {
+    "user_email": "pallavi.datar@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Pallavi Datar",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_24"
+  },
+  {
+    "user_email": "hemant.gokhale@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Hemant Gokhale",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_25"
+  },
+  {
+    "user_email": "swati.karnik@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Swati Karnik",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_25"
+  },
+  {
+    "user_email": "rushikesh.bhide@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Rushikesh Bhide",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_25"
+  },
+  {
+    "user_email": "deepak.chauhan@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Deepak Chauhan",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_26"
+  },
+  {
+    "user_email": "rajiv.sood@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Rajiv Sood",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_26"
+  },
+  {
+    "user_email": "harpreet.kaur@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Harpreet Kaur",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_26"
+  },
+  {
+    "user_email": "manish.saxena@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Manish Saxena",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_26"
+  },
+  {
+    "user_email": "kiran.yadav@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Kiran Yadav",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_27"
+  },
+  {
+    "user_email": "suresh.arora@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Suresh Arora",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_27"
+  },
+  {
+    "user_email": "pankaj.sharma@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Pankaj Sharma",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_27"
+  },
+  {
+    "user_email": "neetu.bhatia@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Neetu Bhatia",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_27"
+  },
+  {
+    "user_email": "pooja.sharma@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Pooja Sharma",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_28"
+  },
+  {
+    "user_email": "amit.rawat@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Amit Rawat",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_28"
+  },
+  {
+    "user_email": "reema.singh@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Reema Singh",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_28"
+  },
+  {
+    "user_email": "vikas.kapoor@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Vikas Kapoor",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_29"
+  },
+  {
+    "user_email": "seema.ahluwalia@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Seema Ahluwalia",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_29"
+  },
+  {
+    "user_email": "rohit.bansode@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Rohit Bansode",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_29"
+  },
+  {
+    "user_email": "nidhi.jain@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Nidhi Jain",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_29"
+  },
+  {
+    "user_email": "gurpreet.singh@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Gurpreet Singh",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_30"
+  },
+  {
+    "user_email": "ajay.tandon@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Ajay Tandon",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_30"
+  },
+  {
+    "user_email": "priya.malhotra@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Priya Malhotra",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_30"
+  },
+  {
+    "user_email": "mahesh.nair@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Mahesh Nair",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_31"
+  },
+  {
+    "user_email": "anitha.rao@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Anitha Rao",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_31"
+  },
+  {
+    "user_email": "chetan.hegde@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Chetan Hegde",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_31"
+  },
+  {
+    "user_email": "geetha.narayan@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Geetha Narayan",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_31"
+  },
+  {
+    "user_email": "vinod.shetty@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Vinod Shetty",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_31"
+  },
+  {
+    "user_email": "arjun.reddy@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Arjun Reddy",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_32"
+  },
+  {
+    "user_email": "ramana.gowda@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Ramana Gowda",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_32"
+  },
+  {
+    "user_email": "indira.prasad@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Indira Prasad",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_32"
+  },
+  {
+    "user_email": "suresh.bhat@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Suresh Bhat",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_32"
+  },
+  {
+    "user_email": "padmavathi.rao@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Padmavathi Rao",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_32"
+  },
+  {
+    "user_email": "divya.krishnamurthy@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Divya Krishnamurthy",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_33"
+  },
+  {
+    "user_email": "sridhar.narayana@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Sridhar Narayana",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_33"
+  },
+  {
+    "user_email": "bharathi.sundaram@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Bharathi Sundaram",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_33"
+  },
+  {
+    "user_email": "krishnamurthy.iyengar@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Krishnamurthy Iyengar",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_34"
+  },
+  {
+    "user_email": "sowmya.reddy@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Sowmya Reddy",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_34"
+  },
+  {
+    "user_email": "rajan.pillai@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Rajan Pillai",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_34"
+  },
+  {
+    "user_email": "thenmozhi.kumar@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Thenmozhi Kumar",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_34"
+  },
+  {
+    "user_email": "suresh.gopalan@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Suresh Gopalan",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_35"
+  },
+  {
+    "user_email": "madhuri.srinivasan@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Madhuri Srinivasan",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_35"
+  },
+  {
+    "user_email": "balu.krishnan@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Balu Krishnan",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_35"
+  },
+  {
+    "user_email": "hema.sekar@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Hema Sekar",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_35"
+  },
+  {
+    "user_email": "prashanth.murthy@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Prashanth Murthy",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_36"
+  },
+  {
+    "user_email": "roopa.venkatesh@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Roopa Venkatesh",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_36"
+  },
+  {
+    "user_email": "aditya.prabhu@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Aditya Prabhu",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_36"
+  },
+  {
+    "user_email": "sindhu.ramesh@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Sindhu Ramesh",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_36"
+  },
+  {
+    "user_email": "nirmala.naidu@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Nirmala Naidu",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_37"
+  },
+  {
+    "user_email": "santosh.kulkarni@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Santosh Kulkarni",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_37"
+  },
+  {
+    "user_email": "archana.pai@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Archana Pai",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_37"
+  },
+  {
+    "user_email": "ganesh.shah@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Ganesh Shah",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_38"
+  },
+  {
+    "user_email": "bharat.patel@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Bharat Patel",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_38"
+  },
+  {
+    "user_email": "hinal.desai@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Hinal Desai",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_38"
+  },
+  {
+    "user_email": "jignesh.modi@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Jignesh Modi",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_38"
+  },
+  {
+    "user_email": "rahul.tiwari@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Rahul Tiwari",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_39"
+  },
+  {
+    "user_email": "kalpesh.joshi@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Kalpesh Joshi",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_39"
+  },
+  {
+    "user_email": "mira.trivedi@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Mira Trivedi",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_39"
+  },
+  {
+    "user_email": "nirav.bhatt@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Nirav Bhatt",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_39"
+  },
+  {
+    "user_email": "puja.mehta@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Puja Mehta",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_39"
+  },
+  {
+    "user_email": "sunil.dubey@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Sunil Dubey",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_40"
+  },
+  {
+    "user_email": "mahesh.patel@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Mahesh Patel",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_40"
+  },
+  {
+    "user_email": "sanjay.vaghela@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Sanjay Vaghela",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_40"
+  },
+  {
+    "user_email": "rekha.solanki@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Rekha Solanki",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_40"
+  },
+  {
+    "user_email": "meena.agarwal@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Meena Agarwal",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_41"
+  },
+  {
+    "user_email": "yogesh.dave@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Yogesh Dave",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_41"
+  },
+  {
+    "user_email": "devyani.parikh@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Devyani Parikh",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_41"
+  },
+  {
+    "user_email": "alpesh.bhavsar@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Alpesh Bhavsar",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_42"
+  },
+  {
+    "user_email": "pragna.rao@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Pragna Rao",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_42"
+  },
+  {
+    "user_email": "sailesh.kapadia@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Sailesh Kapadia",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_42"
+  },
+  {
+    "user_email": "heena.mirza@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Heena Mirza",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_42"
+  },
+  {
+    "user_email": "dhruv.sharma@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Dhruv Sharma",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_43"
+  },
+  {
+    "user_email": "bela.contractor@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Bela Contractor",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_43"
+  },
+  {
+    "user_email": "rajan.suri@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Rajan Suri",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_43"
+  },
+  {
+    "user_email": "foram.desai@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Foram Desai",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_43"
+  },
+  {
+    "user_email": "bimal.bose@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Bimal Bose",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_44"
+  },
+  {
+    "user_email": "subhasis.das@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Subhasis Das",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_44"
+  },
+  {
+    "user_email": "tapas.ghosh@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Tapas Ghosh",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_44"
+  },
+  {
+    "user_email": "suparna.sen@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Suparna Sen",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_44"
+  },
+  {
+    "user_email": "ratan.pal@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Ratan Pal",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_44"
+  },
+  {
+    "user_email": "santosh.das@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Santosh Das",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_45"
+  },
+  {
+    "user_email": "amit.chatterjee@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Amit Chatterjee",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_45"
+  },
+  {
+    "user_email": "debashis.mondal@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Debashis Mondal",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_45"
+  },
+  {
+    "user_email": "sharmistha.roy@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Sharmistha Roy",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_45"
+  },
+  {
+    "user_email": "pinaki.sarkar@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Pinaki Sarkar",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_45"
+  },
+  {
+    "user_email": "rekha.ghosh@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Rekha Ghosh",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_46"
+  },
+  {
+    "user_email": "arup.banerjee@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Arup Banerjee",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_46"
+  },
+  {
+    "user_email": "mousumi.paul@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Mousumi Paul",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_46"
+  },
+  {
+    "user_email": "prasenjit.mukherjee@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Prasenjit Mukherjee",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_47"
+  },
+  {
+    "user_email": "sukla.biswas@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Sukla Biswas",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_47"
+  },
+  {
+    "user_email": "tanmay.datta@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Tanmay Datta",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_47"
+  },
+  {
+    "user_email": "indrani.chakraborty@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Indrani Chakraborty",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_47"
+  },
+  {
+    "user_email": "sourav.nandi@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Sourav Nandi",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_48"
+  },
+  {
+    "user_email": "dipak.halder@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Dipak Halder",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_48"
+  },
+  {
+    "user_email": "madhu.banerjee@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Madhu Banerjee",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_48"
+  },
+  {
+    "user_email": "arnab.dey@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Arnab Dey",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_48"
+  },
+  {
+    "user_email": "sujoy.chakraborty@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Sujoy Chakraborty",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_49"
+  },
+  {
+    "user_email": "paramita.ghosh@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Paramita Ghosh",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_49"
+  },
+  {
+    "user_email": "ayan.roy@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Ayan Roy",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_49"
+  },
+  {
+    "user_email": "nilima.basu@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Nilima Basu",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_49"
+  },
+  {
+    "user_email": "rupa.mitra@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Rupa Mitra",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_50"
+  },
+  {
+    "user_email": "sohini.das@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Sohini Das",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_50"
+  },
+  {
+    "user_email": "uttam.paul@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Uttam Paul",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_50"
+  },
+  {
+    "user_email": "tarun.singh@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Tarun Singh",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_51"
+  },
+  {
+    "user_email": "senthil.raj@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Senthil Raj",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_51"
+  },
+  {
+    "user_email": "murugesan.pillai@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Murugesan Pillai",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_51"
+  },
+  {
+    "user_email": "arumugam.durai@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Arumugam Durai",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_51"
+  },
+  {
+    "user_email": "vijay.kumar@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Vijay Kumar",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_52"
+  },
+  {
+    "user_email": "selvam.krishnan@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Selvam Krishnan",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_52"
+  },
+  {
+    "user_email": "ravi.muthusamy@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Ravi Muthusamy",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_52"
+  },
+  {
+    "user_email": "balakumar.sekar@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Balakumar Sekar",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_52"
+  },
+  {
+    "user_email": "lakshmi.murugan@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Lakshmi Murugan",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_53"
+  },
+  {
+    "user_email": "dinesh.babu@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Dinesh Babu",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_53"
+  },
+  {
+    "user_email": "geetha.rajan@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Geetha Rajan",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_53"
+  },
+  {
+    "user_email": "ramachandran.venkat@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Ramachandran Venkat",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_54"
+  },
+  {
+    "user_email": "bharani.murugan@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Bharani Murugan",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_54"
+  },
+  {
+    "user_email": "saravanan.pillai@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Saravanan Pillai",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_54"
+  },
+  {
+    "user_email": "preethi.pandian@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Preethi Pandian",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_54"
+  },
+  {
+    "user_email": "prakash.pillai@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Prakash Pillai",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_55"
+  },
+  {
+    "user_email": "chandru.sivakumar@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Chandru Sivakumar",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_55"
+  },
+  {
+    "user_email": "revathi.anand@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Revathi Anand",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_55"
+  },
+  {
+    "user_email": "uday.pandey@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Uday Pandey",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_56"
+  },
+  {
+    "user_email": "bhaskar.sundaram@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Bhaskar Sundaram",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_56"
+  },
+  {
+    "user_email": "muthukumar.selvan@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Muthukumar Selvan",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_56"
+  },
+  {
+    "user_email": "kavitha.gopal@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Kavitha Gopal",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_56"
+  },
+  {
+    "user_email": "harish.verma@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Harish Verma",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_57"
+  },
+  {
+    "user_email": "suresh.raj@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Suresh Raj",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_57"
+  },
+  {
+    "user_email": "bhanu.prakash@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Bhanu Prakash",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_57"
+  },
+  {
+    "user_email": "malathi.rajan@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Malathi Rajan",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_57"
+  },
+  {
+    "user_email": "nisha.iyer@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Nisha Iyer",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_58"
+  },
+  {
+    "user_email": "tamilarasan.ganesan@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Tamilarasan Ganesan",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_58"
+  },
+  {
+    "user_email": "janani.murugesan@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Janani Murugesan",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_58"
+  },
+  {
+    "user_email": "rajan.kumar@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Rajan Kumar",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_59"
+  },
+  {
+    "user_email": "saranya.murugan@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Saranya Murugan",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_59"
+  },
+  {
+    "user_email": "ganesh.babu@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Ganesh Babu",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_59"
+  },
+  {
+    "user_email": "priya.selvam@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Priya Selvam",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_59"
+  },
+  {
+    "user_email": "balan.krishnan@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Balan Krishnan",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_60"
+  },
+  {
+    "user_email": "palaniappan.murugan@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Palaniappan Murugan",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_60"
+  },
+  {
+    "user_email": "sumathi.raj@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Sumathi Raj",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_60"
+  },
+  {
+    "user_email": "anil.mehta@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Anil Mehta",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_61"
+  },
+  {
+    "user_email": "kavita.sharma@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Kavita Sharma",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_61"
+  },
+  {
+    "user_email": "prashant.rane@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Prashant Rane",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_61"
+  },
+  {
+    "user_email": "sonali.patil@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Sonali Patil",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_61"
+  },
+  {
+    "user_email": "suma.patel@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Suma Patel",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_62"
+  },
+  {
+    "user_email": "rohan.kapoor@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Rohan Kapoor",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_62"
+  },
+  {
+    "user_email": "anjali.bose@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Anjali Bose",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_62"
+  },
+  {
+    "user_email": "vivek.nair@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Vivek Nair",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_62"
+  },
+  {
+    "user_email": "shalini.gupta@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Shalini Gupta",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_63"
+  },
+  {
+    "user_email": "rakesh.tiwari@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Rakesh Tiwari",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_63"
+  },
+  {
+    "user_email": "pooja.chatterjee@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Pooja Chatterjee",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_63"
+  },
+  {
+    "user_email": "manish.kumar@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Manish Kumar",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_63"
+  },
+  {
+    "user_email": "rajesh.sinha@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Rajesh Sinha",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_64"
+  },
+  {
+    "user_email": "anand.trivedi@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Anand Trivedi",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_64"
+  },
+  {
+    "user_email": "priya.rajan@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Priya Rajan",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_64"
+  },
+  {
+    "user_email": "sanjay.menon@acertech.in",
+    "tenant_id": "TENANT_ACERTECH",
+    "full_name": "Sanjay Menon",
+    "status_id": "STATUS_ACTIVE",
+    "group_id": "GROUP_64"
+  }
+]

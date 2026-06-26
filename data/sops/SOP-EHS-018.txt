@@ -1,0 +1,42 @@
+SOP ID: SOP-EHS-018
+Title: Preventive Maintenance Planning and Execution
+Version: 2.4
+Effective Date: 2023-06-01
+Review Date: 2025-06-01
+Owner: Maintenance / Engineering
+Applicable Sites: All manufacturing and processing sites
+Regulatory Reference: ISO 45001:2018 Clause 8.1; PUWER 1998 Regulation 6; ISO 55001 (Asset Management)
+
+PURPOSE
+To ensure all safety-critical equipment is maintained in a condition that prevents failure and the associated safety, environmental, and production consequences.
+
+SCOPE
+All production equipment, utility systems, lifting equipment, fire protection systems, safety instrumentation, and safety-critical structures at AcerTech manufacturing and processing sites. Includes both time-based preventive maintenance (TBPM) and condition-based maintenance (CBM).
+
+SAFETY-CRITICAL EQUIPMENT REGISTER
+Engineering Manager maintains a safety-critical equipment register for each site. Register includes: equipment ID, description, criticality rating (based on consequence of failure: Safety / Environmental / Production), maintenance type, frequency, and responsible tradesperson. Register reviewed annually and after any equipment failure incident.
+
+MAINTENANCE SCHEDULE DEVELOPMENT
+Step 1 — Failure Mode Analysis: For each item, identify failure modes and consequences. Use OEM recommendations, reliability data, and incident history.
+Step 2 — Frequency Setting: Set PM frequency to prevent failure before it occurs, based on failure mode progression rate.
+Step 3 — CMMS Entry: All PM tasks entered in the Computerised Maintenance Management System (CMMS). Scheduled to generate work orders automatically.
+Step 4 — Approval: Maintenance schedule for safety-critical equipment approved by Engineering Manager and reviewed by Site EHS Officer.
+
+MAINTENANCE EXECUTION
+Step 1 — Work Order Issued: CMMS generates work order at scheduled date. Assigned to qualified tradesperson.
+Step 2 — Isolation: Apply LOTO per SOP-EHS-001 before work. Confirm energy zero before beginning.
+Step 3 — Task Completion: Perform PM tasks per task card. Record findings (condition found, measurements taken, parts replaced) on work order.
+Step 4 — Functional Test: After PM, test equipment operation at reduced load before returning to full service.
+Step 5 — Sign Off: Tradesperson signs work order. Supervisor reviews and countersigns for safety-critical items. Close work order in CMMS.
+
+OVERDUE PM MANAGEMENT
+Overdue PM status: any safety-critical PM more than 7 days overdue is escalated to Site Manager and EHS Officer. Equipment may be restricted to reduced duty or taken out of service until PM is completed. Overdue PMs reviewed in weekly maintenance meeting.
+
+CONDITION-BASED MONITORING
+For rotating equipment and high-consequence assets: vibration analysis monthly; thermographic inspection annually (electrical panels, switchgear, bearings); oil sample analysis quarterly for gearboxes and hydraulic systems. Trends reviewed by Engineering Manager; anomalies trigger work order before failure.
+
+MAINTENANCE RECORDS
+All PM work orders retained in CMMS for the life of equipment plus 5 years. Used for: failure trend analysis; CAPA evidence; regulatory inspections; insurance assessments.
+
+CAPA LINKAGE
+Any PM execution that reveals a safety defect (cracking, wear beyond tolerance, failed component) triggers a CAPA in the EHS system. Defect, root cause, and corrective action recorded with evidence of rectification.

@@ -1,0 +1,42 @@
+SOP ID: SOP-EHS-021
+Title: Safety Inspection and Internal Audit Programme
+Version: 2.3
+Effective Date: 2024-01-01
+Review Date: 2026-01-01
+Owner: Group EHS
+Applicable Sites: All sites
+Regulatory Reference: ISO 45001:2018 Clauses 9.1.1, 9.2; ISO 14001:2015 Clause 9.2
+
+PURPOSE
+To verify that EHS controls are functioning as intended through a structured programme of planned inspections and internal audits, and to drive continuous improvement through systematic finding closure.
+
+SCOPE
+All sites, all departments, all EHS management system elements. Inspections focus on physical conditions and behaviour; audits focus on management system compliance and effectiveness.
+
+INSPECTION PROGRAMME
+Frequency and type:
+  - Supervisor workplace inspection: Weekly, own work area. Record on EHS-FORM-050.
+  - Site EHS Officer planned inspection: Monthly, full site. Rotate areas to ensure full coverage over quarter.
+  - Cross-site peer inspection: Quarterly, Site EHS Officer inspects a different site. Fresh eyes; share best practice.
+  - Senior management safety walkabout: Monthly, led by Site Manager with EHS Officer. Demonstrates leadership commitment; findings escalated to management action.
+
+Inspection methodology:
+  - Physical conditions: Housekeeping, guarding, PPE use, storage, fire equipment, emergency signage, LOTO tags in place, spill kits stocked.
+  - Documentation spot checks: Are PM records current? Are training records up to date? Are permits on display?
+  - Behavioural observations: Are workers following procedures? Are risk assessments available and being followed?
+
+FINDING CLASSIFICATION AND RESPONSE
+Critical (immediate danger to life): Stop the activity immediately. Remove hazard before resuming work. Notify Site Manager and Group EHS within 1 hour.
+High (likely to cause injury if not addressed): Correct within 24 hours. Temporary controls if correction takes longer. Notify EHS Officer immediately.
+Medium: Correct within 7 days. Track in inspection register.
+Low / Observation: Correct within 30 days.
+
+INTERNAL AUDIT PROGRAMME
+Annual internal audit cycle covers all ISO 45001 and ISO 14001 clause areas across all sites over a rolling 2-year programme. Audits are planned at the start of each calendar year and approved by the Group EHS Director.
+Auditor requirements: Internal auditor training (2-day ISO 45001 internal auditor course); cannot audit own area (independence); audit in pairs where practicable.
+Audit process: Opening meeting → clause-by-clause evidence review → site tour → closing meeting → draft report → formal report within 5 working days.
+Audit findings classified as: Major Nonconformity (system element absent or total breakdown); Minor Nonconformity (isolated lapse); Observation (improvement opportunity).
+Corrective action: Major NC — corrective action plan submitted within 10 working days; verified closed by auditor within 30 days. Minor NC — closed within 30 days.
+
+CORRECTIVE ACTION TRACKING
+All inspection and audit findings entered in the CAPA system as observations or NCRs. Tracked to closure with evidence. Overdue findings reported in monthly EHS meeting. Annual trend analysis to identify systemic issues.

@@ -1,0 +1,42 @@
+SOP ID: SOP-EHS-024
+Title: Emergency Response Planning and Business Continuity
+Version: 2.0
+Effective Date: 2024-06-01
+Review Date: 2026-06-01
+Owner: Group EHS / Site Manager
+Applicable Sites: All sites
+Regulatory Reference: ISO 45001:2018 Clause 8.2; ISO 14001:2015 Clause 8.2; OSHA 29 CFR 1910.38
+
+PURPOSE
+To ensure AcerTech sites are prepared to respond effectively to emergency situations, minimising harm to people, environment, and business continuity.
+
+SCOPE
+All foreseeable emergency scenarios at each AcerTech site. Each site must have a site-specific Emergency Response Plan (ERP) developed from this framework.
+
+HAZARD IDENTIFICATION FOR EMERGENCY PLANNING
+Each site identifies worst-case emergency scenarios from: major accident hazard (COMAH/PNGRB threshold quantity) analysis for chemical sites; flood, earthquake, and extreme weather relevant to site geography; neighbouring site hazards (Tier 2 COMAH, chemical plants); internal scenarios (major fire, structural collapse, multi-casualty incident, chemical release).
+
+EMERGENCY RESPONSE PLAN CONTENTS (mandatory per site)
+1. Site layout plan: Building layout, hazardous materials locations, emergency shutdown points, assembly areas.
+2. Scenario-specific response cards: One page per scenario; actions in sequence; names and contact numbers.
+3. Emergency contacts: Internal chain (EHS Officer → Site Manager → Group EHS Director); external (fire brigade, police, ambulance, hospital, environmental regulator, chemical emergency response line).
+4. Roles and responsibilities: Fire Warden, First Aider, Chemical Response Team (chemical sites), Media Spokesperson.
+5. First aid resources: First aiders per shift minimum (1 per 50 employees; 1 per 10 in chemical processing areas); first aid kit locations; defibrillator locations and last checked date.
+6. Business continuity: Key equipment list; backup supply contacts; IT recovery contacts.
+7. Regulatory notification: Who to call, when, and what to report for environmental releases, LTIs, dangerous occurrences.
+
+EMERGENCY DRILL PROGRAMME
+Fire evacuation: Full drill every 6 months (see SOP-EHS-009). Time to clear building recorded. Deficiencies raised as CAPA.
+Chemical spill response: Drill annually at Sites 3 and 7; observe and assess the chemical response team.
+First aid scenario: Tabletop exercise annually; practical first aid assessment every 3 years with external assessor.
+Business continuity: Tabletop exercise annually at Group level.
+
+FIRST AID PROVISION
+First Aid at Work (FAW) trained persons identified per shift on site induction board and emergency contact list. First aid kits inspected monthly by nominated person; contents replaced immediately after use. Eye wash stations at all chemical handling locations; inspect and flush weekly.
+
+COMMUNICATION DURING EMERGENCIES
+External communication: Only Site Manager or nominated spokesperson speaks to media, regulatory authorities, or the public during an incident. All other employees direct external enquiries to the Site Manager.
+Internal notification: Emergency notification cascade tested as part of each drill.
+
+REVIEW AND UPDATE
+ERP reviewed annually and after: any emergency or near-emergency event; significant change to site layout or hazardous materials; change in key personnel named in the plan.

@@ -1,0 +1,29 @@
+REGULATORY REFERENCE: REG-ISO45001-003
+Standard: ISO 45001:2018 — Occupational Health and Safety Management Systems
+Clause: 6 — Planning
+Version: First Edition 2018-03
+Issuing Body: International Organisation for Standardisation (ISO)
+
+CLAUSE SUMMARY
+Clause 6 requires the organisation to systematically identify hazards, assess risks and opportunities, and plan actions to address them. It also requires legal and other requirements to be identified, and OH&S objectives with plans to achieve them to be established.
+
+CLAUSE 6.1 — ACTIONS TO ADDRESS RISKS AND OPPORTUNITIES
+
+6.1.1 General: When planning the OH&S management system, the organisation must consider the context issues and interested-party requirements and determine the risks and opportunities that need to be addressed.
+
+6.1.2 Hazard Identification and Assessment of Risks and Opportunities:
+The organisation must establish, implement, and maintain processes for proactive, ongoing hazard identification. Hazard identification must consider: how work is organised, social factors, leadership, and culture; routine and non-routine activities and situations; past incidents; potential emergency situations; people (including contractors, visitors); changes (actual or proposed); physical work environment; workplace design; processes, procedures, and activities.
+Risk assessment must determine existing controls; evaluate OH&S risks with those controls in place; determine whether additional controls are needed.
+Opportunities for OH&S improvement must also be assessed.
+
+6.1.3 Determination of Legal and Other Requirements:
+Process to identify and access legal and other requirements applicable to hazards. Determine how they apply to the organisation. Keep up to date. Communicate relevant legal requirements to workers.
+
+6.1.4 Planning Actions:
+Plan actions to address risks, opportunities, and legal requirements. Integrate into OH&S management system processes. Evaluate effectiveness of actions.
+
+CLAUSE 6.2 — OH&S OBJECTIVES AND PLANNING TO ACHIEVE THEM
+OH&S objectives must: be consistent with OH&S policy; consider applicable requirements; consider the results of hazard and risk assessment; be measurable or capable of performance evaluation; be monitored; be communicated; be updated as appropriate. Document OH&S objectives. Plan: what will be done; what resources are required; who will be responsible; when it will be completed; how results will be evaluated.
+
+REQUIREMENTS FOR CORRECTIVE ACTION
+Incidents arising from hazards not identified in the risk assessment indicate a failure of the hazard identification process (root cause category: Missing Inspection or Management System Weakness). Root cause analysis must determine whether the gap was: methodology failure; scope exclusion; change not captured in MOC; non-routine activity not assessed. Corrective actions must address the process gap, not only the specific hazard.

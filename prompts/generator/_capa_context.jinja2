@@ -1,0 +1,11 @@
+━━━ CAPA CONTEXT ━━━
+Problem summary  : {{ problem_summary }}
+Root cause       : {{ root_cause or "Not specified" }}
+Root cause category: {{ root_cause_category or "Not specified" }}
+Severity         : {{ severity or "Not specified" }}
+Site             : {{ site_id or "Not specified" }}
+Owner group      : {{ owner_group_id or "Not specified" }}
+{% if missing_controls %}
+Missing controls : {{ missing_controls | join(", ") }}
+  (safety controls that should have existed but didn't — a strong action should address these directly)
+{% endif %}

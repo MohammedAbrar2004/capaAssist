@@ -1,0 +1,24 @@
+REGULATORY REFERENCE: REG-ISO45001-005
+Standard: ISO 45001:2018 — Occupational Health and Safety Management Systems
+Clause: 8.1 — Operational Planning and Control
+Version: First Edition 2018-03
+Issuing Body: International Organisation for Standardisation (ISO)
+
+CLAUSE SUMMARY
+Clause 8.1 requires the organisation to plan, implement, control, and maintain processes to meet OH&S management system requirements and to implement actions identified in planning. It includes specific requirements for eliminating hazards and reducing OH&S risks, management of change, and procurement.
+
+CLAUSE 8.1.1 — GENERAL
+The organisation must plan, implement, control, and maintain the processes needed to meet requirements and to implement the actions determined in Clause 6.1 by: establishing criteria for the processes; implementing control of the processes in accordance with the criteria; keeping documented information to have confidence that the processes have been carried out as planned. The organisation must coordinate its OH&S management system with other organisations at multi-employer work sites.
+
+CLAUSE 8.1.2 — ELIMINATING HAZARDS AND REDUCING OH&S RISKS
+The organisation must establish, implement, and maintain processes for eliminating hazards and reducing OH&S risks using the hierarchy of controls: 1) Eliminate the hazard; 2) Substitute with less hazardous processes, operations, materials or equipment; 3) Use engineering controls and reorganisation of work; 4) Use administrative controls, including training; 5) Use adequate PPE. The hierarchy must be applied in order. Lower-level controls (administrative, PPE) should not be selected in preference to higher-level controls (engineering, elimination) without justification.
+
+CLAUSE 8.1.3 — MANAGEMENT OF CHANGE
+The organisation must establish a process for implementing and controlling planned temporary and permanent changes that impact OH&S performance, including: new products, services, and processes; changes to work processes, procedures, equipment, and organisation; changes in legal and other requirements; changes in knowledge or information about hazards and OH&S risks; developments in knowledge and technology. Consequences of unintended changes must be reviewed and action taken to mitigate any adverse effects.
+
+CLAUSE 8.1.4 — PROCUREMENT
+The organisation must establish processes to control the procurement of products and services in order to ensure their conformity with its OH&S management system. Procurement processes must address: contractors (Clause 8.1.4.2) and outsourcing (Clause 8.1.4.3).
+For contractors: the organisation must coordinate procurement processes and ensure contractor activities do not adversely impact OH&S performance; requirements must be communicated to contractors before work starts; unsafe work by contractors must be stopped.
+
+REQUIREMENTS FOR CORRECTIVE ACTION
+Incidents arising from: process changes without MOC review; new equipment without pre-commissioning hazard assessment; contractor activities not covered by RAMS — indicate Clause 8.1 failures. Root cause category is typically Process Failure (procedure not followed) or Management System Weakness (MOC process not established). Corrective actions must address both the immediate incident and the management system gap that permitted the work to proceed without adequate control.

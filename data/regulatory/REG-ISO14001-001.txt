@@ -1,0 +1,33 @@
+REGULATORY REFERENCE: REG-ISO14001-001
+Standard: ISO 14001:2015 — Environmental Management Systems
+Clause: 6 — Planning
+Version: Third Edition 2015-09
+Issuing Body: International Organisation for Standardisation (ISO)
+
+CLAUSE SUMMARY
+Clause 6 requires the organisation to identify its environmental aspects and associated impacts, determine significant environmental aspects, address legal and other environmental requirements, and establish environmental objectives with plans to achieve them.
+
+CLAUSE 6.1 — ACTIONS TO ADDRESS RISKS AND OPPORTUNITIES
+The organisation must consider: environmental aspects (Clause 6.1.2); compliance obligations (Clause 6.1.3); and other issues and requirements (from Clause 4.1 and 4.2) to determine risks and opportunities that need to be addressed. This ensures the EMS can achieve intended outcomes, prevent or reduce undesired effects, and achieve continual improvement.
+
+CLAUSE 6.1.2 — ENVIRONMENTAL ASPECTS
+The organisation must determine the environmental aspects of its activities, products, and services that it can control and those that it can influence, and their associated environmental impacts. Life cycle perspective must be considered (not just operational activities — also procurement and end of life). Both normal and abnormal operating conditions, and emergency situations, must be covered.
+Significant environmental aspects must be determined using established criteria. Significant aspects must be communicated, documented, and updated.
+Environmental aspects relevant to AcerTech operations include:
+- Atmospheric emissions: VOC and solvent vapour from chemical processing; welding fume; vehicle exhaust.
+- Wastewater discharge: Process effluent, cooling water, stormwater run-off potentially contaminated with oils or chemicals.
+- Hazardous waste generation: Used solvents, chemical waste, contaminated absorbents, waste oils.
+- Energy consumption: Electricity, natural gas, diesel — linked to carbon footprint.
+- Water consumption: Process water, cooling water, sanitary use.
+- Raw material consumption: Chemical inputs, metals, packaging.
+- Land contamination: Chemical spills, leaks from underground storage.
+- Noise: Boundary noise levels affecting local community.
+
+CLAUSE 6.1.3 — COMPLIANCE OBLIGATIONS
+The organisation must determine and have access to the compliance obligations related to its environmental aspects. How these apply must be determined and they must be taken into account in establishing, implementing, maintaining, and continually improving the EMS.
+
+CLAUSE 6.2 — ENVIRONMENTAL OBJECTIVES AND PLANNING TO ACHIEVE THEM
+Environmental objectives must be: consistent with environmental policy; measurable; monitored; communicated; updated as appropriate. Plans to achieve objectives: what will be done; resources required; responsible persons; completion timeframe; how results will be evaluated.
+
+REQUIREMENTS FOR CORRECTIVE ACTION
+Environmental incidents — chemical spills reaching drains, unauthorised atmospheric emissions, waste disposed incorrectly — require environmental CAPA. Root cause analysis must determine whether the gap was: missing environmental aspect identification (Clause 6.1.2 failure); missing control procedure (Clause 8.1 failure); or management system failure to communicate requirements (Clause 7.4 failure).

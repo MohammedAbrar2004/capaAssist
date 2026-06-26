@@ -1,0 +1,32 @@
+[
+  {
+    "priority_id": "PRI_INFORMATIONAL",
+    "priority_level": "Informational",
+    "display_order": 1,
+    "description": "No action deadline; tracked for visibility only."
+  },
+  {
+    "priority_id": "PRI_LOW",
+    "priority_level": "Low",
+    "display_order": 2,
+    "description": "Address within normal work scheduling; no expedited handling."
+  },
+  {
+    "priority_id": "PRI_MEDIUM",
+    "priority_level": "Medium",
+    "display_order": 3,
+    "description": "Schedule within the standard SLA; routine priority queue."
+  },
+  {
+    "priority_id": "PRI_HIGH",
+    "priority_level": "High",
+    "display_order": 4,
+    "description": "Expedite ahead of routine work; tighter SLA and active follow-up."
+  },
+  {
+    "priority_id": "PRI_CRITICAL",
+    "priority_level": "Critical",
+    "display_order": 5,
+    "description": "Drop-everything priority; immediate assignment and continuous tracking."
+  }
+]

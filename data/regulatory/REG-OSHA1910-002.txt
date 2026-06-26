@@ -1,0 +1,28 @@
+REGULATORY REFERENCE: REG-OSHA1910-002
+Standard: OSHA 29 CFR 1910.146
+Title: Permit-Required Confined Spaces
+Issuing Body: Occupational Safety and Health Administration, US Department of Labor
+Applicability to AcerTech: International best-practice reference for confined space programme design
+
+PURPOSE OF THE STANDARD
+29 CFR 1910.146 covers practices and procedures to protect employees in general industry from the hazards of entry into permit-required confined spaces (PRCS). Confined space fatalities are among the most preventable workplace fatalities — the rescue response itself causes approximately 60% of confined space fatalities when untrained rescuers enter without atmospheric testing.
+
+KEY REQUIREMENTS
+
+Written Permit-Required Confined Space Programme: The employer must develop and implement a written permit space programme. The programme must identify permit spaces, post danger signs, and allow employees to see the permit.
+
+Entry Permit: The permit must include: the permit space to be entered; purpose of entry and authorised duration; name and signature of authorising supervisor; list of authorised entrants; list of attendants; list of entry supervisors; hazards; isolation measures; acceptable entry conditions with test results; rescue and emergency services; list of equipment; any other required information.
+
+Atmospheric Testing: Test for oxygen content, flammable gases and vapours, and potential toxic air contaminants in the order listed — before and during entry. Initial and periodic testing performed in the spaces affected by entry operations.
+
+Rescue: Before employee entry, employer must designate rescue and emergency services. Practice drills at least annually. Retrieve entrants without entry rescue if feasible. Entry rescue only if non-entry rescue is not feasible; entry rescuers trained in confined space entry and rescue, SCBA proficient, practice annual drills.
+
+Attendant: Must remain outside PRCS during entry operations; must maintain accurate count of authorised entrants; must not perform other duties that interfere with attendant's primary duty.
+
+Contractor Entry: When contractors perform confined space work: inform contractor of permit space locations and hazards; debrief contractor after entry operations.
+
+MULTI-EMPLOYER COORDINATION
+Where both the host employer and a contractor are involved in confined space work, both have responsibilities. The host employer must: inform the contractor of the permit spaces and hazards; share information on precautions or procedures; coordinate entry operations. This is directly applicable to AcerTech contractor management for confined space work in processing and manufacturing facilities.
+
+APPLICABILITY TO ACERTECH CAPA SYSTEM
+Confined space incidents include: entrant experiencing symptoms of atmospheric exposure; rescue required; permit not used; attendant left post. Root cause analysis: Process Failure (permit not obtained), Engineering Control Gap (atmospheric testing not conducted), Training Gap (attendant not trained), Management System Weakness (programme not in place or not enforced). Every confined space incident, even near-miss, requires full CAPA investigation.

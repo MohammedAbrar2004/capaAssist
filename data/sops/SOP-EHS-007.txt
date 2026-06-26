@@ -1,0 +1,50 @@
+SOP ID: SOP-EHS-007
+Title: Incident Investigation and Root Cause Analysis
+Version: 2.8
+Effective Date: 2024-01-01
+Review Date: 2026-01-01
+Owner: Group EHS
+Applicable Sites: All sites
+Regulatory Reference: ISO 45001:2018 Clauses 9.1.2, 10.2; ISO 14001:2015 Clause 10.2
+
+PURPOSE
+To ensure all incidents and near misses are investigated systematically, root causes are identified, and effective corrective actions are implemented to prevent recurrence.
+
+SCOPE
+All workplace incidents: injuries (LTI, MTI, first aid), occupational illnesses, near misses, dangerous occurrences, property damage above INR 10,000, and environmental releases. Includes contractor incidents occurring on AcerTech premises.
+
+DEFINITIONS
+Lost Time Injury (LTI): Any work-related injury resulting in time away from work on any day after the day of injury.
+Medical Treatment Injury (MTI): Injury requiring treatment beyond first aid (sutures, prescription medication, restricted duties).
+Near Miss: An unplanned event that did not result in injury or damage but had the potential to do so.
+Root Cause: The fundamental, systemic reason for an event that, if corrected, prevents recurrence of this and similar incidents.
+
+INVESTIGATION TIMELINES
+Near Miss and First Aid: Investigation within 48 hours. Report filed within 5 working days.
+MTI and Property Damage: Investigation within 24 hours. Report filed within 5 working days. Preliminary report to Group EHS within 24 hours.
+LTI and Dangerous Occurrence: Investigation begins within 4 hours. Lead investigator to be Site EHS Officer or above. Preliminary report to Group EHS within 4 hours. Full report within 7 working days.
+Fatality or Multiple LTI: Investigation team led by Group EHS Director. Regulatory notification as required. Full report within 14 working days.
+
+INVESTIGATION PROCEDURE
+Step 1 — Scene Preservation: Preserve the scene. Photograph before anything is moved. Collect physical evidence (failed parts, samples). Identify witnesses.
+Step 2 — Witness Interviews: Interview witnesses individually and as soon as practicable. Use open questions. Do not suggest answers. Record verbatim where possible.
+Step 3 — Timeline Reconstruction: Build a chronological timeline of events leading to the incident. Identify deviations from expected process.
+Step 4 — Root Cause Analysis Method: Select appropriate RCA method based on complexity:
+  - Simple incidents: 5 Why Analysis (document each Why step)
+  - Complex incidents: Fishbone / Ishikawa Diagram (6 M categories: Man, Machine, Method, Material, Measurement, Environment)
+  - High-consequence or systemic incidents: Fault Tree Analysis or Bow-Tie
+Step 5 — Contributing Factors: Identify all contributing factors. Separate immediate causes (unsafe acts/conditions) from underlying causes (management system gaps).
+Step 6 — CAPA Development: Generate corrective and preventive actions targeting root causes and systemic gaps. Each action must have: owner, due date, evidence of completion, and effectiveness check method.
+Step 7 — Report: Complete investigation report on EHS-FORM-011 (or CAPA AI system). Include: description, timeline, evidence, RCA analysis, contributing factors, failed controls, corrective actions.
+
+QUALITY CHECKS (EHS Officer pre-submission review)
+- Root cause statement does not end at "human error" without identifying the systemic gap.
+- At least one preventive action addresses similar operations at other sites where applicable.
+- Actions are specific (who, what, by when) — not generic ("train the team", "raise awareness").
+- Effectiveness check method is defined and scheduled for each corrective action.
+
+EFFECTIVENESS REVIEW
+All corrective actions reviewed for effectiveness within 90 days of due date. Effectiveness result (Pass/Fail) recorded in CAPA system. Fail result triggers new investigation and updated CAPA.
+
+REGULATORY REPORTING
+Fatalities, specified injuries, and dangerous occurrences reported to relevant authority per jurisdiction requirements. Group EHS maintains regulatory notification register.

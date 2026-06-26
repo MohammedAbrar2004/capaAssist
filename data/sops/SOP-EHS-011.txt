@@ -1,0 +1,44 @@
+SOP ID: SOP-EHS-011
+Title: Electrical Safety and Isolation Procedure
+Version: 2.2
+Effective Date: 2023-07-01
+Review Date: 2025-07-01
+Owner: Group EHS / Engineering
+Applicable Sites: All sites
+Regulatory Reference: ISO 45001:2018 Clause 8.1.2; OSHA 29 CFR 1910.333; Electricity at Work Regulations 1989
+
+PURPOSE
+To prevent electric shock, arc flash, burns, and fire from contact with live electrical conductors or from failure to confirm electrical isolation before maintenance work.
+
+SCOPE
+All work on or near electrical systems including: panel work, cable repairs, motor maintenance, instrumentation work, and any task that requires an electrical isolation. Applies to LV (below 1000 V AC) and HV (above 1000 V AC) systems. Both require isolation; HV requires additional precautions.
+
+COMPETENCE REQUIREMENTS
+No person shall work on electrical equipment unless they are an Electrically Authorised Person (EAP) for the voltage level involved.
+LV Authorised Person: Qualified electrician (ITI / NTC / equivalent) with site-specific authorisation from the Engineering Manager. Renewed every 3 years.
+HV Authorised Person: As above plus completed HV switching and safety course. HV work requires a second EAP present at all times.
+Electrical Competent Person: May work under direct supervision of an EAP; cannot work unsupervised or issue isolations.
+
+ELECTRICAL ISOLATION PROCEDURE (LV)
+Step 1 — Identify: Identify all sources of supply to the equipment (mains, UPS, capacitor banks, back-EMF from motors).
+Step 2 — Notify: Inform all affected production staff of planned isolation; coordinate with Operations Supervisor.
+Step 3 — Isolate: Open the isolator, switch, or circuit breaker. For motor circuits, also isolate at the motor control centre (MCC) and local isolator.
+Step 4 — Lock Out: Apply personal padlock to isolator in OFF position. Attach danger tag. See SOP-EHS-001.
+Step 5 — Test for Dead: Using a calibrated proving unit, verify the tester is working (L to N gives indication). Test phase-to-phase, phase-to-neutral, and phase-to-earth. Confirm zero voltage. Test tester again to confirm it still works.
+Step 6 — Discharge: Discharge capacitors and stored energy where present. Allow 5 minutes minimum for large drive capacitors to discharge before test.
+Step 7 — Work: Proceed with electrical work. Maintain isolation throughout.
+Step 8 — Restore: Check no tools or persons in equipment. Remove personal locks. Inform Operations Supervisor. Restore supply via normal switching sequence.
+
+ARC FLASH AWARENESS
+Before opening any live panel (for testing, fault diagnosis, or measurement), assess arc flash incident energy. For panels above 40 cal/cm2 incident energy — do not perform live work unless no alternative; requires HV-level precautions and Group EHS approval.
+Minimum arc flash PPE for LV work: Arc flash face shield (minimum 8 cal/cm2 rating); arc flash gloves; fire-resistant (FR) coverall. Standard PPE is not sufficient.
+
+TEST EQUIPMENT
+Only CAT IV or CAT III rated test instruments to be used on LV systems. Test instrument calibration current, not expired. Damaged test leads not to be used.
+
+PROHIBITED PRACTICES
+- Working live unless formally approved and no dead-work alternative exists.
+- Defeating safety interlocks or removing guards to permit access.
+- Using non-rated or uncalibrated test instruments.
+- Single-person working on HV systems.
+- Working on LV systems during thunderstorm conditions.

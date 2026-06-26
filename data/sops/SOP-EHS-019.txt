@@ -1,0 +1,43 @@
+SOP ID: SOP-EHS-019
+Title: Hearing Conservation Programme
+Version: 1.8
+Effective Date: 2023-03-01
+Review Date: 2025-03-01
+Owner: Group EHS / Occupational Health
+Applicable Sites: Sites 1, 4, 8 (manufacturing); any area with measured noise above 80 dB(A)
+Regulatory Reference: ISO 45001:2018 Clause 6.1.2; Control of Noise at Work Regulations 2005; OSHA 29 CFR 1910.95
+
+PURPOSE
+To prevent occupational noise-induced hearing loss (NIHL) through noise assessment, engineering controls, and a structured audiometric monitoring programme.
+
+SCOPE
+All employees with regular exposure above 80 dB(A) as an 8-hour time-weighted average (TWA). Areas with noise above 85 dB(A) are designated as Hearing Protection Zones.
+
+NOISE ASSESSMENT
+Initial assessment: All operational areas assessed by EHS Officer with a calibrated sound level meter (Class 2 minimum) annually and after any change in process or equipment layout.
+Personal exposure monitoring: Any employee with job function estimated above 80 dB(A) TWA requires personal dosimetry assessment once every 2 years. Results retained in occupational health records.
+Noise map: Site noise contour map updated annually and posted on the site EHS board.
+
+ACTION LEVELS
+Below 80 dB(A) TWA: No mandatory controls required. Hearing protection available on request.
+First Action Level (80–84 dB(A) TWA): Hearing protection available and recommended. Employees informed of risk.
+Second Action Level (85 dB(A) TWA and above): Hearing protection mandatory. Hearing Protection Zone signs posted. Audiometry offered annually.
+Peak Pressure Action Level (135–140 dB(C) peak): Engineering controls prioritised. Hearing protection mandatory regardless of TWA.
+
+ENGINEERING AND ADMINISTRATIVE CONTROLS (hierarchy before PPE)
+Engineering: Acoustic enclosures for high-noise machines; anti-vibration mounts; absorption panels; silencers on pneumatic exhausts. Engineering controls assessed for all noise sources above 90 dB(A).
+Administrative: Job rotation to limit exposure duration; scheduling noisy work to periods of low occupancy.
+PPE (last resort): Hearing protection selected to provide adequate attenuation without over-protection (over-protection causes communication failures and increases accident risk).
+
+HEARING PROTECTION TYPES AND SELECTION
+Disposable foam earplugs (SNR 25–35): Suitable for intermittent exposure; low cost; single use.
+Re-usable earplugs (SNR 20–27): For workers who prefer fitted plugs; inspect condition before each use; clean weekly.
+Ear muffs (SNR 25–33): Preferred for environments where removal and replacement is frequent; inspect foam seal and cup integrity monthly.
+Double protection (ear muff + earplug): Required where TWA exceeds 100 dB(A).
+Fit testing/training: Required for all new wearers. Fitting instruction included in site induction for noise-exposed roles.
+
+AUDIOMETRY PROGRAMME
+Pre-employment baseline audiogram: Within 6 months of employment for all noise-exposed roles.
+Periodic audiograms: Annually for employees in Hearing Protection Zones.
+Review: Occupational health nurse or physician reviews all audiograms. Standard Threshold Shift (STS) of 10 dB or more at 2000, 3000, or 4000 Hz triggers: re-test within 30 days; engineering review of noise exposure; supervisor notification; referral for ENT assessment if STS confirmed.
+Records: Audiograms retained for the duration of employment plus 40 years.

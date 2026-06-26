@@ -1,0 +1,45 @@
+SOP ID: SOP-EHS-004
+Title: Working at Heights — Fall Prevention and Protection
+Version: 3.0
+Effective Date: 2024-02-01
+Review Date: 2026-02-01
+Owner: Group EHS
+Applicable Sites: All sites
+Regulatory Reference: ISO 45001:2018 Clause 8.1.2; OSHA 29 CFR 1926.502
+
+PURPOSE
+To prevent falls from height by establishing a hierarchy of controls: eliminate the need to work at height, then prevent falls, then mitigate fall consequences.
+
+SCOPE
+All work where a person could fall 1.8 m or more (or fall less than 1.8 m onto a hazardous surface such as machinery, chemicals, or sharp objects). Includes scaffolding, ladders, roofs, elevated platforms, aerial work platforms, mezzanines, and work over open pits or tanks.
+
+HIERARCHY OF CONTROLS
+Level 1 — Eliminate: Redesign work to eliminate need to work at height (extend tools, use ground-level access, remote inspection).
+Level 2 — Passive Prevention: Install permanent guardrails (top rail 950–1100 mm, mid-rail, toe board 150 mm minimum). Covers, grating with secure fixings over openings.
+Level 3 — Active Fall Restraint: Anchor point plus short lanyard that prevents worker from reaching the fall edge.
+Level 4 — Fall Arrest: Full-body harness, energy-absorbing lanyard, certified anchor point. Arrest a fall in progress.
+
+RESPONSIBILITIES
+- Supervisor: Ensures risk assessment is complete; selects appropriate control level; ensures rescue plan is in place before work begins.
+- Worker: Inspects equipment before each use; does not work at height if unfit (fatigue, medication, medical condition affecting balance).
+- EHS Officer: Authorises use of fall arrest systems where passive prevention is not practicable; conducts quarterly equipment inspection.
+
+EQUIPMENT REQUIREMENTS
+Full-body harness: EN 361 or ANSI Z359.11. Inspect before each use — reject if webbing cut, buckle damaged, stitching failed, or exposure to chemicals/heat.
+Lanyard: Energy-absorbing type, maximum arrest force 6 kN, double-leg preferred for 100% tie-off. Length selected to limit free fall to 2 m or less (account for harness stretch and clearance below).
+Anchor Point: Minimum 15 kN static load capacity. Certified by structural engineer if temporary. Self-retracting lifelines preferred for work requiring mobility.
+Aerial Work Platform (AWP): Operators trained and assessed annually. Pre-use inspection checklist completed and retained. No passengers unless seat and harness provided. Outriggers deployed before elevation.
+
+RESCUE PLAN REQUIREMENTS
+A rescue plan must be in place before any work using fall arrest systems. Suspension trauma can cause death within 5–30 minutes of a suspended fall. Rescue options: self-rescue, assisted rescue, AWP rescue. Emergency services cannot be the primary plan.
+
+INSPECTION AND MAINTENANCE
+- Pre-use visual inspection by user before each task.
+- Six-monthly detailed inspection by competent person — record on EHS-FORM-031.
+- Remove from service immediately: webbing cuts or abrasion, deformed hardware, impact-loaded components, unknown history.
+- Harness and lanyard have maximum 10-year life from date of manufacture.
+
+TRAINING
+Working at heights awareness: all workers exposed to fall risk — 2-hour briefing, refreshed annually.
+Harness user: 4-hour hands-on training before first use.
+Harness inspector/supervisor: 8-hour competency-based course.

@@ -1,0 +1,562 @@
+[
+  {
+    "rca_id": "RCA_0001",
+    "capa_id": "CAPA_0001",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [
+      "Wire rope inspection limited to visual check only",
+      "No internal core inspection in PM schedule",
+      "30-day interval too long for load cycle frequency"
+    ],
+    "failed_controls": [
+      "Monthly visual inspection",
+      "Pre-use operator check"
+    ],
+    "missing_controls": [
+      "ISO 4309 discard criteria in PM card",
+      "Bore gauge inspection requirement"
+    ],
+    "root_cause_category": "CAT_EQUIPMENT_FAULT"
+  },
+  {
+    "rca_id": "RCA_0002",
+    "capa_id": "CAPA_0002",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [
+      "PM procedure omitted brake clearance check",
+      "No post-tool-change brake functional test",
+      "Technician not trained on spindle brake adjustment"
+    ],
+    "failed_controls": [
+      "Pre-use machine check",
+      "PM brake inspection"
+    ],
+    "missing_controls": [
+      "Brake clearance specification in PM",
+      "Post-maintenance functional test requirement"
+    ],
+    "root_cause_category": "CAT_EQUIPMENT_FAULT"
+  },
+  {
+    "rca_id": "RCA_0003",
+    "capa_id": "CAPA_0003",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [],
+    "failed_controls": [],
+    "missing_controls": [],
+    "root_cause_category": "CAT_EQUIPMENT_FAULT"
+  },
+  {
+    "rca_id": "RCA_0004",
+    "capa_id": "CAPA_0004",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [
+      "Process change not linked to updated inspection scope",
+      "Ultrasonic thickness gauging not specified for affected zone",
+      "Inspection interval unchanged after process change"
+    ],
+    "failed_controls": [
+      "Five-year statutory inspection",
+      "Corrosion inhibitor programme"
+    ],
+    "missing_controls": [
+      "Post-process-change inspection scope review",
+      "Localised ultrasonic scan requirement"
+    ],
+    "root_cause_category": "CAT_EQUIPMENT_FAULT"
+  },
+  {
+    "rca_id": "RCA_0005",
+    "capa_id": "CAPA_0005",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [],
+    "failed_controls": [],
+    "missing_controls": [],
+    "root_cause_category": "CAT_EQUIPMENT_FAULT"
+  },
+  {
+    "rca_id": "RCA_0006",
+    "capa_id": "CAPA_0006",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [
+      "Generic training not site-specific",
+      "No practical competency assessment",
+      "New operator inducted during peak season under reduced supervision"
+    ],
+    "failed_controls": [
+      "Operator induction training",
+      "Pedestrian crossing signage"
+    ],
+    "missing_controls": [
+      "Site-specific segregation training module",
+      "Practical assessment for forklift operators"
+    ],
+    "root_cause_category": "CAT_TRAINING_GAP"
+  },
+  {
+    "rca_id": "RCA_0007",
+    "capa_id": "CAPA_0007",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [],
+    "failed_controls": [],
+    "missing_controls": [],
+    "root_cause_category": "CAT_TRAINING_GAP"
+  },
+  {
+    "rca_id": "RCA_0008",
+    "capa_id": "CAPA_0008",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [],
+    "failed_controls": [],
+    "missing_controls": [],
+    "root_cause_category": "CAT_TRAINING_GAP"
+  },
+  {
+    "rca_id": "RCA_0009",
+    "capa_id": "CAPA_0009",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [
+      "Induction checklist omitted scaffold card type verification",
+      "No copy of CISRS card retained on site",
+      "Subcontractor sent uncertified operative without disclosure"
+    ],
+    "failed_controls": [
+      "Contractor induction checklist",
+      "Scaffold inspection sign-off"
+    ],
+    "missing_controls": [
+      "CISRS card type verification at induction",
+      "Scaffolding competency matrix"
+    ],
+    "root_cause_category": "CAT_TRAINING_GAP"
+  },
+  {
+    "rca_id": "RCA_0010",
+    "capa_id": "CAPA_0010",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [
+      "Labels visually similar in colour and font",
+      "Training did not cover label differentiation",
+      "Similar drums stored adjacent to each other"
+    ],
+    "failed_controls": [
+      "Goods receipt label check",
+      "Pre-use visual inspection"
+    ],
+    "missing_controls": [
+      "Label differentiation procedure for similar chemicals",
+      "Drum layout segregation standard"
+    ],
+    "root_cause_category": "CAT_HUMAN_ERROR"
+  },
+  {
+    "rca_id": "RCA_0011",
+    "capa_id": "CAPA_0011",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [
+      "Substitution approval form had no COSHH update gate",
+      "EHS excluded from substitution workflow",
+      "No chemical change management process"
+    ],
+    "failed_controls": [
+      "Chemical substitution approval form",
+      "EHS review gate"
+    ],
+    "missing_controls": [
+      "COSHH update requirement in substitution process",
+      "EHS sign-off for chemical changes"
+    ],
+    "root_cause_category": "CAT_PROCESS_FAILURE"
+  },
+  {
+    "rca_id": "RCA_0012",
+    "capa_id": "CAPA_0012",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [],
+    "failed_controls": [],
+    "missing_controls": [],
+    "root_cause_category": "CAT_MANAGEMENT_SYSTEM_WEAKNESS"
+  },
+  {
+    "rca_id": "RCA_0013",
+    "capa_id": "CAPA_0013",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [],
+    "failed_controls": [],
+    "missing_controls": [],
+    "root_cause_category": "CAT_PROCESS_FAILURE"
+  },
+  {
+    "rca_id": "RCA_0014",
+    "capa_id": "CAPA_0014",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [
+      "MOC classified as engineering-only responsibility",
+      "Operations supervisors unaware of their MOC obligation",
+      "No temporary modification register visible to non-engineering staff"
+    ],
+    "failed_controls": [
+      "Pre-work safety review",
+      "Engineering approval for modifications"
+    ],
+    "missing_controls": [
+      "MOC applicability guidance for operations staff",
+      "Temporary modification register"
+    ],
+    "root_cause_category": "CAT_MANAGEMENT_SYSTEM_WEAKNESS"
+  },
+  {
+    "rca_id": "RCA_0015",
+    "capa_id": "CAPA_0015",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [],
+    "failed_controls": [],
+    "missing_controls": [],
+    "root_cause_category": "CAT_MANAGEMENT_SYSTEM_WEAKNESS"
+  },
+  {
+    "rca_id": "RCA_0016",
+    "capa_id": "CAPA_0016",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [
+      "Push-fit duct connections susceptible to vibration",
+      "Post-maintenance re-test limited to flow measurement",
+      "No duct integrity check in maintenance sign-off"
+    ],
+    "failed_controls": [
+      "Post-maintenance LEV performance test",
+      "Periodic LEV thorough examination"
+    ],
+    "missing_controls": [
+      "Duct joint integrity check in post-maintenance protocol",
+      "Secure ductwork joint specification"
+    ],
+    "root_cause_category": "CAT_ENGINEERING_CONTROL_GAP"
+  },
+  {
+    "rca_id": "RCA_0017",
+    "capa_id": "CAPA_0017",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [
+      "Uniform inspection interval not adjusted for corrosion severity",
+      "CUI not assessed for this line",
+      "Prior inspection recorded marginal acceptance without scheduling early re-inspection"
+    ],
+    "failed_controls": [
+      "Annual flange visual inspection",
+      "Process line pressure test"
+    ],
+    "missing_controls": [
+      "Corrosion rate-based inspection interval calculation",
+      "CUI assessment for acid service piping"
+    ],
+    "root_cause_category": "CAT_ENGINEERING_CONTROL_GAP"
+  },
+  {
+    "rca_id": "RCA_0018",
+    "capa_id": "CAPA_0018",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [],
+    "failed_controls": [],
+    "missing_controls": [],
+    "root_cause_category": "CAT_PROCESS_FAILURE"
+  },
+  {
+    "rca_id": "RCA_0019",
+    "capa_id": "CAPA_0019",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [],
+    "failed_controls": [],
+    "missing_controls": [],
+    "root_cause_category": "CAT_ENGINEERING_CONTROL_GAP"
+  },
+  {
+    "rca_id": "RCA_0020",
+    "capa_id": "CAPA_0020",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [
+      "Bund designed to pre-upgrade vessel inventory",
+      "MOC process did not require bund capacity recalculation",
+      "No periodic bund capacity audit"
+    ],
+    "failed_controls": [
+      "Secondary containment bund",
+      "Annual insurance inspection"
+    ],
+    "missing_controls": [
+      "Post-MOC bund capacity calculation requirement",
+      "Periodic bund capacity audit procedure"
+    ],
+    "root_cause_category": "CAT_ENGINEERING_CONTROL_GAP"
+  },
+  {
+    "rca_id": "RCA_0021",
+    "capa_id": "CAPA_0021",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [
+      "Contractor appointment renewal not calendar-tracked",
+      "No internal due-date reminder for contractor services",
+      "Responsible person changed roles without formal handover"
+    ],
+    "failed_controls": [
+      "Annual contractor service",
+      "Monthly extinguisher inspection"
+    ],
+    "missing_controls": [
+      "Contractor service due-date tracking system",
+      "Inspection calendar with automated alerts"
+    ],
+    "root_cause_category": "CAT_MISSING_INSPECTION"
+  },
+  {
+    "rca_id": "RCA_0022",
+    "capa_id": "CAPA_0022",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [],
+    "failed_controls": [],
+    "missing_controls": [],
+    "root_cause_category": "CAT_MISSING_INSPECTION"
+  },
+  {
+    "rca_id": "RCA_0023",
+    "capa_id": "CAPA_0023",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [
+      "Uniform battery replacement cycle not adjusted for ambient temperature",
+      "Annual duration test only \u2014 monthly 30-second tests not performed",
+      "Maintenance contractor not informed of high-temperature zones"
+    ],
+    "failed_controls": [
+      "Annual duration test",
+      "5-year battery replacement programme"
+    ],
+    "missing_controls": [
+      "Temperature-adjusted battery replacement interval",
+      "Monthly 30-second battery function test"
+    ],
+    "root_cause_category": "CAT_ENGINEERING_CONTROL_GAP"
+  },
+  {
+    "rca_id": "RCA_0024",
+    "capa_id": "CAPA_0024",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [],
+    "failed_controls": [],
+    "missing_controls": [],
+    "root_cause_category": "CAT_MISSING_INSPECTION"
+  },
+  {
+    "rca_id": "RCA_0025",
+    "capa_id": "CAPA_0025",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [],
+    "failed_controls": [],
+    "missing_controls": [],
+    "root_cause_category": "CAT_MISSING_INSPECTION"
+  },
+  {
+    "rca_id": "RCA_0026",
+    "capa_id": "CAPA_0026",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [],
+    "failed_controls": [],
+    "missing_controls": [],
+    "root_cause_category": "CAT_EQUIPMENT_FAULT"
+  },
+  {
+    "rca_id": "RCA_0027",
+    "capa_id": "CAPA_0027",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [],
+    "failed_controls": [],
+    "missing_controls": [],
+    "root_cause_category": "CAT_EQUIPMENT_FAULT"
+  },
+  {
+    "rca_id": "RCA_0028",
+    "capa_id": "CAPA_0028",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [
+      "PM interval shortened but inspection method unchanged",
+      "No discard criteria defined",
+      "Effectiveness check confirmed no improvement in inspection quality"
+    ],
+    "failed_controls": [],
+    "missing_controls": [],
+    "root_cause_category": "CAT_EQUIPMENT_FAULT"
+  },
+  {
+    "rca_id": "RCA_0029",
+    "capa_id": "CAPA_0029",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [
+      "Three prior CAPAs all used single-point actions",
+      "No systemic root cause analysis conducted",
+      "Effectiveness checks not passed for any prior CAPA action"
+    ],
+    "failed_controls": [],
+    "missing_controls": [],
+    "root_cause_category": "CAT_EQUIPMENT_FAULT"
+  },
+  {
+    "rca_id": "RCA_0030",
+    "capa_id": "CAPA_0030",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [
+      "No condition-based monitoring system",
+      "Inspection standard not aligned with ISO 4309",
+      "Maintenance planner not trained in wire rope inspection criteria"
+    ],
+    "failed_controls": [
+      "Monthly visual inspection",
+      "Pre-use operator check",
+      "PM scheduling system"
+    ],
+    "missing_controls": [
+      "ISO 4309-compliant discard criteria",
+      "Magnetic rope testing protocol",
+      "Condition-based replacement trigger system"
+    ],
+    "root_cause_category": "CAT_EQUIPMENT_FAULT"
+  },
+  {
+    "rca_id": "RCA_0031",
+    "capa_id": "CAPA_0031",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [],
+    "failed_controls": [],
+    "missing_controls": [],
+    "root_cause_category": "CAT_TRAINING_GAP"
+  },
+  {
+    "rca_id": "RCA_0032",
+    "capa_id": "CAPA_0032",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [],
+    "failed_controls": [],
+    "missing_controls": [],
+    "root_cause_category": "CAT_TRAINING_GAP"
+  },
+  {
+    "rca_id": "RCA_0033",
+    "capa_id": "CAPA_0033",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [
+      "Training approach unchanged from prior CAPA",
+      "No engineering control introduced",
+      "Effectiveness check relied on training records not observed behaviour"
+    ],
+    "failed_controls": [],
+    "missing_controls": [],
+    "root_cause_category": "CAT_TRAINING_GAP"
+  },
+  {
+    "rca_id": "RCA_0034",
+    "capa_id": "CAPA_0034",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [
+      "Physical segregation never implemented despite four incidents",
+      "Root cause misclassified as training gap in CAPAs 31-33",
+      "Hierarchy of controls assessment never applied"
+    ],
+    "failed_controls": [],
+    "missing_controls": [],
+    "root_cause_category": "CAT_TRAINING_GAP"
+  },
+  {
+    "rca_id": "RCA_0035",
+    "capa_id": "CAPA_0035",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [
+      "No physical barrier between forklift route and pedestrian walkway",
+      "Dispatch bay layout never assessed under pedestrian-vehicle segregation standard",
+      "Four prior CAPAs all used training as sole control"
+    ],
+    "failed_controls": [
+      "Forklift speed limit signage",
+      "Operator training programme",
+      "Pedestrian crossing markings"
+    ],
+    "missing_controls": [
+      "Physical pedestrian segregation barriers",
+      "Forklift-activated warning system at crossing",
+      "Bay layout redesign to eliminate conflict point"
+    ],
+    "root_cause_category": "CAT_TRAINING_GAP"
+  },
+  {
+    "rca_id": "RCA_0036",
+    "capa_id": "CAPA_0036",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [
+      "No arc flash risk assessment for live panel tasks",
+      "PPE specification limited to insulated gloves only",
+      "Electrician not trained on NFPA 70E arc flash boundary requirements"
+    ],
+    "failed_controls": [
+      "Live working permit",
+      "Pre-work PPE check"
+    ],
+    "missing_controls": [
+      "Arc flash risk assessment for all live panel tasks",
+      "Arc flash boundary specification in live working procedure"
+    ],
+    "root_cause_category": "CAT_ENGINEERING_CONTROL_GAP"
+  },
+  {
+    "rca_id": "RCA_0037",
+    "capa_id": "CAPA_0037",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [
+      "Lift plan threshold set too high",
+      "No exclusion zone requirement in lift procedure",
+      "Slinger not trained on exclusion zone responsibilities"
+    ],
+    "failed_controls": [
+      "Crane pre-use check",
+      "Slinger and banksman qualification"
+    ],
+    "missing_controls": [
+      "Written lift plan requirement for all suspended loads",
+      "Exclusion zone as mandatory pre-lift step"
+    ],
+    "root_cause_category": "CAT_ENGINEERING_CONTROL_GAP"
+  },
+  {
+    "rca_id": "RCA_0038",
+    "capa_id": "CAPA_0038",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [],
+    "failed_controls": [],
+    "missing_controls": [],
+    "root_cause_category": "CAT_MANAGEMENT_SYSTEM_WEAKNESS"
+  },
+  {
+    "rca_id": "RCA_0039",
+    "capa_id": "CAPA_0039",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [
+      "Procedure specified review requirement but not output format",
+      "No template or checklist for management review outputs",
+      "EHS Manager unaware that retained documented information was a certification requirement"
+    ],
+    "failed_controls": [
+      "Annual management review requirement",
+      "ISO 45001 audit programme"
+    ],
+    "missing_controls": [
+      "Management review output template",
+      "Documented information retention requirement in procedure"
+    ],
+    "root_cause_category": "CAT_MANAGEMENT_SYSTEM_WEAKNESS"
+  },
+  {
+    "rca_id": "RCA_0040",
+    "capa_id": "CAPA_0040",
+    "tenant_id": "TENANT_ACERTECH",
+    "contributing_factors": [],
+    "failed_controls": [],
+    "missing_controls": [],
+    "root_cause_category": "CAT_MANAGEMENT_SYSTEM_WEAKNESS"
+  }
+]

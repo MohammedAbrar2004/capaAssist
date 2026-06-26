@@ -1,0 +1,34 @@
+REGULATORY REFERENCE: REG-OSHA1910-004
+Standard: OSHA 29 CFR 1910.132–138 (Subpart I)
+Title: Personal Protective Equipment
+Issuing Body: Occupational Safety and Health Administration, US Department of Labor
+Applicability to AcerTech: PPE programme design reference
+
+PURPOSE OF THE STANDARD
+OSHA 29 CFR 1910 Subpart I establishes requirements for the provision, use, and maintenance of personal protective equipment where employees are exposed to hazards that require PPE as a control measure.
+
+KEY REQUIREMENTS
+
+Hazard Assessment and Equipment Selection (1910.132(d))
+The employer must assess the workplace to determine if hazards are present, or likely to be present, which necessitate the use of PPE. If hazards are present, the employer must: select and have affected employees use PPE that will protect them from identified hazards; communicate selection decisions to affected employees; select PPE that properly fits each affected employee. The hazard assessment must be certified in writing — documenting the workplace evaluated, the person certifying, and the date.
+
+PPE provided at no cost to employees (1910.132(h)): Employer must provide PPE at no cost to employees with specific listed exceptions (safety-toe footwear and non-specialty safety glasses in some cases). This requirement prevents cost from being a barrier to PPE use.
+
+SPECIFIC SUBPART I STANDARDS
+1910.133 — Eye and Face Protection: Protective eye and face equipment required where there is a reasonable probability of injury that could be prevented. Includes: side shields required for general use; specific standards for welding, cutting, and furnace operations; protection must meet ANSI Z87.1.
+
+1910.134 — Respiratory Protection: When engineering controls are not feasible or while engineering controls are being implemented, appropriate respirators must be used. Programme elements: written respiratory protection programme; selection based on hazard; medical evaluation before use; fit testing before initial use and annually; training; proper use, inspection, cleaning, and storage; programme evaluation.
+
+1910.135 — Head Protection: Helmets must be worn where there is a possible danger of head injury from impact, falling or flying objects, or electrical shock and burns. ANSI Z89.1 compliance.
+
+1910.136 — Foot Protection: Protective footwear must be used where there is a danger of foot injuries from falling or rolling objects, objects piercing the sole, or electrical hazards. ASTM F-2412 and F-2413 compliance.
+
+1910.137 — Electrical Protective Equipment: Electrical protective devices must be capable of preventing electric shock. Insulating rubber goods must be tested and certified. Daily inspection required before use.
+
+1910.138 — Hand Protection: Employers must select and require employees to use appropriate hand protection when employees' hands are exposed to hazards from: skin absorption of harmful substances; severe cuts or lacerations; severe abrasions; punctures; chemical burns; thermal burns; harmful temperature extremes.
+
+TRAINING REQUIREMENTS (1910.132(f))
+Employees must be trained in: when PPE is necessary; what PPE is necessary; how to properly don, doff, adjust, and wear; limitations of PPE; proper care, maintenance, useful life, and disposal.
+
+APPLICABILITY TO ACERTECH CAPA SYSTEM
+PPE-related incidents: chemical splash injuries (glove type incorrect or not worn), hearing damage (HPE not worn or incorrect grade), eye injuries (face protection not worn during grinding), crush injuries (non-rated safety footwear). Root cause: Training Gap (not trained on PPE selection), Process Failure (PPE not worn despite procedure), Engineering Control Gap (PPE selected as primary control when engineering control was practicable), Management System Weakness (hazard assessment not conducted).

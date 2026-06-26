@@ -1,0 +1,27 @@
+REGULATORY REFERENCE: REG-ISO14001-002
+Standard: ISO 14001:2015 — Environmental Management Systems
+Clause: 8 — Operation
+Version: Third Edition 2015-09
+Issuing Body: International Organisation for Standardisation (ISO)
+
+CLAUSE SUMMARY
+Clause 8 requires the organisation to plan, implement, control, and maintain processes needed to meet EMS requirements and achieve environmental objectives. It specifically addresses operational controls, emergency preparedness and response, and life cycle considerations.
+
+CLAUSE 8.1 — OPERATIONAL PLANNING AND CONTROL
+The organisation must establish, implement, control, and maintain processes by: establishing operating criteria for the processes; implementing control of the processes in accordance with the operating criteria; keeping documented information. Consistent with a life cycle perspective, the organisation must establish environmental requirements for procurement of products and services, communicate relevant requirements to external providers (contractors, suppliers), and consider providing information on potential significant environmental impacts associated with transportation or delivery, use, end-of-life treatment, and final disposal of products.
+
+OPERATIONAL CONTROLS FOR SIGNIFICANT ENVIRONMENTAL ASPECTS
+For each significant environmental aspect identified in Clause 6.1.2, operational controls must be in place. Types of control:
+- Engineering controls: Bunded storage areas to contain spills; closed-loop coolant systems; LEV for solvent vapour; effluent treatment plant.
+- Procedural controls: Written procedures for chemical handling, waste disposal, energy management, water use; maintenance schedules for pollution control equipment.
+- Monitoring and measurement: Effluent quality monitoring; stack emissions monitoring; boundary noise monitoring; energy metering.
+
+MANAGEMENT OF CHANGE (ENVIRONMENTAL ASPECT)
+Changes to processes, materials, or equipment that could affect significant environmental aspects must be reviewed before implementation. Change review must consider: new chemicals or raw materials (new aspects); changes to waste streams; changes to energy or water consumption. Environmental management of change is separate from, but may overlap with, the OH&S management of change process.
+
+CLAUSE 8.2 — EMERGENCY PREPAREDNESS AND RESPONSE
+The organisation must establish, implement, and maintain processes for potential emergency situations that can have an environmental impact. Emergency response processes must consider: prevention of environmental impact; mitigation of environmental impact during an emergency; steps to prevent recurrence; periodic testing.
+Environmental emergencies at AcerTech: major chemical spill to drain or watercourse; fire generating significant smoke pollution; fuel or oil release; loss of containment from chemical storage.
+
+REQUIREMENTS FOR CORRECTIVE ACTION
+Environmental non-compliances such as: effluent discharge exceeding consent conditions; waste stored in non-designated areas; pollution control equipment bypassed or non-functional — require environmental CAPA. Root cause analysis should determine whether controls were: absent (Engineering Control Gap); not followed (Process Failure); inadequately maintained (Missing Inspection); or not communicated to contractors (Management System Weakness). Actions addressing engineering controls are preferred over training-only responses.

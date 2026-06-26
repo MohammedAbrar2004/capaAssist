@@ -1,0 +1,26 @@
+[
+  {
+    "capa_type_id": "TYPE_CONTAINMENT",
+    "tenant_id": "TENANT_ACERTECH",
+    "capa_type_name": "Containment",
+    "capa_type_description": "Immediate interim action to limit or stop the impact of a problem before the root cause is addressed."
+  },
+  {
+    "capa_type_id": "TYPE_CORRECTIVE",
+    "tenant_id": "TENANT_ACERTECH",
+    "capa_type_name": "Corrective",
+    "capa_type_description": "Action that eliminates the root cause of a detected nonconformity to prevent its recurrence."
+  },
+  {
+    "capa_type_id": "TYPE_PREVENTIVE",
+    "tenant_id": "TENANT_ACERTECH",
+    "capa_type_name": "Preventive",
+    "capa_type_description": "Action that eliminates the cause of a potential nonconformity to prevent its occurrence."
+  },
+  {
+    "capa_type_id": "TYPE_RISK_MITIGATION",
+    "tenant_id": "TENANT_ACERTECH",
+    "capa_type_name": "Risk Mitigation",
+    "capa_type_description": "Action that reduces the likelihood or consequence of an identified risk that has not yet materialized."
+  }
+]

@@ -1,0 +1,48 @@
+SOP ID: SOP-EHS-025
+Title: CAPA (Corrective and Preventive Action) Management
+Version: 3.0
+Effective Date: 2024-01-01
+Review Date: 2026-01-01
+Owner: Group EHS
+Applicable Sites: All sites
+Regulatory Reference: ISO 45001:2018 Clauses 10.1, 10.2; ISO 14001:2015 Clause 10.2; ISO 9001:2015 Clause 10.2
+
+PURPOSE
+To provide a systematic process for identifying, implementing, and verifying corrective and preventive actions that address the root causes of EHS incidents, audit findings, near misses, regulatory non-compliances, and management system gaps.
+
+SCOPE
+All corrective actions arising from: incident investigations, internal and external EHS audits, regulatory inspections, management reviews, near miss investigations, COSHH or noise assessments, and any other EHS performance finding. Applies to all AcerTech sites and operations.
+
+DEFINITIONS
+Corrective Action: Action to eliminate the cause of a detected nonconformity or undesirable situation and prevent recurrence.
+Preventive Action: Action to eliminate the cause of a potential nonconformity or other undesirable potential situation before it occurs.
+CAPA Record: The formal record in the CAPA management system (SoapBox.Cloud) documenting the finding, root cause, actions, evidence, and effectiveness result.
+
+CAPA TYPES
+Containment Action: Immediate temporary action to protect people and the environment while a permanent correction is developed. Required within 24 hours for High and Critical severity findings.
+Corrective Action: Addresses the root cause of the incident or finding. Targets recurrence prevention.
+Preventive Action: Addresses similar potential failure modes at the same or other sites, before an incident occurs.
+Risk Mitigation Action: Reduces the severity or probability of a known residual risk where full elimination is not currently practicable.
+
+CAPA LIFECYCLE
+Stage 1 — Raise: CAPA raised in the system with: source (incident/audit/near miss), description, site, department, severity, and assigned EHS Officer.
+Stage 2 — Root Cause Analysis: RCA completed per SOP-EHS-007. Root cause category selected from the controlled taxonomy. Contributing factors and failed controls documented.
+Stage 3 — Action Development: Actions developed with SMART criteria — Specific, Measurable, Achievable, Relevant, Time-bound. Minimum one corrective action addressing root cause. Preventive action for High and Critical severity CAPAs.
+Stage 4 — Approval: Actions approved by Site Manager (for Medium) or Group EHS Director (for High and Critical).
+Stage 5 — Implementation: Action owner implements within due date. Evidence uploaded to CAPA record (photographs, training records, updated SOPs, maintenance records).
+Stage 6 — Effectiveness Check: Defined at action creation. Conducted within 60–90 days of action due date. Methods: repeat inspection, re-audit of the area, incident rate analysis, observation of practice. Result: Pass (action effective, CAPA closed) or Fail (recurrence or not embedded — CAPA re-opened).
+Stage 7 — Close: EHS Officer confirms all actions complete, evidence adequate, effectiveness check passed. CAPA closed in system.
+
+ACTION QUALITY REQUIREMENTS
+Actions must be specific: "Replace brake fluid hose on FL-07 with reinforced hydraulic hose by 30 June 2025 — Maintenance Supervisor Ravi Kumar responsible. Evidence: maintenance work order, signed off by Engineering Manager." Generic actions such as "Fix the issue", "Train the team", or "Monitor the situation" are not acceptable and will be rejected by the EHS Officer at Stage 3 review.
+
+DUE DATE REQUIREMENTS
+Containment: 24 hours (High/Critical), 5 days (Medium), 30 days (Low).
+Corrective: Based on risk level — Critical: 30 days; High: 60 days; Medium: 90 days; Low: 180 days.
+Due date extensions: Maximum one extension of 30 days, approved by Site Manager in writing. Two extensions require Group EHS Director approval.
+
+RECURRENCE MONITORING
+CAPA system monitored monthly for recurrence: same root cause category and site with 3 or more CAPAs in a rolling 24-month period. Recurrence clusters escalated to Group EHS Director and Site Manager. Systemic review of controls required.
+
+CAPA KPI REPORTING
+Monthly EHS report includes: open CAPAs by site and severity; overdue CAPAs by site; average time to close by severity; effectiveness check pass rate; recurrence clusters identified in the period.

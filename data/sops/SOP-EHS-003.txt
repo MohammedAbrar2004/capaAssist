@@ -1,0 +1,55 @@
+SOP ID: SOP-EHS-003
+Title: Confined Space Entry
+Version: 2.1
+Effective Date: 2024-03-01
+Review Date: 2026-03-01
+Owner: Group EHS
+Applicable Sites: Sites 1, 3, 4, 7, 8, 9
+Regulatory Reference: ISO 45001:2018 Clause 8.1.2; OSHA 29 CFR 1910.146
+
+PURPOSE
+To prevent injury or death from atmospheric hazards, entrapment, and rescue difficulties when entering permit-required confined spaces.
+
+SCOPE
+All permit-required confined spaces: tanks, vessels, silos, storage bins, hoppers, vaults, pits, manholes, tunnels, equipment housings, ductwork, and any other space large enough to enter, with limited means of entry or exit, and not designed for continuous occupancy.
+
+DEFINITIONS
+Confined Space: A space large enough to enter bodily, has limited means of entry/exit, and is not designed for continuous employee occupancy.
+Permit-Required Confined Space (PRCS): A confined space that contains or has potential for a hazardous atmosphere; material that could engulf an entrant; an internal configuration that could trap or asphyxiate; or any other serious safety or health hazard.
+Attendant: Person stationed outside the PRCS who monitors entrants and conditions; must remain at entry point at all times.
+Entrant: Person who enters the PRCS.
+Entry Supervisor: Person responsible for determining if conditions are acceptable, authorizing entry, and overseeing entry operations.
+
+RESPONSIBILITIES
+- Entry Supervisor (Site EHS Officer or qualified supervisor): Issues permit, monitors conditions, authorizes abort.
+- Attendant: Maintains entrant count, monitors atmosphere, communicates with entrants, initiates rescue if required. Must not enter the space.
+- Entrant: Follows permit conditions; reports hazard changes immediately; exits immediately on Attendant instruction.
+- Rescue Team: Site-designated trained rescuers with non-entry retrieval equipment staged at entry point before entry begins.
+
+ATMOSPHERIC REQUIREMENTS
+Acceptable entry conditions: Oxygen 19.5–23.5%; LEL less than 10%; CO less than 25 ppm; H2S less than 1 ppm; no toxic atmosphere above PEL.
+Continuous atmospheric monitoring required throughout entry. Calibrated gas detector with data logging preferred.
+
+PROCEDURE
+Step 1 — Hazard Assessment: Entry Supervisor identifies all hazards (atmospheric, mechanical, thermal, engulfment). Complete pre-entry hazard review.
+Step 2 — Isolation: Lock out and tag out all mechanical and electrical energy sources. Blank or double-block and bleed all piping connections. Drain and purge vessel contents.
+Step 3 — Ventilation: Force ventilate the space with fresh air for a minimum of 30 minutes before atmospheric testing. Maintain continuous ventilation during entry.
+Step 4 — Atmospheric Testing: Test atmosphere at top, middle, and bottom of space. Record results on permit. Test at least 5 minutes after ventilation to allow equilibration.
+Step 5 — Issue Permit: Entry Supervisor completes and signs confined space entry permit. Post at entry point. Permit valid for single entry session only.
+Step 6 — Briefing: Brief all entrants and attendant on hazards, emergency procedures, rescue plan, and communication signals.
+Step 7 — Entry: Entrants wear retrieval harness with lifeline connected to mechanical retrieval device. Attendant maintains continuous communication. Entry log maintained.
+Step 8 — Monitoring: Attendant monitors atmospheric readings continuously. Entrant personal gas detector alarm = immediate exit.
+Step 9 — Emergency: If hazard change detected: Attendant orders evacuation. Attempt non-entry rescue first (retrieval line). Entry rescue only if non-entry rescue fails and trained rescuers are present.
+Step 10 — Close Out: All entrants confirmed out. Permit closed by Entry Supervisor. Space re-secured.
+
+RESCUE EQUIPMENT (staged at entry point before entry)
+- Tripod or davit arm with mechanical winch rated for entrant weight
+- Full-body retrieval harness on each entrant
+- Self-contained breathing apparatus (SCBA) — minimum 2 sets
+- First aid kit with oxygen resuscitation equipment
+- Direct communication device (radio or hardwired)
+
+TRAINING REQUIREMENTS
+Entry Supervisor: 8-hour confined space entry and rescue course; annual refresher.
+Entrant and Attendant: 4-hour confined space awareness training; triennial refresher.
+All training records in HR system.

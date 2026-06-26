@@ -1,0 +1,322 @@
+[
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_01",
+    "group_id": "GROUP_01"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_01",
+    "group_id": "GROUP_02"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_01",
+    "group_id": "GROUP_03"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_01",
+    "group_id": "GROUP_04"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_01",
+    "group_id": "GROUP_05"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_01",
+    "group_id": "GROUP_06"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_01",
+    "group_id": "GROUP_07"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_02",
+    "group_id": "GROUP_08"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_02",
+    "group_id": "GROUP_09"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_02",
+    "group_id": "GROUP_10"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_02",
+    "group_id": "GROUP_11"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_02",
+    "group_id": "GROUP_12"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_03",
+    "group_id": "GROUP_13"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_03",
+    "group_id": "GROUP_14"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_03",
+    "group_id": "GROUP_15"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_03",
+    "group_id": "GROUP_16"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_03",
+    "group_id": "GROUP_17"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_03",
+    "group_id": "GROUP_18"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_04",
+    "group_id": "GROUP_19"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_04",
+    "group_id": "GROUP_20"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_04",
+    "group_id": "GROUP_21"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_04",
+    "group_id": "GROUP_22"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_04",
+    "group_id": "GROUP_23"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_04",
+    "group_id": "GROUP_24"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_04",
+    "group_id": "GROUP_25"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_05",
+    "group_id": "GROUP_26"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_05",
+    "group_id": "GROUP_27"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_05",
+    "group_id": "GROUP_28"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_05",
+    "group_id": "GROUP_29"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_05",
+    "group_id": "GROUP_30"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_06",
+    "group_id": "GROUP_31"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_06",
+    "group_id": "GROUP_32"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_06",
+    "group_id": "GROUP_33"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_06",
+    "group_id": "GROUP_34"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_06",
+    "group_id": "GROUP_35"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_06",
+    "group_id": "GROUP_36"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_06",
+    "group_id": "GROUP_37"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_07",
+    "group_id": "GROUP_38"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_07",
+    "group_id": "GROUP_39"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_07",
+    "group_id": "GROUP_40"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_07",
+    "group_id": "GROUP_41"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_07",
+    "group_id": "GROUP_42"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_07",
+    "group_id": "GROUP_43"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_08",
+    "group_id": "GROUP_44"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_08",
+    "group_id": "GROUP_45"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_08",
+    "group_id": "GROUP_46"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_08",
+    "group_id": "GROUP_47"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_08",
+    "group_id": "GROUP_48"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_08",
+    "group_id": "GROUP_49"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_08",
+    "group_id": "GROUP_50"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_09",
+    "group_id": "GROUP_51"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_09",
+    "group_id": "GROUP_52"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_09",
+    "group_id": "GROUP_53"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_09",
+    "group_id": "GROUP_54"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_09",
+    "group_id": "GROUP_55"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_10",
+    "group_id": "GROUP_56"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_10",
+    "group_id": "GROUP_57"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_10",
+    "group_id": "GROUP_58"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_10",
+    "group_id": "GROUP_59"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_10",
+    "group_id": "GROUP_60"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_11",
+    "group_id": "GROUP_61"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_11",
+    "group_id": "GROUP_62"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_11",
+    "group_id": "GROUP_63"
+  },
+  {
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_11",
+    "group_id": "GROUP_64"
+  }
+]

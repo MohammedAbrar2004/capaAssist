@@ -1,0 +1,402 @@
+[
+  {
+    "investigation_id": "INV_0001",
+    "capa_id": "CAPA_0001",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_01",
+    "investigation_title": "Root Cause Investigation \u2014 Overhead Crane Wire Rope Failure During Production Lift",
+    "investigation_description": "The PM programme for OC-001 specified visual inspection only. No bore gauge method or ISO 4309 discard criteria were defined, allowing internal fatigue strand failure to go undetected.",
+    "investigator_email": "priya.nair@acertech.in",
+    "investigation_outcome": "Root Cause Confirmed"
+  },
+  {
+    "investigation_id": "INV_0002",
+    "capa_id": "CAPA_0002",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_04",
+    "investigation_title": "Root Cause Investigation \u2014 CNC Spindle Brake Failure \u2014 Uncontrolled Rotation After Tool Change",
+    "investigation_description": "The CNC spindle brake clearance check was absent from the PM procedure. Brake pad wear exceeded manufacturer tolerance undetected across multiple PM cycles.",
+    "investigator_email": "sunita.mehta@acertech.in",
+    "investigation_outcome": "Root Cause Confirmed"
+  },
+  {
+    "investigation_id": "INV_0003",
+    "capa_id": "CAPA_0003",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_06",
+    "investigation_title": "Root Cause Investigation \u2014 HVAC Chiller Failure Causes Clean Room Temperature Exceedance",
+    "investigation_description": "The HVAC planned maintenance schedule did not include a refrigerant charge inspection for chiller units. No redundant cooling capacity was available for the critical clean room.",
+    "investigator_email": "divya.krishnamurthy@acertech.in",
+    "investigation_outcome": "Direct Cause Identified"
+  },
+  {
+    "investigation_id": "INV_0004",
+    "capa_id": "CAPA_0004",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_08",
+    "investigation_title": "Root Cause Investigation \u2014 Pressure Vessel Wall Thinning Found at Statutory Inspection",
+    "investigation_description": "The pressure vessel inspection programme did not account for accelerated corrosion following a process change 18 months prior. Inspection scope was not updated after the change.",
+    "investigator_email": "rekha.ghosh@acertech.in",
+    "investigation_outcome": "Root Cause Confirmed"
+  },
+  {
+    "investigation_id": "INV_0005",
+    "capa_id": "CAPA_0005",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_10",
+    "investigation_title": "Root Cause Investigation \u2014 Forklift Hydraulic Hose Burst During Warehouse Stacking Operation",
+    "investigation_description": "The forklift hydraulic hose replacement schedule used a fixed calendar interval that did not account for elevated wear rates caused by high ambient temperatures at Coimbatore.",
+    "investigator_email": "nisha.iyer@acertech.in",
+    "investigation_outcome": "Direct Cause Identified"
+  },
+  {
+    "investigation_id": "INV_0006",
+    "capa_id": "CAPA_0006",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_02",
+    "investigation_title": "Root Cause Investigation \u2014 Forklift Operator Near Miss \u2014 No Training on Pedestrian Zone Controls",
+    "investigation_description": "The site pedestrian-vehicle segregation training programme used generic content not specific to the dispatch bay layout. No post-training practical competency assessment was conducted.",
+    "investigator_email": "kavya.reddy@acertech.in",
+    "investigation_outcome": "Root Cause Confirmed"
+  },
+  {
+    "investigation_id": "INV_0007",
+    "capa_id": "CAPA_0007",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_05",
+    "investigation_title": "Root Cause Investigation \u2014 Manual Handler Placed Hands Under Pallet During Unstacking",
+    "investigation_description": "No task-specific manual handling training was in place for warehouse pickers. Induction covered generic theory only with no pallet stacking task instruction.",
+    "investigator_email": "pooja.sharma@acertech.in",
+    "investigation_outcome": "Direct Cause Identified"
+  },
+  {
+    "investigation_id": "INV_0008",
+    "capa_id": "CAPA_0008",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_01",
+    "investigation_title": "Root Cause Investigation \u2014 Hot Work Permit Issued by Supervisor Without PTW Authoriser Training",
+    "investigation_description": "The PTW authoriser role was assigned to all shift supervisors without verifying that each supervisor held the required hot work authoriser training and competency.",
+    "investigator_email": "priya.nair@acertech.in",
+    "investigation_outcome": "Root Cause Confirmed"
+  },
+  {
+    "investigation_id": "INV_0009",
+    "capa_id": "CAPA_0009",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_09",
+    "investigation_title": "Root Cause Investigation \u2014 Construction Scaffolder Erected System Type Without Required Certification",
+    "investigation_description": "The subcontractor induction checklist did not require verification of CISRS card type before allowing operatives to erect scaffolding. Card type was assumed from job title rather than verified.",
+    "investigator_email": "lakshmi.murugan@acertech.in",
+    "investigation_outcome": "Root Cause Confirmed"
+  },
+  {
+    "investigation_id": "INV_0010",
+    "capa_id": "CAPA_0010",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_03",
+    "investigation_title": "Root Cause Investigation \u2014 Chemical Operator Added Wrong Reagent Due to Inadequate Label Training",
+    "investigation_description": "Chemical reagent drums used visually similar labels with no colour-coding differentiation. Operator training addressed generic hazard communication but not label disambiguation for this chemical group.",
+    "investigator_email": "anita.pillai@acertech.in",
+    "investigation_outcome": "Root Cause Confirmed"
+  },
+  {
+    "investigation_id": "INV_0011",
+    "capa_id": "CAPA_0011",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_03",
+    "investigation_title": "Root Cause Investigation \u2014 COSHH Assessment Not Updated After Chemical Substitution",
+    "investigation_description": "The chemical substitution approval process had no mandatory COSHH reassessment gate. The EHS team was not included in the substitution approval workflow.",
+    "investigator_email": "anita.pillai@acertech.in",
+    "investigation_outcome": "Root Cause Confirmed"
+  },
+  {
+    "investigation_id": "INV_0012",
+    "capa_id": "CAPA_0012",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_04",
+    "investigation_title": "Root Cause Investigation \u2014 Non-Conforming Components Released Without Deviation Approval",
+    "investigation_description": "The non-conformance procedure did not specify that a formal deviation approval was required before release of components with dimensional deviations. Supervisors were releasing on personal authority.",
+    "investigator_email": "sunita.mehta@acertech.in",
+    "investigation_outcome": "Direct Cause Identified"
+  },
+  {
+    "investigation_id": "INV_0013",
+    "capa_id": "CAPA_0013",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_06",
+    "investigation_title": "Root Cause Investigation \u2014 Quality Hold Bypassed \u2014 Non-Conforming Units Dispatched to Customer",
+    "investigation_description": "The quality hold process allowed supervisor override at dispatch without requiring second-level authorisation or recording the override rationale. The control had a single point of failure.",
+    "investigator_email": "divya.krishnamurthy@acertech.in",
+    "investigation_outcome": "Root Cause Confirmed"
+  },
+  {
+    "investigation_id": "INV_0014",
+    "capa_id": "CAPA_0014",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_08",
+    "investigation_title": "Root Cause Investigation \u2014 Management of Change Not Initiated for Temporary Safety System Bypass",
+    "investigation_description": "The MOC procedure was not communicated to operations supervisors as a mandatory requirement for temporary modifications. The boundary between a temporary measure and a formal change was undefined.",
+    "investigator_email": "rekha.ghosh@acertech.in",
+    "investigation_outcome": "Root Cause Confirmed"
+  },
+  {
+    "investigation_id": "INV_0015",
+    "capa_id": "CAPA_0015",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_11",
+    "investigation_title": "Root Cause Investigation \u2014 Group EHS Policy Not Distributed to Four Recently Appointed Site Managers",
+    "investigation_description": "The Group EHS Policy distribution process relied on site managers self-registering receipt. No push-distribution mechanism or acknowledgement tracking was in place for new manager onboarding.",
+    "investigator_email": "anil.mehta@acertech.in",
+    "investigation_outcome": "Root Cause Confirmed"
+  },
+  {
+    "investigation_id": "INV_0016",
+    "capa_id": "CAPA_0016",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_03",
+    "investigation_title": "Root Cause Investigation \u2014 Solvent Vapour Overexposure Due to Failed LEV System",
+    "investigation_description": "LEV ductwork joints in the degreasing booth used push-fit connections subject to vibration-induced separation. Post-maintenance re-test was limited to flow measurement with no duct integrity check.",
+    "investigator_email": "anita.pillai@acertech.in",
+    "investigation_outcome": "Root Cause Confirmed"
+  },
+  {
+    "investigation_id": "INV_0017",
+    "capa_id": "CAPA_0017",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_07",
+    "investigation_title": "Root Cause Investigation \u2014 Acid Transfer Line Leak at Corroded Flange \u2014 Operator Skin Burn",
+    "investigation_description": "The flange inspection programme for acid-service pipework used a uniform calendar interval. No corrosion rate calculation was performed to assign differentiated intervals based on service severity.",
+    "investigator_email": "meena.agarwal@acertech.in",
+    "investigation_outcome": "Root Cause Confirmed"
+  },
+  {
+    "investigation_id": "INV_0018",
+    "capa_id": "CAPA_0018",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_07",
+    "investigation_title": "Root Cause Investigation \u2014 Flammable Liquid Decanting Without Earth Bonding \u2014 Near Miss",
+    "investigation_description": "The drum decanting SOP did not specify the requirement to earth bond the drum and receiving vessel before opening the drum valve. This step was treated as optional by operators.",
+    "investigator_email": "meena.agarwal@acertech.in",
+    "investigation_outcome": "Direct Cause Identified"
+  },
+  {
+    "investigation_id": "INV_0019",
+    "capa_id": "CAPA_0019",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_07",
+    "investigation_title": "Root Cause Investigation \u2014 Nitrogen Purge Failure Creates Oxygen-Deficient Atmosphere in Vessel",
+    "investigation_description": "The nitrogen purge sequence for Reactor R-006 did not require a continuous oxygen monitoring interlock to prevent vessel entry until the atmosphere was confirmed safe. Entry was controlled by procedure only.",
+    "investigator_email": "meena.agarwal@acertech.in",
+    "investigation_outcome": "Root Cause Confirmed"
+  },
+  {
+    "investigation_id": "INV_0020",
+    "capa_id": "CAPA_0020",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_07",
+    "investigation_title": "Root Cause Investigation \u2014 Chemical Storage Bund Capacity Below 110 Percent Regulatory Minimum",
+    "investigation_description": "Secondary containment for Tank Farm A predated the largest vessel installation and was never recalculated after the capacity upgrade. No periodic bund capacity verification was in the maintenance programme.",
+    "investigator_email": "meena.agarwal@acertech.in",
+    "investigation_outcome": "Root Cause Confirmed"
+  },
+  {
+    "investigation_id": "INV_0021",
+    "capa_id": "CAPA_0021",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_01",
+    "investigation_title": "Root Cause Investigation \u2014 Fire Extinguisher Annual Service Overdue \u2014 Six Units Out of Date",
+    "investigation_description": "The annual fire extinguisher service was managed by a single contractor whose appointment lapsed without a renewal alert. No internal due-date tracking existed for legally-required contractor services.",
+    "investigator_email": "priya.nair@acertech.in",
+    "investigation_outcome": "Root Cause Confirmed"
+  },
+  {
+    "investigation_id": "INV_0022",
+    "capa_id": "CAPA_0022",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_02",
+    "investigation_title": "Root Cause Investigation \u2014 Emergency Exit Partially Obstructed by Stored Pallet Stacks",
+    "investigation_description": "The daily fire escape route inspection checklist did not include a check for clear floor path to emergency exits. Pallet placement by operations staff was not classified as an obstruction risk.",
+    "investigator_email": "kavya.reddy@acertech.in",
+    "investigation_outcome": "Direct Cause Identified"
+  },
+  {
+    "investigation_id": "INV_0023",
+    "capa_id": "CAPA_0023",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_06",
+    "investigation_title": "Root Cause Investigation \u2014 Emergency Lighting Battery Failures Found on Annual Duration Test",
+    "investigation_description": "The emergency lighting battery replacement programme used a fixed 5-year cycle that did not account for shorter battery service life in high-ambient-temperature areas of the electronics plant.",
+    "investigator_email": "divya.krishnamurthy@acertech.in",
+    "investigation_outcome": "Root Cause Confirmed"
+  },
+  {
+    "investigation_id": "INV_0024",
+    "capa_id": "CAPA_0024",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_08",
+    "investigation_title": "Root Cause Investigation \u2014 Sprinkler Quarterly Flow Test Overdue \u2014 No Deferral Approval Recorded",
+    "investigation_description": "The sprinkler maintenance schedule was in a paper logbook not reviewed during a responsible-person handover. The quarterly test fell due during a period when no named responsible person was in post.",
+    "investigator_email": "rekha.ghosh@acertech.in",
+    "investigation_outcome": "Root Cause Confirmed"
+  },
+  {
+    "investigation_id": "INV_0025",
+    "capa_id": "CAPA_0025",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_09",
+    "investigation_title": "Root Cause Investigation \u2014 Emergency Assembly Point Signs Removed During Construction \u2014 No Replacement",
+    "investigation_description": "The hot works permit did not require re-erection of emergency assembly point signage before permit closure. The construction method statement did not identify assembly point visibility as a works requirement.",
+    "investigator_email": "lakshmi.murugan@acertech.in",
+    "investigation_outcome": "Direct Cause Identified"
+  },
+  {
+    "investigation_id": "INV_0026",
+    "capa_id": "CAPA_0026",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_01",
+    "investigation_title": "Root Cause Investigation \u2014 OC-001 Wire Rope Broken Strands Found \u2014 First Documented Recurrence",
+    "investigation_description": "Wire rope inspection was performed visually only. Training-only corrective action provided as sole remedy did not address the absence of a technical inspection standard for internal rope condition.",
+    "investigator_email": "priya.nair@acertech.in",
+    "investigation_outcome": "Root Cause Confirmed"
+  },
+  {
+    "investigation_id": "INV_0027",
+    "capa_id": "CAPA_0027",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_01",
+    "investigation_title": "Root Cause Investigation \u2014 OC-001 Wire Rope Below Discard Criteria \u2014 Second Recurrence",
+    "investigation_description": "Training-only corrective action from prior CAPA did not change inspection method or interval. No reduction in degradation rate was achieved. Absence of discard criteria remained unaddressed.",
+    "investigator_email": "priya.nair@acertech.in",
+    "investigation_outcome": "Root Cause Confirmed"
+  },
+  {
+    "investigation_id": "INV_0028",
+    "capa_id": "CAPA_0028",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_01",
+    "investigation_title": "Root Cause Investigation \u2014 OC-001 Wire Rope Degraded to Failure Before Scheduled Replacement \u2014 Third",
+    "investigation_description": "PM interval shortened from 30 to 21 days but no inspection technique improvement was made. Discard criteria still absent. Prior CAPA actions recorded as ineffective at effectiveness check.",
+    "investigator_email": "priya.nair@acertech.in",
+    "investigation_outcome": "Direct Cause Identified"
+  },
+  {
+    "investigation_id": "INV_0029",
+    "capa_id": "CAPA_0029",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_01",
+    "investigation_title": "Root Cause Investigation \u2014 OC-001 Wire Rope Management Failure \u2014 Fourth Documented Occurrence",
+    "investigation_description": "Fourth occurrence confirms systemic failure of corrective programme. Inspection technique, discard criteria, and PM frequency each addressed in isolation across prior CAPAs but never as an integrated system.",
+    "investigator_email": "priya.nair@acertech.in",
+    "investigation_outcome": "Direct Cause Identified"
+  },
+  {
+    "investigation_id": "INV_0030",
+    "capa_id": "CAPA_0030",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_01",
+    "investigation_title": "Root Cause Investigation \u2014 OC-001 Crane Wire Rope Management System Overhaul \u2014 Active CAPA",
+    "investigation_description": "Fault tree analysis identified absence of condition-based wire rope management as the systemic root cause. Prior CAPAs addressed symptoms without rebuilding the programme to ISO 4309 standard.",
+    "investigator_email": "priya.nair@acertech.in",
+    "investigation_outcome": "Root Cause Confirmed"
+  },
+  {
+    "investigation_id": "INV_0031",
+    "capa_id": "CAPA_0031",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_05",
+    "investigation_title": "Root Cause Investigation \u2014 Forklift-Pedestrian Near Miss at Dispatch Bay B \u2014 First Occurrence",
+    "investigation_description": "Forklift operators received no training specific to the dispatch bay layout. Classroom induction covered generic pedestrian awareness only. No competency test was conducted.",
+    "investigator_email": "pooja.sharma@acertech.in",
+    "investigation_outcome": "Root Cause Confirmed"
+  },
+  {
+    "investigation_id": "INV_0032",
+    "capa_id": "CAPA_0032",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_05",
+    "investigation_title": "Root Cause Investigation \u2014 Forklift Near Miss at Pedestrian Zone \u2014 Second Occurrence Same Location",
+    "investigation_description": "Classroom training delivered after first CAPA but no behavioural competency assessment was conducted. Training records were signed but practical driving behaviour was not observed or verified.",
+    "investigator_email": "pooja.sharma@acertech.in",
+    "investigation_outcome": "Root Cause Confirmed"
+  },
+  {
+    "investigation_id": "INV_0033",
+    "capa_id": "CAPA_0033",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_05",
+    "investigation_title": "Root Cause Investigation \u2014 Forklift Reversed Into Pedestrian Walkway \u2014 Third Occurrence",
+    "investigation_description": "Refresher training from second CAPA focused on knowledge recall rather than behaviour change. No physical controls introduced. Training-only approach proven ineffective across two prior CAPAs.",
+    "investigator_email": "pooja.sharma@acertech.in",
+    "investigation_outcome": "Direct Cause Identified"
+  },
+  {
+    "investigation_id": "INV_0034",
+    "capa_id": "CAPA_0034",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_05",
+    "investigation_title": "Root Cause Investigation \u2014 Forklift Pedestrian Conflict \u2014 Fourth Occurrence Despite Three Prior CAPAs",
+    "investigation_description": "Four near misses at the same location confirm training-only actions cannot control this hazard. Root cause is absence of physical pedestrian segregation, not an operator knowledge deficit.",
+    "investigator_email": "pooja.sharma@acertech.in",
+    "investigation_outcome": "Direct Cause Identified"
+  },
+  {
+    "investigation_id": "INV_0035",
+    "capa_id": "CAPA_0035",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_05",
+    "investigation_title": "Root Cause Investigation \u2014 Forklift Pedestrian Segregation Programme Overhaul \u2014 Active CAPA",
+    "investigation_description": "Bow-tie analysis confirmed absence of physical pedestrian segregation as the primary control gap. Training and signage are inadequate as sole controls for a forklift-pedestrian conflict in an active dispatch area.",
+    "investigator_email": "pooja.sharma@acertech.in",
+    "investigation_outcome": "Root Cause Confirmed"
+  },
+  {
+    "investigation_id": "INV_0036",
+    "capa_id": "CAPA_0036",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_08",
+    "investigation_title": "Root Cause Investigation \u2014 LTI: Welder Sustains Arc Flash Burns \u2014 No Arc Flash Risk Assessment",
+    "investigation_description": "The live panel works procedure did not specify arc flash boundary distance or require arc flash PPE. The risk assessment classified the task as low voltage with no arc flash assessment conducted.",
+    "investigator_email": "rekha.ghosh@acertech.in",
+    "investigation_outcome": "Root Cause Confirmed"
+  },
+  {
+    "investigation_id": "INV_0037",
+    "capa_id": "CAPA_0037",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_01",
+    "investigation_title": "Root Cause Investigation \u2014 LTI: Worker Arm Fracture \u2014 Crane Load Swing Without Lift Plan",
+    "investigation_description": "The crane and lifting procedure did not require a written lift plan for lifts below 500 kg. No exclusion zone establishment requirement existed. Workers approached the load path without restriction.",
+    "investigator_email": "priya.nair@acertech.in",
+    "investigation_outcome": "Root Cause Confirmed"
+  },
+  {
+    "investigation_id": "INV_0038",
+    "capa_id": "CAPA_0038",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_09",
+    "investigation_title": "Root Cause Investigation \u2014 LTI: Worker Struck by Reversing Excavator on Construction Site",
+    "investigation_description": "The site traffic management plan did not designate the excavation zone as a plant-exclusion area for pedestrians. Banksman duties were unassigned during the reverse manoeuvre phase of the operation.",
+    "investigator_email": "lakshmi.murugan@acertech.in",
+    "investigation_outcome": "Root Cause Confirmed"
+  },
+  {
+    "investigation_id": "INV_0039",
+    "capa_id": "CAPA_0039",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_11",
+    "investigation_title": "Root Cause Investigation \u2014 ISO 45001 Internal Audit Finds Management Review Not Documented",
+    "investigation_description": "The ISO 45001 management review procedure specified a review must be conducted annually but did not define minimum outputs, required agenda items, or record format. Reviews were conducted informally.",
+    "investigator_email": "anil.mehta@acertech.in",
+    "investigation_outcome": "Root Cause Confirmed"
+  },
+  {
+    "investigation_id": "INV_0040",
+    "capa_id": "CAPA_0040",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_id": "SITE_04",
+    "investigation_title": "Root Cause Investigation \u2014 NCR: CAPA Closure Rate Below 80 Percent \u2014 Customer Audit Finding",
+    "investigation_description": "No escalation process existed for CAPAs approaching or exceeding their target closure dates. CAPA owners were not prompted when due dates were missed and overdue items had no management visibility.",
+    "investigator_email": "sunita.mehta@acertech.in",
+    "investigation_outcome": "Direct Cause Identified"
+  }
+]

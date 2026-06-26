@@ -1,0 +1,24 @@
+REGULATORY REFERENCE: REG-ISO45001-002
+Standard: ISO 45001:2018 — Occupational Health and Safety Management Systems
+Clause: 5 — Leadership and Worker Participation
+Version: First Edition 2018-03
+Issuing Body: International Organisation for Standardisation (ISO)
+
+CLAUSE SUMMARY
+Clause 5 assigns specific OH&S accountabilities to top management, requires a stated OH&S policy, defines roles and responsibilities, and mandates genuine worker consultation and participation in the OH&S management system.
+
+CLAUSE 5.1 — LEADERSHIP AND COMMITMENT
+Top management must demonstrate leadership and commitment by: taking overall responsibility for the OH&S management system; ensuring OH&S policy and objectives are established and compatible with the strategic direction; ensuring integration of OH&S into business processes; providing resources; communicating the importance of OH&S; directing persons to report incidents, hazards, risks, and opportunities; ensuring the system achieves intended outcomes; promoting continual improvement; and supporting relevant management roles in demonstrating leadership.
+
+CLAUSE 5.2 — OH&S POLICY
+Top management must establish, implement, and maintain an OH&S policy that: includes a commitment to provide safe and healthy working conditions; is appropriate to the organisation's purpose, size, and context; provides a framework for setting OH&S objectives; commits to fulfilment of legal and other requirements; commits to elimination of hazards and reduction of OH&S risks; commits to continual improvement; commits to consultation and participation of workers. Policy is documented, communicated, available to interested parties, and reviewed periodically.
+
+CLAUSE 5.3 — ORGANISATIONAL ROLES, RESPONSIBILITIES, AND AUTHORITIES
+Top management must assign and communicate responsibility and authority for: ensuring the OH&S management system conforms to the requirements of this document; reporting on OH&S management system performance to top management.
+
+CLAUSE 5.4 — CONSULTATION AND PARTICIPATION OF WORKERS
+Workers at all levels and functions must be consulted and encouraged to participate in: development, planning, implementation, and evaluation of the OH&S management system; hazard identification and risk assessment; incident investigation; development of policies and objectives; identification of legal requirements; planning actions to address identified issues; determining controls; investigating incidents; identifying improvement opportunities.
+Consultation is not just information-sharing — workers must have the opportunity to provide input and their input must be considered. Non-management workers have additional rights: time and resources to participate; access to relevant OH&S information; identification and removal of obstacles to participation.
+
+REQUIREMENTS FOR CORRECTIVE ACTION
+Audit findings showing: leadership not demonstrating commitment (OH&S absent from management meetings), policy not communicated to workers, worker consultation not occurring — these are major non-conformities requiring root cause analysis and corrective action at the management system level (root cause category: Management System Weakness).

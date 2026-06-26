@@ -1,0 +1,33 @@
+REGULATORY REFERENCE: REG-ISO45001-008
+Standard: ISO 45001:2018 — Occupational Health and Safety Management Systems
+Clause: 10 — Improvement
+Version: First Edition 2018-03
+Issuing Body: International Organisation for Standardisation (ISO)
+
+CLAUSE SUMMARY
+Clause 10 establishes requirements for reacting to incidents and nonconformities, conducting root cause analysis, taking corrective action, and driving continual improvement. It is the primary standard clause requiring the CAPA process.
+
+CLAUSE 10.1 — GENERAL
+The organisation must determine and select opportunities for improvement and implement any necessary actions to achieve intended outcomes of the OH&S management system.
+
+CLAUSE 10.2 — INCIDENT, NONCONFORMITY, AND CORRECTIVE ACTION
+
+When an incident or nonconformity occurs, the organisation must:
+a) React in a timely manner to the incident or nonconformity — take action to control and correct it and deal with the consequences.
+b) Evaluate, with the participation of workers and the involvement of other relevant interested parties, the need for corrective action to eliminate the root causes of the incident or nonconformity, in order that it does not recur or occur elsewhere: by investigating the incident or reviewing the nonconformity; by determining the causes of the incident or nonconformity; by determining if similar incidents have occurred, if nonconformities exist, or if they could potentially occur.
+c) Review existing assessments of OH&S risks and other risks, as appropriate.
+d) Determine and implement any action needed, including corrective action, in accordance with the hierarchy of controls (Clause 8.1.2).
+e) Assess OH&S risks that relate to new or changed hazards, prior to taking action.
+f) Review the effectiveness of any action taken, including corrective action.
+g) If necessary, make changes to the OH&S management system.
+
+Actions must be appropriate to the effects or potential effects of the incidents or nonconformities encountered. Corrective actions that do not address root causes are non-compliant with this clause.
+
+DOCUMENTED INFORMATION REQUIREMENTS
+The organisation must retain documented information as evidence of: the nature of the incidents or nonconformities and any subsequent actions taken; the results of any corrective action, including its effectiveness.
+
+CLAUSE 10.3 — CONTINUAL IMPROVEMENT
+The organisation must continually improve the suitability, adequacy, and effectiveness of the OH&S management system by: enhancing OH&S performance; promoting a culture that supports the OH&S management system; promoting the participation of workers; communicating relevant results of continual improvement to workers; maintaining and retaining documented information as evidence of continual improvement.
+
+REQUIREMENTS FOR CORRECTIVE ACTION
+Clause 10.2 is the source clause for the CAPA system. Every corrective action in the system must trace to either an incident, near miss, audit finding, or observation. Key compliance requirements: root cause must be identified and documented; corrective action must address the root cause (not just the symptom); effectiveness must be verified and recorded. Failure to complete effectiveness checks on corrective actions is a direct Clause 10.2(f) non-conformity.

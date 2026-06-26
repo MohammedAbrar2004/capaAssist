@@ -1,0 +1,58 @@
+[
+  {
+    "category_id": "CAT_EQUIPMENT_FAULT",
+    "tenant_id": "TENANT_ACERTECH",
+    "category_name": "Equipment Fault",
+    "category_description": "Failure or malfunction of plant, machinery, or equipment due to wear, defect, or inadequate maintenance.",
+    "created_by": "anil.mehta@acertech.in"
+  },
+  {
+    "category_id": "CAT_TRAINING_GAP",
+    "tenant_id": "TENANT_ACERTECH",
+    "category_name": "Training Gap",
+    "category_description": "Incident or nonconformity arising from missing, incomplete, or unverified competency/training.",
+    "created_by": "anil.mehta@acertech.in"
+  },
+  {
+    "category_id": "CAT_PROCESS_FAILURE",
+    "tenant_id": "TENANT_ACERTECH",
+    "category_name": "Process Failure",
+    "category_description": "Breakdown in a defined procedure or workflow \u2014 steps skipped, controls bypassed, or the process not followed.",
+    "created_by": "anil.mehta@acertech.in"
+  },
+  {
+    "category_id": "CAT_MISSING_INSPECTION",
+    "tenant_id": "TENANT_ACERTECH",
+    "category_name": "Missing Inspection",
+    "category_description": "A required inspection, test, or verification was overdue, skipped, or not recorded.",
+    "created_by": "anil.mehta@acertech.in"
+  },
+  {
+    "category_id": "CAT_ENGINEERING_CONTROL_GAP",
+    "tenant_id": "TENANT_ACERTECH",
+    "category_name": "Engineering Control Gap",
+    "category_description": "Absent or inadequate engineered safeguard (guarding, ventilation, containment, interlock).",
+    "created_by": "anil.mehta@acertech.in"
+  },
+  {
+    "category_id": "CAT_MANAGEMENT_SYSTEM_WEAKNESS",
+    "tenant_id": "TENANT_ACERTECH",
+    "category_name": "Management System Weakness",
+    "category_description": "Deficiency in the governing system \u2014 policy, MOC, document control, oversight, or accountability.",
+    "created_by": "anil.mehta@acertech.in"
+  },
+  {
+    "category_id": "CAT_HUMAN_ERROR",
+    "tenant_id": "TENANT_ACERTECH",
+    "category_name": "Human Error",
+    "category_description": "Action slip, lapse, or mistake by an individual despite adequate systems and training.",
+    "created_by": "anil.mehta@acertech.in"
+  },
+  {
+    "category_id": "CAT_ENVIRONMENTAL_FACTOR",
+    "tenant_id": "TENANT_ACERTECH",
+    "category_name": "Environmental Factor",
+    "category_description": "Contributing conditions from the working environment (weather, lighting, temperature, housekeeping).",
+    "created_by": "anil.mehta@acertech.in"
+  }
+]

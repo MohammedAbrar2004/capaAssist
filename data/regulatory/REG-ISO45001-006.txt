@@ -1,0 +1,35 @@
+REGULATORY REFERENCE: REG-ISO45001-006
+Standard: ISO 45001:2018 — Occupational Health and Safety Management Systems
+Clause: 8.2 — Emergency Preparedness and Response
+Version: First Edition 2018-03
+Issuing Body: International Organisation for Standardisation (ISO)
+
+CLAUSE SUMMARY
+Clause 8.2 requires the organisation to establish, implement, and maintain processes needed to prepare for and respond to potential emergency situations as identified in Clause 6.1. It also requires periodic testing and review of emergency procedures.
+
+REQUIREMENTS
+The organisation must:
+a) Establish a planned response to emergency situations, including provision of first aid.
+b) Provide training for the planned response.
+c) Periodically test and exercise the emergency response capability.
+d) Evaluate and, where necessary, revise the planned response, in particular after testing and after the occurrence of emergency situations.
+e) Communicate and provide relevant information to all workers regarding their duties and responsibilities.
+f) Communicate relevant information to contractors, visitors, emergency response services, government authorities, and, as appropriate, the local community.
+g) Take into account the needs and capabilities of all relevant interested parties and ensure their involvement in the development of the planned response.
+
+EMERGENCY SCENARIOS TYPICALLY REQUIRED
+Based on ISO 45001 Annex A guidance and site-specific hazard profiles for manufacturing and chemical processing:
+- Major fire or explosion
+- Chemical release or toxic gas release
+- Structural failure or collapse
+- Multiple casualty incident
+- Flood, earthquake, or severe weather (site geography dependent)
+- Loss of utility (power, water) affecting safety-critical systems
+- Bomb threat or security incident
+- Pandemic or mass illness affecting emergency response capability
+
+DRILL AND TESTING REQUIREMENTS
+Emergency drills must be: planned in advance; conducted at the frequency determined by the risk assessment (minimum annually for fire and chemical releases); evaluated against defined success criteria; findings documented; deficiencies addressed through CAPA. Unannounced drills are acceptable and provide more realistic performance data.
+
+REQUIREMENTS FOR CORRECTIVE ACTION
+An inadequate or failed emergency response — including failure to evacuate in time, failure to stop the source, failure to notify emergency services, or failure to provide first aid — indicates a gap in emergency preparedness. Root cause analysis must determine whether the gap was: training (Clause 7.2); procedure (Clause 8.1); resources (Clause 7.1); or planning (Clause 6.1). Corrective actions must address the specific emergency scenario that failed, and preventive actions must consider whether the same gap exists for other emergency scenarios. Root cause category: Management System Weakness or Training Gap.

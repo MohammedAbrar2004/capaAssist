@@ -1,0 +1,31 @@
+REGULATORY REFERENCE: REG-OSHA1910-003
+Standard: OSHA 29 CFR 1910.178
+Title: Powered Industrial Trucks
+Issuing Body: Occupational Safety and Health Administration, US Department of Labor
+Applicability to AcerTech: Best-practice reference for forklift safety programme across all warehouse and logistics sites
+
+PURPOSE OF THE STANDARD
+29 CFR 1910.178 establishes safety requirements for powered industrial trucks (PITs), including forklifts, pallet jacks, order pickers, and other similar equipment. Forklift accidents cause approximately 85 fatalities and 35,000 serious injuries annually in the US — pedestrian struck-by events account for the highest proportion of fatalities.
+
+OPERATOR TRAINING AND EVALUATION
+
+Training Content (1910.178(l)(3)) — Operators must receive training that includes:
+Truck-related topics: Operating instructions and warnings; differences between a truck and an automobile; truck controls and instrumentation; steering and manoeuvring; visibility, fork and attachment functions; vehicle capacity and stability; vehicle inspection and maintenance; refuelling and battery charging.
+Workplace-related topics: Surface conditions; composition of loads and load stability; load manipulation, stacking, and unstacking; pedestrian traffic; narrow aisles and other restricted areas; hazardous locations; ramps and slopes.
+
+Evaluation (1910.178(l)(4)): Employer must certify that each operator has been trained and evaluated as competent. Evaluation must be conducted by a person with the knowledge, training, and experience to train operators and evaluate their competence.
+
+Refresher training and re-evaluation required when: operator observed operating unsafely; involved in an accident or near-miss; evaluation indicates unsafe operation; new type of truck; different workplace conditions.
+
+PRE-SHIFT INSPECTION (1910.178(q))
+Industrial trucks must be examined before being placed in service at the start of each shift and at intervals during use. Defects affecting safety must be reported immediately and corrected before continued use. Examination must cover: brake system, steering mechanism, control mechanisms, warning devices, mast, tires, horns, lights, battery, and attachment.
+
+SAFE OPERATION REQUIREMENTS
+Speed: Trucks must be operated at safe speeds at all times. No travelling under elevated loads.
+Pedestrians: Pedestrians must be given the right of way. Horn sounded at blind corners and doorways.
+Capacity: No load exceeding the rated capacity. Load centre distance to be verified.
+Stability: No driving with elevated loads. Forks as low as possible for travel.
+Ramps: No turning on ramps. Load placed on uphill side when travelling on ramps.
+
+APPLICABILITY TO ACERTECH CAPA SYSTEM
+Forklift incidents at warehouse and manufacturing sites: pedestrian struck, racking struck, load dropped, tip-over. Root cause analysis: Training Gap (operator not trained on specific truck type or site hazards), Process Failure (pre-use inspection not completed), Engineering Control Gap (pedestrian segregation absent), Human Error (operating at excessive speed or with elevated load). Corrective actions must address the specific failure mode — not just operator retraining.

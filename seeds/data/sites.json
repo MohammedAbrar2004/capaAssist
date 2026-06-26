@@ -1,0 +1,79 @@
+[
+  {
+    "site_id": "SITE_01",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_name": "Chennai Heavy Manufacturing Plant",
+    "status_id": "STATUS_ACTIVE",
+    "meta": "Heavy fabrication and assembly plant; overhead cranes, hot work, and machine-guarding hazards dominate."
+  },
+  {
+    "site_id": "SITE_02",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_name": "Mumbai Central Warehouse",
+    "status_id": "STATUS_ACTIVE",
+    "meta": "Central distribution warehouse; forklift-pedestrian conflict and racking/manual-handling hazards."
+  },
+  {
+    "site_id": "SITE_03",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_name": "Hyderabad Chemical Processing Unit",
+    "status_id": "STATUS_ACTIVE",
+    "meta": "Chemical blending and packaging unit; vapour exposure, flammable liquids, and process-safety hazards."
+  },
+  {
+    "site_id": "SITE_04",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_name": "Pune Precision Manufacturing Plant",
+    "status_id": "STATUS_ACTIVE",
+    "meta": "CNC machining and finishing plant; machine guarding, coolant exposure, and noise hazards."
+  },
+  {
+    "site_id": "SITE_05",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_name": "Delhi Distribution Center",
+    "status_id": "STATUS_ACTIVE",
+    "meta": "High-throughput logistics hub; forklift-pedestrian hazards and shift-fatigue risk."
+  },
+  {
+    "site_id": "SITE_06",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_name": "Bengaluru Electronics Manufacturing Plant",
+    "status_id": "STATUS_ACTIVE",
+    "meta": "PCB assembly and electronics test; solder fume, ESD, and clean-room environmental controls."
+  },
+  {
+    "site_id": "SITE_07",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_name": "Ahmedabad Chemical Processing Unit",
+    "status_id": "STATUS_ACTIVE",
+    "meta": "Bulk chemical transfer and storage; PSM, vapour-cloud, pressure-system, and HAZMAT hazards."
+  },
+  {
+    "site_id": "SITE_08",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_name": "Kolkata Heavy Manufacturing Plant",
+    "status_id": "STATUS_ACTIVE",
+    "meta": "Structural steel fabrication and pressure-vessel work; hot work, heavy lifting, and confined-space hazards."
+  },
+  {
+    "site_id": "SITE_09",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_name": "Chennai North Construction Site",
+    "status_id": "STATUS_ACTIVE",
+    "meta": "Active civil construction site; working at heights, excavation, mobile plant, and subcontractor oversight."
+  },
+  {
+    "site_id": "SITE_10",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_name": "Coimbatore Regional Distribution Center",
+    "status_id": "STATUS_ACTIVE",
+    "meta": "Regional warehouse; forklift, racking-integrity, and manual-handling hazards."
+  },
+  {
+    "site_id": "SITE_11",
+    "tenant_id": "TENANT_ACERTECH",
+    "site_name": "Mumbai Corporate Office",
+    "status_id": "STATUS_ACTIVE",
+    "meta": "Group corporate office; EHS governance, training oversight, and office/evacuation hazards."
+  }
+]

@@ -1,0 +1,45 @@
+SOP ID: SOP-EHS-001
+Title: Lockout/Tagout (LOTO) — Control of Hazardous Energy
+Version: 3.2
+Effective Date: 2024-01-15
+Review Date: 2026-01-15
+Owner: Group EHS
+Applicable Sites: All manufacturing and processing sites (Sites 1, 3, 4, 6, 7, 8)
+Regulatory Reference: ISO 45001:2018 Clause 8.1.2; OSHA 29 CFR 1910.147
+
+PURPOSE
+To prevent the unexpected energization, startup, or release of stored energy during servicing or maintenance of equipment.
+
+SCOPE
+Applies to all employees, contractors, and visitors performing servicing or maintenance on equipment where unexpected startup could cause injury. Covers electrical, hydraulic, pneumatic, thermal, gravitational, and chemical energy sources.
+
+RESPONSIBILITIES
+- Maintenance Supervisor: Ensures LOTO procedures are written for all applicable equipment; authorizes trained authorized employees.
+- EHS Officer: Audits LOTO compliance monthly; investigates any LOTO near miss or violation.
+- Authorized Employee: Applies LOTO devices; verifies zero energy state before work begins.
+- Affected Employee: Informed of LOTO activity in their work area; must not operate locked-out equipment.
+
+PROCEDURE
+Step 1 — Notify: Inform all affected employees that equipment will be de-energized. Post area warning.
+Step 2 — Identify: Review equipment-specific LOTO procedure. Identify all energy isolation points (electrical isolators, pneumatic shut-offs, hydraulic dump valves, gravity restraints).
+Step 3 — Shut Down: Follow normal stopping procedure to bring equipment to a safe stop.
+Step 4 — Isolate: Operate all energy isolation devices to the off, closed, or blocked position.
+Step 5 — Apply Devices: Apply a personal padlock and tag to each isolation point. Each authorized employee applies their own lock. Never share a lock.
+Step 6 — Release Stored Energy: Discharge or restrain residual energy — bleed pneumatic lines, release spring tension, block suspended loads, discharge capacitors, drain pressurized fluids.
+Step 7 — Verify Zero Energy: Attempt to start equipment using normal controls. Verify using a calibrated test instrument (voltmeter, pressure gauge). Confirm zero energy at each isolation point.
+Step 8 — Perform Work: Proceed with maintenance or servicing task.
+Step 9 — Restore: Remove tools and materials. Remove personal locks only. Notify affected employees before re-energizing. Remove LOTO devices in reverse order of application.
+
+GROUP LOCKOUT (Multiple Authorized Employees)
+A group lockout hasp must be used. Each authorized employee attaches their personal lock to the hasp. The last lock removed is the primary authorized employee's lock. All employees must confirm clear before the primary employee removes the hasp.
+
+EXCEPTIONS
+Short-duration minor servicing with continuous visual contact and no exposure to hazardous energy (e.g., clearing a jam with guarding in place) may use alternative protection — this must be documented in the task-specific safe system of work. LOTO is mandatory for all other tasks.
+
+INSPECTION AND RECORD-KEEPING
+- Annual LOTO procedure review for each piece of equipment.
+- Monthly compliance spot checks by EHS Officer — log on EHS-FORM-017.
+- LOTO training records maintained in HR system; refresher every 3 years or following an incident.
+
+FAILURE TO COMPLY
+Violation of this SOP constitutes a serious safety breach. Immediate suspension from maintenance duties pending investigation. Repeated violations result in permanent removal from authorized employee status.

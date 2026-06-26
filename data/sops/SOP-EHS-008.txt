@@ -1,0 +1,64 @@
+SOP ID: SOP-EHS-008
+Title: Personal Protective Equipment (PPE) Selection, Issue, and Use
+Version: 3.5
+Effective Date: 2024-01-01
+Review Date: 2026-01-01
+Owner: Group EHS
+Applicable Sites: All sites
+Regulatory Reference: ISO 45001:2018 Clause 8.1.2; PPE at Work Regulations 1992; OSHA 29 CFR 1910.132
+
+PURPOSE
+To ensure the correct PPE is selected, issued, fitted, maintained, and replaced to protect employees from residual hazards after elimination and engineering controls have been applied.
+
+SCOPE
+All employees, contractors, and visitors at AcerTech sites where PPE is required. PPE must be the last resort in the hierarchy of controls, not the first response to a hazard.
+
+HIERARCHY OF CONTROLS REMINDER
+PPE does not eliminate hazards. Supervisors must document that elimination, substitution, engineering, and administrative controls were considered before PPE is specified as the primary control.
+
+PPE SELECTION PROCESS
+Step 1: Identify hazard and exposure level from risk assessment.
+Step 2: Determine required protection standard (CE category, ANSI rating, or equivalent).
+Step 3: Select from the approved PPE register (maintained by Group EHS and updated annually).
+Step 4: Conduct fit testing where required (RPE, hearing protection, eyewear).
+Step 5: Issue with user training before first use.
+
+MANDATORY SITE PPE (minimum standard for all persons entering operational areas)
+- Safety footwear: S3 category (steel toe, steel midsole, ankle support)
+- High-visibility vest or jacket: EN ISO 20471 Class 2 minimum (all sites with vehicle movements)
+- Safety helmet: EN 397; replaced every 5 years or after impact
+
+TASK-SPECIFIC PPE MATRIX
+Eye/Face Protection:
+  - Chemical splash risk: Indirect-vent goggles + face shield
+  - Grinding/cutting: EN 166 safety spectacles with side shields; face shield for cut-off disc work
+  - Welding: Auto-darkening welding helmet (minimum shade 10)
+
+Respiratory Protection (RPE):
+  - Dust (organic, mineral): P3 half-mask or powered air purifying respirator (PAPR); annual fit test
+  - Chemical vapours: Gas filter half-mask — filter type matched to chemical per SDS; annual fit test
+  - Confined space / unknown atmosphere: Self-contained breathing apparatus (SCBA) only; 6-monthly fit test
+  - RPE requires fit test record and medical assessment for negative pressure respirators
+
+Hand Protection:
+  - Chemical handling: Nitrile minimum 0.3 mm; consult SDS for specific chemical compatibility
+  - Cut risk: EN 388 cut level C or above for bladed operations
+  - Heat/welding: EN 407 rated gloves; no synthetic gloves near ignition sources
+  - Electrical (HV): Insulated rubber gloves with leather over-gloves, voltage-rated
+
+Hearing Protection:
+  - Above 80 dB(A): Protection available and recommended
+  - Above 85 dB(A): Protection mandatory; minimum SNR 20
+  - Above 100 dB(A): Double protection (ear muff over ear plug)
+
+PPE INSPECTION AND REPLACEMENT
+Pre-use inspection by user before each task. Reject if: damaged, degraded, expiry date passed, or filter saturation (RPE).
+Detailed inspection by supervisor: monthly for high-risk PPE (SCBA, chemical gloves); quarterly for standard items.
+Replace on request — no PPE is reused if integrity is in doubt.
+Records: Issue, fit test, and inspection records maintained per employee in HR system.
+
+VISITOR PPE
+Site visitors must be provided with minimum site PPE before entering operational areas. Visitor PPE kit maintained at site reception. Visitor briefed on PPE requirement during site induction (maximum 5 minutes).
+
+CONTRACTOR PPE
+Contractors must provide their own PPE to the same or higher standard as AcerTech requirements. Spot-checks by Site EHS Officer; non-compliant contractors removed from site pending corrective action.
